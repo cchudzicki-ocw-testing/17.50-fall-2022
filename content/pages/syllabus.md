@@ -33,7 +33,7 @@ Readings are listed under the specific session for which they are required. Ther
 
 See the {{% resource_link "5766748f-26ce-4690-8413-aba30fb6b353" "Readings" %}} section for further detail.
 
-#### Recommended novels, films, and TV
+#### Recommended Novels, Films, and TV
 
 There are a lot of terrific films and novels out there with a political theme.
 
@@ -43,11 +43,9 @@ This subject is designed so that there is extensive class participation. The fir
 
 I’d ask that you be prepared to participate actively and intelligently in class throughout the semester. For some people, that may mean pushing yourself to talk more than feels instinctively comfortable; for others it may mean holding yourself back. If participation becomes unbalanced, I may “cold call” people.
 
-In formal presentations, there is a strict time limit, so be sure to practice and to time yourself ahead of time; you should make sure to frame your question clearly in the beginning and then move on swiftly to your main points. ***A list of hints for making good presentations is posted on the website***; please go through it before our talk to make sure you have not missed anything. In  
-general, everyone in a breakout group must present.
+In formal presentations, there is a strict time limit, so be sure to practice and to time yourself ahead of time; you should make sure to frame your question clearly in the beginning and then move on swiftly to your main points. ***A list of hints for making good presentations is posted on the website***; please go through it before our talk to make sure you have not missed anything. In general, everyone in a breakout group must present.
 
-Several class sessions are devoted to breakout groups. We will check informally throughout the semester to make sure that everyone is pulling their weight in the breakout groups and adjust participation grades accordingly. If you are concerned that your group cannot reach consensus on any point, you should not try to force one. Rather, use the division in your group to sharpen  
-your argumentation and to highlight the pros and cons of different options. Basically, imagine that you are teeing the issue up for a decision-maker.
+Several class sessions are devoted to breakout groups. We will check informally throughout the semester to make sure that everyone is pulling their weight in the breakout groups and adjust participation grades accordingly. If you are concerned that your group cannot reach consensus on any point, you should not try to force one. Rather, use the division in your group to sharpen your argumentation and to highlight the pros and cons of different options. Basically, imagine that you are teeing the issue up for a decision-maker.
 
 #### Grading Policy
 
@@ -76,3 +74,5 @@ Final exam
 {{< tdclose >}}{{< tdopen >}}
 15%
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+
+For more information on the activities in the table, see the {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section.
