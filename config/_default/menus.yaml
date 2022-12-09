@@ -15,3 +15,7 @@ leftnav:
   name: Lecture Slides
   url: /pages/lecture-slides
   weight: 40
+- identifier: 268c54ed-52cd-447f-af68-583785b4440f
+  name: Assignments
+  url: /pages/assignments
+  weight: 50
