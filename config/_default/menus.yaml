@@ -3,3 +3,7 @@ leftnav:
   name: Syllabus
   url: /pages/syllabus
   weight: 10
+- identifier: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
