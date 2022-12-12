@@ -109,6 +109,6 @@ My classroom is meant to be a welcoming and comfortable environment. However, it
 
 - Per MIT norms, MIT’s [codes of conduct](https://handbook.mit.edu/privacy), and Massachusetts state law, ***do not under any circumstances make video or audio recordings of class sessions.*** ***I cannot emphasize this stricture strongly enough.***
 - Please do not use any electronic devices during class.
-- You should feel free to have water with you, ***but do not eat in class*****.**
+- You should feel free to have water with you, ***but do not eat in class.***
 
 Historically, most students have called me “Professor Lawson”, but some have called me by my first name (“Chappell” -- pronounced like “chapel” -- or “Chap”), and the trend is in that direction. It’s up to you. Of course, you should also free to address me as “*Jefe*”, “Lawson-Zi”, or “*Dominus et Deus*” if you wish to more or less ensure getting extra credit.
