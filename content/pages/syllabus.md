@@ -76,3 +76,19 @@ Final exam
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 For more information on the activities in the table, see the {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section.
+
+#### Other Engagements
+
+*Informal One-On-Ones*
+
+I’d enjoy the opportunity to meet one-on-one with each of you, for perhaps fifteen minutes, during the first half of the semester (in person or by Zoom). These meetings are designed to provide some informal, “get-to-know-each other” interaction unrelated to course content. They are a supplement to office hours, not a replacement for them; I hope you will still avail yourself of office hours with me or the TA for questions related to the class.
+
+*Gab sessions / Cocktails / Mocktails*
+
+I will hold an *entirely optional* and *informal* gab session by Zoom most weeks, usually on Friday afternoons. To emphasize the informal nature of these conversations, please feel free to bring food and any beverage of your choice that you are legally allowed to consume. (I will almost certainly have a beverage in hand, and I am legally allowed to consume anything.) Drop in via Zoom when you like and leave whenever you like, without explanation or apology.
+
+All topics, including current events and heretical questions, are fair game during these sessions. For instance, one of my favorite questions from last year was “What sort of political system do you think extraterrestrials would have?”. In the absence of questions or a noteworthy event, I have listed some possible conversation starters for each week.
+
+In the classroom, I obviously keep my personal opinions to myself. If you just attend classes and do no background research on me (positions I have held in government, campaign donations, party affiliation as listed on the voter rolls, public presentations I have given outside MIT, media appearances, etc.), you should be able to go the whole semester without being able to guess my political views or partisan leanings. In these informal gab sessions, however, I may sometimes speak in my own voice. Do not let any of the opinions I express in these instances – whether you agree with them or not – influence how you approach the regular class; in other words, you may have to compartmentalize information that you serendipitously acquire in these conversations.
+
+I may occasionally invite some interesting friends to drop by. If any guests are present, the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) also applies: nothing people say may be attributed to them specifically, and you may not mention that they attended the session.
