@@ -18,7 +18,29 @@ Introduction
 {{< tdclose >}}{{< tdopen >}}
 Course syllabus
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+
 **Topic 1:  State and government**
+
+*Recommended films, TV, or novels for the week related to the state (or lack thereof):*
+
+[*Deadwood, Season 1, Episode 1*](https://www.imdb.com/title/tt0556296/?ref_=ttep_ep1)*.* Directed by Walter Hill. Color, 62 min. 2004.
+
+Golding, William. *Lord of the Flies.* Penguin Books, 2003. ISBN: ‎9780399501487. \[Preview with [Google Books](https://www.google.com/books/edition/Lord_of_the_Flies/3C-4dsIGlEgC?hl=en&gbpv=1)\]
+
+[*Hotel Rwanda*](https://www.imdb.com/title/tt0395169/?ref_=fn_al_tt_1)*.* Directed by Terry George. Color, 121 min*.* 2004.
+
+[*The Killing Fields*](https://www.imdb.com/title/tt0087553/?ref_=fn_al_tt_3). Directed by Roland Joffé. Color, 141 min. 1984.
+
+Orwell, George. *1984.* epubli, 2021. ISBN: 9783753145136. \[Preview with [Google Books](https://www.google.com/books/edition/Nineteen_Eighty_Four/PEpoEAAAQBAJ?hl=en&gbpv=1)\]
+
+Lowry, Lois. *The Giver.* Houghton Mifflin Harcourt, 2014. ISBN: 9780544340688. \[Preview with [Google Books](https://www.google.com/books/edition/The_Giver/Coi9AwAAQBAJ?hl=en&gbpv=1)\]
+
+[*Burn!*](https://www.imdb.com/title/tt0064866/?ref_=fn_al_tt_6) 
+
+Directed by 
+
+Gillo Pontecorvo. Color, 112 min. 1969.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
