@@ -17,9 +17,11 @@ KEY DUE DATES
 
 Introduction
 
-- *Review of syllabus. Introductions (who you are and what you want to get out of the class)*
-- *Pop quiz*
-- *Overview of readings for next week*
+*Review of syllabus. Introductions (who you are and what you want to get out of the class)*
+
+*Pop quiz*
+
+*Overview of readings for next week*
 
 *No recitation this week*
 
@@ -39,10 +41,13 @@ Introduction
 
 The state and its discontents (1)
 
-- *Introductions of any newcomers*
-- *Pop Quiz Q1*
-- *Lecture: What is a state, and why have one? (Part 1)*
-- *Reminder on Map Test*
+*Introductions of any newcomers*
+
+*Pop Quiz Q1*
+
+*Lecture: What is a state, and why have one? (Part 1)*
+
+*Reminder on Map Test*
 
 *Recitation*
 
@@ -59,20 +64,22 @@ The state and its discontents (1)
 
 The state and its discontents (2)
 
-- Random anecdoteTM: Montezuma’s instructions to his messenger, in delivery of a letter to Hernán Cortés at Veracruz.
-- Lecture: What is a state and why have one? (Part II) How were states originally created?
-- Nasty things states do. Better no state than a bad state?
-- Can we make the state “smaller”?
+*Random anecdoteTM: Montezuma’s instructions to his messenger, in delivery of a letter to Hernán Cortés at Veracruz.*
 
-*By next recitation: 
+*Lecture: What is a state and why have one? (Part II) How were states originally created?*
 
-Prepare for Map Test*
+*Nasty things states do. Better no state than a bad state?*
 
-*By session 4:* 
+*Can we make the state “smaller”?*
 
-*Register to vote. Please confirm via the class website that you have registered. If you are a citizen of a country without absentee balloting, you should write a short email to an official from your country inquiring into the rationale for the lack of absentee balloting, or forwarding the message to the TA afterwards. If you are from a country where elections are meaningless or where writing a government official with such a query might get you into trouble, or if you have some other principled objection to registering to vote, talk with the TA or me about how to fulfill this assignment in a way that takes a similar amount of time.*
+*By next recitation:*
 
-*Schedule your (optional) one-on-one meeting with me, assuming you wish to schedule one.*
+- Prepare for Map Test
+
+*By session 4:*
+
+- *Register to vote. Please confirm via the class website that you have registered. If you are a citizen of a country without absentee balloting, you should write a short email to an official from your country inquiring into the rationale for the lack of absentee balloting, or forwarding the message to the TA afterwards. If you are from a country where elections are meaningless or where writing a government official with such a query might get you into trouble, or if you have some other principled objection to registering to vote, talk with the TA or me about how to fulfill this assignment in a way that takes a similar amount of time.*
+- *Schedule your (optional) one-on-one meeting with me, assuming you wish to schedule one.*
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -81,7 +88,78 @@ Prepare for Map Test*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
+
 Making rules and the state in countries that are “born free”
+
+*Random anecdoteTM: Approved undergarments in a Japanese high school.*
+
+*Born free versus something else*
+
+*Introduction to the (fictitious) island nation of Compostela*
+
+- *Backup rainwater catchment versus coastal defense?*
+- *Who should pay for public services?*
+
+*The problem of rights, numbers, and intensities (a.k.a., the James Madison problem):*
+
+- *What to do when majorities trump minorities with intense preferences on “ordinary” issues? (e.g., trade policy)*
+- *Possible solutions within democracy*
+- *Encouraging deliberation*
+- *Veto players*
+- *Single-issue voters*
+
+*The scope of the public sphere*
+
+·       Born free *versus* something else
+
+·       Introduction to the (fictitious) island nation of Compostela
+
+o   Backup rainwater catchment versus coastal defense?
+
+o   Who should pay for public services?
+
+·       The problem of rights, numbers, and intensities (a.k.a., the James Madison problem):
+
+o   What to do when majorities trump minorities with intense preferences on “ordinary” issues? (e.g., trade policy)
+
+o   Possible solutions within democracy
+
+                                i.            Encouraging deliberation
+
+                               ii.            Veto players
+
+                             iii.            Single-issue voters
+
+·       The scope of the public sphere
+
+o   Indecency and offensiveness without harm (a.k.a., the Joel Feinberg problem)
+
+o   Sexuality and gender identity in a conventional society
+
+o   Reproductive rights
+
+o   How to decide the limits of the rights necessary for citizenship
+
+·       The problem of cultural rights and prejudices (a.k.a, the Larry Diamond problem)
+
+o   Religious freedom in a largely but not completely homogenous society
+
+o   Language policy in a deeply divided society
+
+·       The problem of popular ignorance (a.k.a., the H.L. Menken problem)
+
+o   “Democracy is a pathetic belief in the collective wisdom of individual ignorance. No one in this world, so far as I know—and I have researched the records for years, and employed agents to help me—has ever lost money by underestimating the intelligence of the great masses of the plain people.”
+
+**o   Introduction to minimalism**
+
+·       Democracy versus liberalism (a.k.a, the Judith Shklar problem)
+
+o   **“Liberalism** is monogamously, **faithfully, and** permanently **married to democracy -- but it** is **a marriage of convenience” rather than one of love.**
+
+**o** “Undemocratic liberalism” (per Yascha Mounk) as guardianship
+
+**·       Explanation of breakout groups**
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
