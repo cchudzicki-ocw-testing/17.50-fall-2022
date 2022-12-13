@@ -16,7 +16,7 @@ uid: 5766748f-26ce-4690-8413-aba30fb6b353
 {{< tdclose >}}{{< tdopen >}}
 Introduction
 {{< tdclose >}}{{< tdopen >}}
- 
+Course syllabus
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 1:  State and government**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -108,7 +108,7 @@ Buzz groups on corruption
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-**Topic 7: Who are the people?** 
+**Topic 7: Who are the people?**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
