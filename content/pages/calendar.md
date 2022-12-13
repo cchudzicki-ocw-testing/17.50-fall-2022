@@ -6,11 +6,11 @@ title: Calendar
 uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 ---
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
-**SESS #**
+SESS #
 {{< thclose >}}{{< thopen >}}
-**TOPICS**
+TOPICS
 {{< thclose >}}{{< thopen >}}
-**KEY DUE DATES**
+KEY DUE DATES
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
 {{< tdclose >}}{{< tdopen >}}
@@ -108,7 +108,7 @@ Buzz groups on corruption
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-**Topic 7: Who are the people?** 
+**Topic 7: Who are the people?**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
