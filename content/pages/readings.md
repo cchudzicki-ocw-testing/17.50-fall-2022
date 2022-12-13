@@ -24,7 +24,17 @@ Course syllabus
 {{< tdclose >}}{{< tdopen >}}
 The state and its discontents (1)
 {{< tdclose >}}{{< tdopen >}}
- 
+
+Selection from Aristotle, *Politics*, Book 3, Part 6, c. 350 BCE.
+
+Selection from Ibn Khaldun, *Muqaddimah* (*Introduction to a Universal History*), c. 1377 CE.
+
+Selection from Thomas Hobbes, *Leviathan: Or, the Matter, Forme, and Power of a Commonwealth, Ecclesiasticall and Civil* \[1651\], Chapters 13 and 17.
+
+Hume, David. Selections from “[Of the Origin of Government](http://www.econlib.org/library/LFBooks/Hume/hmMPL5.html#Part%20I,%20Essay%20V,%20OF%20THE%20ORIGIN%20OF%20GOVERNMENT).” Part 1, Essay V in *Essays, Moral, Political and Literary*. econlib.org. 
+
+Dahl, Robert A.  “Anarchism.” Chapter 3 in *Democracy and Its Critics.* Yale University Press, 1991. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\]
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
