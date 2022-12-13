@@ -21,6 +21,8 @@ Introduction
 - *Pop quiz*
 - *Overview of readings for next week*
 
+No recitation this week
+
 By session 2:
 
 - *Read this syllabus thoroughly.*
@@ -34,7 +36,20 @@ By session 2:
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
+
 The state and its discontents (1)
+
+- *Introductions of any newcomers*
+- *Pop Quiz Q1*
+- *Lecture: What is a state, and why have one? (Part 1)*
+- *Reminder on Map Test*
+
+Recitation
+
+**Map Test** \[8 minutes\]
+
+Compare and contrast of Aristotle, Ibn Khaldun, Hobbes, and Hume \[12 minutes\]
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
