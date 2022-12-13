@@ -17,9 +17,15 @@ KEY DUE DATES
 
 Introduction
 
-- Review of syllabus. Introductions (who you are and what you want to get out of the class)
-- Pop quiz
-- Overview of readings for next week
+- *Review of syllabus. Introductions (who you are and what you want to get out of the class)*
+- *Pop quiz*
+- *Overview of readings for next week*
+
+By session 2:
+
+- *Read this syllabus thoroughly.*
+- *Take the Pop Quiz. Read through the whole quiz before attempting any of the answers. Then spend 60 minutes to answer some of them, dividing your time however you please across questions. (You may wish to take a deep dive into one particular question or, alternatively, to answer several questions at a superficial level.) Please discuss the Pop Quiz with as many people as you want. You can also consult any sources you wish, but if you do, make sure to cite them properly in your posts. Post your replies on the class website. there is a separate thread for each question on the Pop Quiz.*
+- *Comment on Pop Quiz answers (~30 minutes). Pick one question, read through the answers already posted, and then post your own commentary.*
 
 {{< tdclose >}}{{< tdopen >}}
  
