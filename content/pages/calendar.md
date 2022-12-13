@@ -14,7 +14,13 @@ KEY DUE DATES
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
 {{< tdclose >}}{{< tdopen >}}
+
 Introduction
+
+- Review of syllabus. Introductions (who you are and what you want to get out of the class)
+- Pop quiz
+- Overview of readings for next week
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
