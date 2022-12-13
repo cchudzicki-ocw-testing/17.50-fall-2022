@@ -6,11 +6,11 @@ title: Readings
 uid: 5766748f-26ce-4690-8413-aba30fb6b353
 ---
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
-**SESS #**
+SESS #
 {{< thclose >}}{{< thopen >}}
-**TOPICS**
+TOPICS
 {{< thclose >}}{{< thopen >}}
-**READINGS**
+READINGS
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
 {{< tdclose >}}{{< tdopen >}}
