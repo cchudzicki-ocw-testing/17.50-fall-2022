@@ -110,55 +110,29 @@ Making rules and the state in countries that are “born free”
 
 *The scope of the public sphere*
 
-·       Born free *versus* something else
+- *Indecency and offensiveness without harm (a.k.a., the Joel Feinberg problem)*
+- *Sexuality and gender identity in a conventional society*
+- *Reproductive rights*
+- *How to decide the limits of the rights necessary for citizenship*
 
-·       Introduction to the (fictitious) island nation of Compostela
+*The problem of cultural rights and prejudices (a.k.a, the Larry Diamond problem)*
 
-o   Backup rainwater catchment versus coastal defense?
+- *Religious freedom in a largely but not completely homogenous society*
+- *Language policy in a deeply divided society*
 
-o   Who should pay for public services?
+*The problem of popular ignorance (a.k.a., the H.L. Menken problem)*
 
-·       The problem of rights, numbers, and intensities (a.k.a., the James Madison problem):
+- *“Democracy is a pathetic belief in the collective wisdom of individual ignorance. No one in this world, so far as I know—and I have researched the records for years, and employed agents to help me—has ever lost money by underestimating the intelligence of the great masses of the plain people.”*
+- *Introduction to minimalism*
 
-o   What to do when majorities trump minorities with intense preferences on “ordinary” issues? (e.g., trade policy)
+*Democracy versus liberalism (a.k.a, the Judith Shklar problem)*
 
-o   Possible solutions within democracy
+- *“Liberalism is monogamously, faithfully, and permanently married to democracy -- but it is a marriage of convenience” rather than one of love.*
+- *“Undemocratic liberalism” (per Yascha Mounk) as guardianship*
 
-                                i.            Encouraging deliberation
+*Explanation of breakout groups*
 
-                               ii.            Veto players
-
-                             iii.            Single-issue voters
-
-·       The scope of the public sphere
-
-o   Indecency and offensiveness without harm (a.k.a., the Joel Feinberg problem)
-
-o   Sexuality and gender identity in a conventional society
-
-o   Reproductive rights
-
-o   How to decide the limits of the rights necessary for citizenship
-
-·       The problem of cultural rights and prejudices (a.k.a, the Larry Diamond problem)
-
-o   Religious freedom in a largely but not completely homogenous society
-
-o   Language policy in a deeply divided society
-
-·       The problem of popular ignorance (a.k.a., the H.L. Menken problem)
-
-o   “Democracy is a pathetic belief in the collective wisdom of individual ignorance. No one in this world, so far as I know—and I have researched the records for years, and employed agents to help me—has ever lost money by underestimating the intelligence of the great masses of the plain people.”
-
-**o   Introduction to minimalism**
-
-·       Democracy versus liberalism (a.k.a, the Judith Shklar problem)
-
-o   **“Liberalism** is monogamously, **faithfully, and** permanently **married to democracy -- but it** is **a marriage of convenience” rather than one of love.**
-
-**o** “Undemocratic liberalism” (per Yascha Mounk) as guardianship
-
-**·       Explanation of breakout groups**
+Recitation: Breakout groups
 
 {{< tdclose >}}{{< tdopen >}}
  
