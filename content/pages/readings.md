@@ -35,9 +35,7 @@ Orwell, George. *1984.* epubli, 2021. ISBN: 9783753145136. \[Preview with [Googl
 
 Lowry, Lois. *The Giver.* Houghton Mifflin Harcourt, 2014. ISBN: 9780544340688. \[Preview with [Google Books](https://www.google.com/books/edition/The_Giver/Coi9AwAAQBAJ?hl=en&gbpv=1)\]
 
-[*Burn!*](https://www.imdb.com/title/tt0064866/?ref_=fn_al_tt_6) 
-
-Directed by Gillo Pontecorvo. Color, 112 min. 1969.
+[*Burn!*](https://www.imdb.com/title/tt0064866/?ref_=fn_al_tt_6) Directed by Gillo Pontecorvo. Color, 112 min. 1969.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
