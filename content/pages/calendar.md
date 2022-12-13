@@ -21,9 +21,9 @@ Introduction
 - *Pop quiz*
 - *Overview of readings for next week*
 
-No recitation this week
+*No recitation this week*
 
-By session 2:
+*By session 2:*
 
 - *Read this syllabus thoroughly.*
 - *Take the Pop Quiz. Read through the whole quiz before attempting any of the answers. Then spend 60 minutes to answer some of them, dividing your time however you please across questions. (You may wish to take a deep dive into one particular question or, alternatively, to answer several questions at a superficial level.) Please discuss the Pop Quiz with as many people as you want. You can also consult any sources you wish, but if you do, make sure to cite them properly in your posts. Post your replies on the class website. there is a separate thread for each question on the Pop Quiz.*
@@ -44,18 +44,36 @@ The state and its discontents (1)
 - *Lecture: What is a state, and why have one? (Part 1)*
 - *Reminder on Map Test*
 
-Recitation
+*Recitation*
 
-**Map Test** \[8 minutes\]
-
-Compare and contrast of Aristotle, Ibn Khaldun, Hobbes, and Hume \[12 minutes\]
+- Map Test \[8 minutes\]
+- Compare and contrast of Aristotle, Ibn Khaldun, Hobbes, and Hume \[12 minutes\]
+- Discussion of Dahl: Is it desirable not to have a state? Workable? \[15 minutes\]
+- Discussion of expectations for papers and breakout groups \[15 minutes\]
 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
+
 The state and its discontents (2)
+
+- Random anecdoteTM: Montezuma’s instructions to his messenger, in delivery of a letter to Hernán Cortés at Veracruz.
+- Lecture: What is a state and why have one? (Part II) How were states originally created?
+- Nasty things states do. Better no state than a bad state?
+- Can we make the state “smaller”?
+
+*By next recitation: 
+
+Prepare for Map Test*
+
+*By session 4:* 
+
+*Register to vote. Please confirm via the class website that you have registered. If you are a citizen of a country without absentee balloting, you should write a short email to an official from your country inquiring into the rationale for the lack of absentee balloting, or forwarding the message to the TA afterwards. If you are from a country where elections are meaningless or where writing a government official with such a query might get you into trouble, or if you have some other principled objection to registering to vote, talk with the TA or me about how to fulfill this assignment in a way that takes a similar amount of time.*
+
+*Schedule your (optional) one-on-one meeting with me, assuming you wish to schedule one.*
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
