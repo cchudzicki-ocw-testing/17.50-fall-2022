@@ -17,11 +17,9 @@ KEY DUE DATES
 
 Introduction
 
-*Review of syllabus. Introductions (who you are and what you want to get out of the class)*
-
-*Pop quiz*
-
-*Overview of readings for next week*
+- *Review of syllabus. Introductions (who you are and what you want to get out of the class)*
+- *Pop quiz*
+- *Overview of readings for next week*
 
 *No recitation this week*
 
@@ -41,13 +39,10 @@ Introduction
 
 The state and its discontents (1)
 
-*Introductions of any newcomers*
-
-*Pop Quiz Q1*
-
-*Lecture: What is a state, and why have one? (Part 1)*
-
-*Reminder on Map Test*
+- *Introductions of any newcomers*
+- *Pop Quiz Q1*
+- *Lecture: What is a state, and why have one? (Part 1)*
+- *Reminder on Map Test*
 
 *Recitation*
 
@@ -64,13 +59,10 @@ The state and its discontents (1)
 
 The state and its discontents (2)
 
-*Random anecdoteTM: Montezuma’s instructions to his messenger, in delivery of a letter to Hernán Cortés at Veracruz.*
-
-*Lecture: What is a state and why have one? (Part II) How were states originally created?*
-
-*Nasty things states do. Better no state than a bad state?*
-
-*Can we make the state “smaller”?*
+- *Random anecdoteTM: Montezuma’s instructions to his messenger, in delivery of a letter to Hernán Cortés at Veracruz.*
+- *Lecture: What is a state and why have one? (Part II) How were states originally created?*
+- *Nasty things states do. Better no state than a bad state?*
+- *Can we make the state “smaller”?*
 
 *By next recitation:*
 
@@ -91,46 +83,32 @@ The state and its discontents (2)
 
 Making rules and the state in countries that are “born free”
 
-*Random anecdoteTM: Approved undergarments in a Japanese high school.*
-
-*Born free versus something else*
-
-*Introduction to the (fictitious) island nation of Compostela*
-
-- *Backup rainwater catchment versus coastal defense?*
-- *Who should pay for public services?*
-
-*The problem of rights, numbers, and intensities (a.k.a., the James Madison problem):*
-
-- *What to do when majorities trump minorities with intense preferences on “ordinary” issues? (e.g., trade policy)*
-- *Possible solutions within democracy*
-- *Encouraging deliberation*
-- *Veto players*
-- *Single-issue voters*
-
-*The scope of the public sphere*
-
-- *Indecency and offensiveness without harm (a.k.a., the Joel Feinberg problem)*
-- *Sexuality and gender identity in a conventional society*
-- *Reproductive rights*
-- *How to decide the limits of the rights necessary for citizenship*
-
-*The problem of cultural rights and prejudices (a.k.a, the Larry Diamond problem)*
-
-- *Religious freedom in a largely but not completely homogenous society*
-- *Language policy in a deeply divided society*
-
-*The problem of popular ignorance (a.k.a., the H.L. Menken problem)*
-
-- *“Democracy is a pathetic belief in the collective wisdom of individual ignorance. No one in this world, so far as I know—and I have researched the records for years, and employed agents to help me—has ever lost money by underestimating the intelligence of the great masses of the plain people.”*
-- *Introduction to minimalism*
-
-*Democracy versus liberalism (a.k.a, the Judith Shklar problem)*
-
-- *“Liberalism is monogamously, faithfully, and permanently married to democracy -- but it is a marriage of convenience” rather than one of love.*
-- *“Undemocratic liberalism” (per Yascha Mounk) as guardianship*
-
-*Explanation of breakout groups*
+- *Random anecdoteTM: Approved undergarments in a Japanese high school.*
+- *Born free versus something else*
+- *Introduction to the (fictitious) island nation of Compostela*
+    - *Backup rainwater catchment versus coastal defense?*
+    - *Who should pay for public services?*
+- *The problem of rights, numbers, and intensities (a.k.a., the James Madison problem):*
+    - *What to do when majorities trump minorities with intense preferences on “ordinary” issues? (e.g., trade policy)*
+    - *Possible solutions within democracy*
+        - *Encouraging deliberation*
+        - *Veto players*
+        - *Single-issue voters*
+- *The scope of the public sphere*
+    - *Indecency and offensiveness without harm (a.k.a., the Joel Feinberg problem)*
+    - *Sexuality and gender identity in a conventional society*
+    - *Reproductive rights*
+    - *How to decide the limits of the rights necessary for citizenship*
+- *The problem of cultural rights and prejudices (a.k.a, the Larry Diamond problem)*
+    - *Religious freedom in a largely but not completely homogenous society*
+    - *Language policy in a deeply divided society*
+- *The problem of popular ignorance (a.k.a., the H.L. Menken problem)*
+    - *“Democracy is a pathetic belief in the collective wisdom of individual ignorance. No one in this world, so far as I know—and I have researched the records for years, and employed agents to help me—has ever lost money by underestimating the intelligence of the great masses of the plain people.”*
+    - *Introduction to minimalism*
+- *Democracy versus liberalism (a.k.a, the Judith Shklar problem)*
+    - *“Liberalism is monogamously, faithfully, and permanently married to democracy -- but it is a marriage of convenience” rather than one of love.*
+    - *“Undemocratic liberalism” (per Yascha Mounk) as guardianship*
+- *Explanation of breakout groups*
 
 Recitation: Breakout groups
 
