@@ -15,29 +15,15 @@ Breakout groups
 - The TA will overexplain the task, but ask plenty of questions before you begin your discussions and if you get stuck.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
-SESS #
+WEEK #
 {{< thclose >}}{{< thopen >}}
 TOPICS
 {{< thclose >}}{{< thopen >}}
-KEY DUE DATES
+READINGS
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
 {{< tdclose >}}{{< tdopen >}}
-
-Introduction
-
-- *Review of syllabus. Introductions (who you are and what you want to get out of the class)*
-- *Pop quiz*
-- *Overview of readings for next week*
-
 No recitation this week
-
-*By session 2:*
-
-- *Read this syllabus thoroughly.*
-- *Take the Pop Quiz. Read through the whole quiz before attempting any of the answers. Then spend 60 minutes to answer some of them, dividing your time however you please across questions. (You may wish to take a deep dive into one particular question or, alternatively, to answer several questions at a superficial level.) Please discuss the Pop Quiz with as many people as you want. You can also consult any sources you wish, but if you do, make sure to cite them properly in your posts. Post your replies on the class website. there is a separate thread for each question on the Pop Quiz.*
-- *Comment on Pop Quiz answers (~30 minutes). Pick one question, read through the answers already posted, and then post your own commentary.*
-
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -46,80 +32,23 @@ No recitation this week
 2
 {{< tdclose >}}{{< tdopen >}}
 
-The state and its discontents (1)
+Map Test \[8 minutes\]
 
-- *Introductions of any newcomers*
-- *Pop Quiz Q1*
-- *Lecture: What is a state, and why have one? (Part 1)*
-- *Reminder on Map Test*
+Compare and contrast of Aristotle, Ibn Khaldun, Hobbes, and Hume \[12 minutes\]
 
-Recitation
+Discussion of Dahl: Is it desirable not to have a state? Workable? \[15 minutes\]
 
-- *Map Test \[8 minutes\]*
-- *Compare and contrast of Aristotle, Ibn Khaldun, Hobbes, and Hume \[12 minutes\]*
-- *Discussion of Dahl: Is it desirable not to have a state? Workable? \[15 minutes\]*
-- *Discussion of expectations for papers and breakout groups \[15 minutes\]*
-
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-3
-{{< tdclose >}}{{< tdopen >}}
-
-The state and its discontents (2)
-
-- *Random anecdoteTM: Montezuma’s instructions to his messenger, in delivery of a letter to Hernán Cortés at Veracruz.*
-- *Lecture: What is a state and why have one? (Part II) How were states originally created?*
-- *Nasty things states do. Better no state than a bad state?*
-- *Can we make the state “smaller”?*
-
-*By next recitation:*
-
-- Prepare for Map Test
-
-*By session 4:*
-
-- *Register to vote. Please confirm via the class website that you have registered. If you are a citizen of a country without absentee balloting, you should write a short email to an official from your country inquiring into the rationale for the lack of absentee balloting, or forwarding the message to the TA afterwards. If you are from a country where elections are meaningless or where writing a government official with such a query might get you into trouble, or if you have some other principled objection to registering to vote, talk with the TA or me about how to fulfill this assignment in a way that takes a similar amount of time.*
-- *Schedule your (optional) one-on-one meeting with me, assuming you wish to schedule one.*
+Discussion of expectations for papers and breakout groups \[15 minutes\]
 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 2: Making rules**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-4
+3
 {{< tdclose >}}{{< tdopen >}}
 
-Making rules and the state in countries that are “born free”
-
-- *Random anecdoteTM: Approved undergarments in a Japanese high school.*
-- *Born free versus something else*
-- *Introduction to the (fictitious) island nation of Compostela*
-    - *Backup rainwater catchment versus coastal defense?*
-    - *Who should pay for public services?*
-- *The problem of rights, numbers, and intensities (a.k.a., the James Madison problem):*
-    - *What to do when majorities trump minorities with intense preferences on “ordinary” issues? (e.g., trade policy)*
-    - *Possible solutions within democracy*
-        - *Encouraging deliberation*
-        - *Veto players*
-        - *Single-issue voters*
-- *The scope of the public sphere*
-    - *Indecency and offensiveness without harm (a.k.a., the Joel Feinberg problem)*
-    - *Sexuality and gender identity in a conventional society*
-    - *Reproductive rights*
-    - *How to decide the limits of the rights necessary for citizenship*
-- *The problem of cultural rights and prejudices (a.k.a, the Larry Diamond problem)*
-    - *Religious freedom in a largely but not completely homogenous society*
-    - *Language policy in a deeply divided society*
-- *The problem of popular ignorance (a.k.a., the H.L. Menken problem)*
-    - *“Democracy is a pathetic belief in the collective wisdom of individual ignorance. No one in this world, so far as I know—and I have researched the records for years, and employed agents to help me—has ever lost money by underestimating the intelligence of the great masses of the plain people.”*
-    - *Introduction to minimalism*
-- *Democracy versus liberalism (a.k.a, the Judith Shklar problem)*
-    - *“Liberalism is monogamously, faithfully, and permanently married to democracy -- but it is a marriage of convenience” rather than one of love.*
-    - *“Undemocratic liberalism” (per Yascha Mounk) as guardianship*
-- *Explanation of breakout groups*
-
-Recitation: Breakout groups
+Breakout groups
 
 - You will be divided into groups and will do readings based on your group. Make sure to come to recitation have read and digested all the readings.
 - Breakout groups on what the state should do, and how. For groups C–F, articulate clearly what the nature of the public good or public service is that you believe the state should provide. Then review how it can best be provided to minimize the likelihood of state abuse.
@@ -129,7 +58,11 @@ Recitation: Breakout groups
 - The TA will overexplain the task, but ask plenty of questions before you begin your discussions and if you get stuck.
 
 {{< tdclose >}}{{< tdopen >}}
- 
+
+Group A: Lessons from Athens
+
+The institutions invented in the ancient Greek world approximately 2,500 years ago were distinctive in providing direct citizen control of government. You should focus here on the notion of authoritative bodies (essentially, state agencies) being staffed by randomly selected groups of citizens and the citizenry meeting regularly to vote on decisions. Are these feasible in modern societies, either at the national or local level, and for certain spheres of policy? What are the pros and cons of applying them?
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
