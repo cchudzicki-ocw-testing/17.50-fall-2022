@@ -54,13 +54,17 @@ Group A: Lessons from Athens. The institutions invented in the ancient Greek wor
 
 - Dahl, Robert A.  “The First Transformation: To the Democratic City­-State.” Chapter 1 in *Democracy and Its Critics.* Yale University Press, 1991. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\]
 - Selections from Aristotle’s *The Constitution of Athens*, Parts 42–69.
-- Ober, Josiah. “[Learning from Athens](https://www.bostonreview.net/articles/josiah-ober-learning-from-athens/).” *Boston Review*, March/April 2006, 31 (2): 13–17.
+- Ober, Josiah. “[Learning from Athens](https://www.bostonreview.net/articles/josiah-ober-learning-from-athens/).” March 1, 2006. Boston Review.
 
 Group B: The use of referenda in modern societies. Focus here on the idea of the citizenry meeting regularly (in person or virtually) to vote directly on policy decisions. Are these feasible in modern societies. If so, for what spheres of policy or types of decisions? What are the pros and cons of applying them?
 
-Dahl, Robert A.  “Towards the Second Transformation: Republicanism, Representation, and the Logic of Equality.” Chapter 2 in *Democracy and Its Critics.* Yale University Press, 1991, pp. 28–30. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\] (Read the section on “Representative Government”.)
+- Dahl, Robert A.  “Towards the Second Transformation: Republicanism, Representation, and the Logic of Equality.” Chapter 2 in *Democracy and Its Critics.* Yale University Press, 1991, pp. 28–30. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\] (Read the section on “Representative Government”.)
+- Seiffert, Jeanette. “[Perfect Democracy?](https://www.dw.com/en/pros-and-cons-of-the-swiss-referendum-model/a-17643284)” May 18, 2014. Made for Minds.
+- Salutin, Rick. “[Referendums At Heart of Swiss Political System](https://www.thestar.com/news/insight/2012/07/21/referendums_at_heart_of_swiss_political_system.html?rf),” *Toronto Sun*, July 21, 2012.
+- Fishkin, James S. “[The Nation in a Room](https://www.bostonreview.net/articles/james-fishkin-nation-in-a-room-turning-public-opinion-into-policy/).” March 1, 2006. Boston Review.
+- Schmitter, Philippe C. [“A Proposal for the Creation of a 'Citizen Assembly'.”(PDF)](https://www.eui.eu/Documents/DepartmentsCentres/SPS/Profiles/Schmitter/CitizenAssembly.pdf)
 
-Seiffert, Jeanette. “[Perfect Democracy?](https://www.dw.com/en/pros-and-cons-of-the-swiss-referendum-model/a-17643284)” May 18, 2014. Made for Minds.
+Group C: External defense. What sort of institutions are required and desirable for the defense of your country in a modern context. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
