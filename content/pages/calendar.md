@@ -21,7 +21,7 @@ Introduction
 - *Pop quiz*
 - *Overview of readings for next week*
 
-*No recitation this week*
+No recitation this week
 
 *By session 2:*
 
@@ -44,12 +44,12 @@ The state and its discontents (1)
 - *Lecture: What is a state, and why have one? (Part 1)*
 - *Reminder on Map Test*
 
-*Recitation*
+Recitation
 
-- Map Test \[8 minutes\]
-- Compare and contrast of Aristotle, Ibn Khaldun, Hobbes, and Hume \[12 minutes\]
-- Discussion of Dahl: Is it desirable not to have a state? Workable? \[15 minutes\]
-- Discussion of expectations for papers and breakout groups \[15 minutes\]
+- *Map Test \[8 minutes\]*
+- *Compare and contrast of Aristotle, Ibn Khaldun, Hobbes, and Hume \[12 minutes\]*
+- *Discussion of Dahl: Is it desirable not to have a state? Workable? \[15 minutes\]*
+- *Discussion of expectations for papers and breakout groups \[15 minutes\]*
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -111,6 +111,13 @@ Making rules and the state in countries that are “born free”
 - *Explanation of breakout groups*
 
 Recitation: Breakout groups
+
+- You will be divided into groups and will do readings based on your group. Make sure to come to recitation have read and digested all the readings.
+- Breakout groups on what the state should do, and how. For groups C–F, articulate clearly what the nature of the public good or public service is that you believe the state should provide. Then review how it can best be provided to minimize the likelihood of state abuse.
+- Bear in mind that the audience for your presentations is your fellow students, not me or the TA. You want them to come away from your presentation with a sense of the big questions related to your topic and what alternatives there might be. Remember that they will not have done any of the readings that your group did, so you will need to summarize and explain that material. I suggest that you use the blackboard to write the definition of the public good ahead of time so people can see it as you begin, and perhaps an outline of the points you will cover.
+- If your group does not agree, don’t try to force consensus. Instead, use the disagreement to refine the pros and cons of different approaches, and then note that you didn’t all agree on how these pros and cons netted out.
+- In all cases, assume that your state will make and enforce binding decisions for a population of around six million people, about four and a half million of whom are adults.
+- The TA will overexplain the task, but ask plenty of questions before you begin your discussions and if you get stuck.
 
 {{< tdclose >}}{{< tdopen >}}
  
