@@ -63,6 +63,8 @@ Group A: Lessons from Athens
 
 The institutions invented in the ancient Greek world approximately 2,500 years ago were distinctive in providing direct citizen control of government. You should focus here on the notion of authoritative bodies (essentially, state agencies) being staffed by randomly selected groups of citizens and the citizenry meeting regularly to vote on decisions. Are these feasible in modern societies, either at the national or local level, and for certain spheres of policy? What are the pros and cons of applying them?
 
+Dahl, Robert A.  “The First Transformation: To the Democratic City­-State.” Chapter 1 in *Democracy and Its Critics.* Yale University Press, 1991. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\]
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
