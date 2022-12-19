@@ -85,7 +85,7 @@ Group E: Law enforcement. Think about the role of policing, including the role o
 - Kopel, David. “[Sheriffs and the Posse Comitatus](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/05/15/sheriffs-and-the-posse-comitatus/),” *Washington Post*, May 15, 2014. 
 - Reece, John G., and Judy Macy. “[Citizen Advisory Boards in Contemporary Practice: A Practical Approach in Policing](https://www.policechiefmagazine.org/citizen-advisory-boards-in-contemporary-practice-a-practical-approach-in-policing/).” *The Police Chief* 82 (October 2015): web-only.
 
-Group F: Redistribution
+Group F: Redistribution. Make sure to articulate whether and why the state should be in the business of redistribution. Consider whether there should be any conditionality associated with transfers and, if so, what sort? (For instance, recipients of government assistance must do X.) If you believe the state should ensure some sort of welfare provision to disadvantaged citizens, discuss how such transfers can be made so that the state feels smaller or less intrusive. Be sure to articulate clearly for your classmates what the different options suggested by the readings are.
 
  
 
