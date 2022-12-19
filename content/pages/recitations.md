@@ -54,17 +54,28 @@ Group A: Lessons from Athens. The institutions invented in the ancient Greek wor
 
 - Dahl, Robert A.  “The First Transformation: To the Democratic City­-State.” Chapter 1 in *Democracy and Its Critics.* Yale University Press, 1991. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\]
 - Selections from Aristotle’s *The Constitution of Athens*, Parts 42–69.
-- Ober, Josiah. “[Learning from Athens](https://www.bostonreview.net/articles/josiah-ober-learning-from-athens/).” March 1, 2006. Boston Review.
+- Ober, Josiah. “[Learning from Athens](https://www.bostonreview.net/articles/josiah-ober-learning-from-athens/).” *Boston Review*, March 1, 2006. 
 
 Group B: The use of referenda in modern societies. Focus here on the idea of the citizenry meeting regularly (in person or virtually) to vote directly on policy decisions. Are these feasible in modern societies. If so, for what spheres of policy or types of decisions? What are the pros and cons of applying them?
 
 - Dahl, Robert A.  “Towards the Second Transformation: Republicanism, Representation, and the Logic of Equality.” Chapter 2 in *Democracy and Its Critics.* Yale University Press, 1991, pp. 28–30. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\] (Read the section on “Representative Government”.)
 - Seiffert, Jeanette. “[Perfect Democracy?](https://www.dw.com/en/pros-and-cons-of-the-swiss-referendum-model/a-17643284)” May 18, 2014. Made for Minds.
 - Salutin, Rick. “[Referendums At Heart of Swiss Political System](https://www.thestar.com/news/insight/2012/07/21/referendums_at_heart_of_swiss_political_system.html?rf),” *Toronto Sun*, July 21, 2012.
-- Fishkin, James S. “[The Nation in a Room](https://www.bostonreview.net/articles/james-fishkin-nation-in-a-room-turning-public-opinion-into-policy/).” March 1, 2006. Boston Review.
+- Fishkin, James S. “[The Nation in a Room](https://www.bostonreview.net/articles/james-fishkin-nation-in-a-room-turning-public-opinion-into-policy/).” *Boston Review*, March 1, 2006. 
 - Schmitter, Philippe C. [“A Proposal for the Creation of a 'Citizen Assembly'.”(PDF)](https://www.eui.eu/Documents/DepartmentsCentres/SPS/Profiles/Schmitter/CitizenAssembly.pdf)
 
 Group C: External defense. What sort of institutions are required and desirable for the defense of your country in a modern context. For instance, does “defense” include power projection abroad for national advantage? Protections of allies? Ensuring access to strategic resources and trade routes? Conquest and other wars of choice abroad? Then think about provision of this good: the value of a draft *versus* an all-volunteer army *versus* reliance on (foreign) mercenaries *versus* a small constabulary force backed by citizen-militias, etc. 
+
+- Kaplan, Jonathan. “[The Role of the Military in Israel](https://archive.jewishagency.org/society-and-politics/content/36591/).” The Jewish Agency for Israel.
+- Kramer, Andrew. “[Spooked by Russia, Tiny Estonia Trains a Nation of Insurgents](https://www.nytimes.com/2016/11/01/world/europe/spooked-by-russia-tiny-estonia-trains-a-nation-of-insurgents.html), ” *New York Times*, October 31, 2016.
+- Barash, David P.  “[Costa Rica’s Peace Dividend: How Abolishing the Military Paid Off](https://www.latimes.com/opinion/la-xpm-2013-dec-15-la-oe-barash-costa-rica-demilitarization-20131208-story.html),” *Los Angeles Times*, December 15, 2013.
+- McFate, Sean. “[Mercenaries and War: Understanding Private Armies Today](https://ndupress.ndu.edu/Media/News/Article/2031922/mercenaries-and-war-understanding-private-armies-today/).” December 4, 2019. National Defense University Press.
+- Rostker, Bernard D. “[The Evolution of the All-Volunteer Force](https://www.rand.org/pubs/research_briefs/RB9195.html).” 2006. RAND.
+- Weisberg, Jacob. “[Rough Draft: The Gross Unfairness of an All-Volunteer Army](https://slate.com/news-and-politics/2006/03/the-gross-unfairness-of-an-all-volunteer-army.html).” *Slate*, March 22, 2006. 
+
+Group D: Justice and punishment. 
+
+ 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
