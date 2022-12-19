@@ -64,7 +64,7 @@ Group B: The use of referenda in modern societies. Focus here on the idea of the
 - Fishkin, James S. “[The Nation in a Room](https://www.bostonreview.net/articles/james-fishkin-nation-in-a-room-turning-public-opinion-into-policy/).” March 1, 2006. Boston Review.
 - Schmitter, Philippe C. [“A Proposal for the Creation of a 'Citizen Assembly'.”(PDF)](https://www.eui.eu/Documents/DepartmentsCentres/SPS/Profiles/Schmitter/CitizenAssembly.pdf)
 
-Group C: External defense. What sort of institutions are required and desirable for the defense of your country in a modern context. 
+Group C: External defense. What sort of institutions are required and desirable for the defense of your country in a modern context. For instance, does “defense” include power projection abroad for national advantage? Protections of allies? Ensuring access to strategic resources and trade routes? Conquest and other wars of choice abroad? Then think about provision of this good: the value of a draft *versus* an all-volunteer army *versus* reliance on (foreign) mercenaries *versus* a small constabulary force backed by citizen-militias, etc. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
