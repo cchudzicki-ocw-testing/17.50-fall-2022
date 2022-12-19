@@ -126,7 +126,7 @@ Recitation: Breakout groups
 {{< tdclose >}}{{< tdopen >}}
 Presentations by breakout groups
 {{< tdclose >}}{{< tdopen >}}
- 
+Paper 1 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 3: Picking and constraining rulers**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
