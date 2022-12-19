@@ -80,7 +80,14 @@ Group D: Justice and punishment. Begin from first principles: how should the sta
 - Rosen, David. “[Crime & Public Shaming](https://www.counterpunch.org/2016/04/15/crime-public-shaming/).” *CounterPunch*, April 15, 2016. 
 - [Alternatives to imprisonment](https://en.wikipedia.org/wiki/Alternatives_to_imprisonment). Wikipedia.
 
-Group E: Law enforcement. 
+Group E: Law enforcement. Think about the role of policing, including the role of ordinary citizens: their obligations to assist the police (e.g., whether they are required to furnish information about crimes, report criminal activity they witness, or answer a *posse comitatus* summons), and the tradeoffs involved in citizen oversight of policing. Should there be a professional police force at all? If so, who should lead it?
+
+- Kopel, David. “[Sheriffs and the Posse Comitatus](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/05/15/sheriffs-and-the-posse-comitatus/),” *Washington Post*, May 15, 2014. 
+- Reece, John G., and Judy Macy. 
+    
+    “[Citizen Advisory Boards in Contemporary Practice: A Practical Approach in Policing](https://www.policechiefmagazine.org/citizen-advisory-boards-in-contemporary-practice-a-practical-approach-in-policing/).” *The Police Chief* 82 (October 2015): web-only.
+
+Group F: Redistribution
 
  
 
