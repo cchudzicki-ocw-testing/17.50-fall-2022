@@ -60,7 +60,7 @@ Fukuyama, Francis. "Preface." In *State-Building: Governance and World Order in 
 {{< tdclose >}}{{< tdopen >}}
 The state and its discontents (2)
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 2: Making rules**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -68,13 +68,13 @@ The state and its discontents (2)
 {{< tdclose >}}{{< tdopen >}}
 Making rules and the state in countries that are “born free”
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
 Presentations by breakout groups
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 3: Picking and constraining rulers**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -82,7 +82,19 @@ Presentations by breakout groups
 {{< tdclose >}}{{< tdopen >}}
 Picking rulers ?????
 {{< tdclose >}}{{< tdopen >}}
- 
+
+ Allison, Graham. “[The Lee Kuan Yew Conundrum](https://www.theatlantic.com/international/archive/2015/03/lee-kuan-yew-conundrum-democracy-singapore/388955/).” *The Atlantic,* March 30, 2015. 
+
+“[Lee Kuan Yew: The Wise Man of the East](https://www.economist.com/asia/2015/03/22/the-wise-man-of-the-east).” *The Economist,* March 26, 2015. 
+
+Silverstein, Ken. “[Teodorin’s World](https://foreignpolicy.com/2011/02/21/teodorins-world/).” *Foreign Policy* 185 (2011): 54–62.
+
+Sun Yat-sen. Selections from 
+
+“The Principle of *Mínquán.*” In *The Three Principles of the People: San Min Chu I*. Translated by Frank W. Price. ISBN: 9781927077030.
+
+Dahl, Robert A.  “Guardianship.” Chapter 4 in *Democracy and Its Critics.* Yale University Press, 1991. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\]
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
