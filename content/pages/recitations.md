@@ -67,13 +67,20 @@ Group B: The use of referenda in modern societies. Focus here on the idea of the
 Group C: External defense. What sort of institutions are required and desirable for the defense of your country in a modern context. For instance, does “defense” include power projection abroad for national advantage? Protections of allies? Ensuring access to strategic resources and trade routes? Conquest and other wars of choice abroad? Then think about provision of this good: the value of a draft *versus* an all-volunteer army *versus* reliance on (foreign) mercenaries *versus* a small constabulary force backed by citizen-militias, etc. 
 
 - Kaplan, Jonathan. “[The Role of the Military in Israel](https://archive.jewishagency.org/society-and-politics/content/36591/).” The Jewish Agency for Israel.
-- Kramer, Andrew. “[Spooked by Russia, Tiny Estonia Trains a Nation of Insurgents](https://www.nytimes.com/2016/11/01/world/europe/spooked-by-russia-tiny-estonia-trains-a-nation-of-insurgents.html), ” *New York Times*, October 31, 2016.
-- Barash, David P.  “[Costa Rica’s Peace Dividend: How Abolishing the Military Paid Off](https://www.latimes.com/opinion/la-xpm-2013-dec-15-la-oe-barash-costa-rica-demilitarization-20131208-story.html),” *Los Angeles Times*, December 15, 2013.
+- Kramer, Andrew. “[Spooked by Russia, Tiny Estonia Trains a Nation of Insurgents](https://www.nytimes.com/2016/11/01/world/europe/spooked-by-russia-tiny-estonia-trains-a-nation-of-insurgents.html),” *New York Times*, October 31, 2016.
+- Barash, David P. “[Costa Rica’s Peace Dividend: How Abolishing the Military Paid Off](https://www.latimes.com/opinion/la-xpm-2013-dec-15-la-oe-barash-costa-rica-demilitarization-20131208-story.html),” *Los Angeles Times*, December 15, 2013.
 - McFate, Sean. “[Mercenaries and War: Understanding Private Armies Today](https://ndupress.ndu.edu/Media/News/Article/2031922/mercenaries-and-war-understanding-private-armies-today/).” December 4, 2019. National Defense University Press.
 - Rostker, Bernard D. “[The Evolution of the All-Volunteer Force](https://www.rand.org/pubs/research_briefs/RB9195.html).” 2006. RAND.
 - Weisberg, Jacob. “[Rough Draft: The Gross Unfairness of an All-Volunteer Army](https://slate.com/news-and-politics/2006/03/the-gross-unfairness-of-an-all-volunteer-army.html).” *Slate*, March 22, 2006. 
 
-Group D: Justice and punishment. 
+Group D: Justice and punishment. Begin from first principles: how should the state punish infractions? You should feel free to consider alternative approaches to deterrence and punishment in general that rely on community shaming, community service, etc. Note that you may wish to apply the notion of “restorative justice” to certain types of crimes and certain types of communities- for instance, involuntary homicide, fraud, or sexual misconduct between individuals who know each other. Whatever you decide, make sure you clearly articulate the fundamental options for the class.
+
+- Fukuyama, Francis.  “Tribal Societies: Property, Justice, War.” Chapter 4 in *The Origins of Political Order*. Farrar, Straus and Giroux, 2011, pp. 69–72. ISBN: 9781429958936. (Read the section “Law and Justice.”)
+- Oshidary, Neekaan. [Summary of Howard Zehr’s *The Little Book of Restorative Justice.* (PDF)](https://neekaan.com/TheLittleBookofRestorativeJustice.pdf) Neekaan.com.
+- Rosen, David. “[Crime & Public Shaming](https://www.counterpunch.org/2016/04/15/crime-public-shaming/).” *CounterPunch*, April 15, 2016. 
+- [Alternatives to imprisonment](https://en.wikipedia.org/wiki/Alternatives_to_imprisonment). Wikipedia.
+
+Group E: Law enforcement. 
 
  
 
