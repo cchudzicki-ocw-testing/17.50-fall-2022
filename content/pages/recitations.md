@@ -87,7 +87,7 @@ Group E: Law enforcement. Think about the role of policing, including the role o
 
 Group F: Redistribution. Make sure to articulate whether and why the state should be in the business of redistribution. Consider whether there should be any conditionality associated with transfers and, if so, what sort? (For instance, recipients of government assistance must do X.) If you believe the state should ensure some sort of welfare provision to disadvantaged citizens, discuss how such transfers can be made so that the state feels smaller or less intrusive. Be sure to articulate clearly for your classmates what the different options suggested by the readings are.
 
-- Bartholomew, James.  “[Swiss Welfare Runs like Clockwork](https://www.spectator.co.uk/article/swiss-welfare-runs-like-clockwork/).” *The Spectator,* July 17, 2010.
+- Bartholomew, James. “[Swiss Welfare Runs like Clockwork](https://www.spectator.co.uk/article/swiss-welfare-runs-like-clockwork/).” *The Spectator,* July 17, 2010.
 - Bergmann, Barbara. “[Why Sweden, Not Switzerland, Should Be America’s Social Welfare Model](https://www.pbs.org/newshour/nation/sweden-switzerland-americas-social-welfare-model).” April 11, 2014. PBS News Hour.
 - Amadeo, Kimberly. “[What Is Universal Basic Income?](https://www.thebalancemoney.com/universal-basic-income-4160668)” August 7, 2022.  The Balance.
 - Hunter, Brittany. “[The Top Three Arguments against a Universal Basic Income](https://fee.org/articles/the-top-three-arguments-against-a-universal-basic-income/).” September 8, 2017. FEE Stories, Foundation for Economic Education.
