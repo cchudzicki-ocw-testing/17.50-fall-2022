@@ -130,7 +130,7 @@ Meenakshi, D. “[Essay on the Decentralisation of Power](https://www.politicals
 {{< tdclose >}}{{< tdopen >}}
 Can participatory mechanisms enhance the quality of governance?
 {{< tdclose >}}{{< tdopen >}}
- 
+Baiocchi, Gianpaolo. “The Citizens of Porto Alegre (in which Marco Borrows Bus Fare and Enters Politics)”, *The Boston Review*, March/April 2006, 31 (2).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
