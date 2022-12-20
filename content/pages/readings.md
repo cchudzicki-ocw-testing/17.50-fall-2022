@@ -94,7 +94,7 @@ Picking rulers ?????
 {{< tdclose >}}{{< tdopen >}}
 Constraining rulers
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 4: Entering the real world: Improving governance through better selection of leaders**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -102,7 +102,13 @@ Constraining rulers
 {{< tdclose >}}{{< tdopen >}}
 Can we design better representative institutions?
 {{< tdclose >}}{{< tdopen >}}
- 
+
+Lijphart, Arend. “Introduction.” Chapter 1 in *Patterns of Democracy: Government Forms and Performance in Thirty-Six Countries*. Yale University Press, 1999. ISBN: 9780300078930. \[Preview with [Google Books](https://www.google.com/books/edition/Patterns_of_Democracy/GLtX2zJrflAC?hl=en&gbpv=1)\]
+
+———. “Executive-Legislative Relations: Patterns of Dominance and Balance of Power.” Chapter 7 in *Patterns of Democracy: Government Forms and Performance in Thirty-Six Countries*. Yale University Press, 1999, pp. 116–24. ISBN: 9780300078930. \[Preview with [Google Books](https://www.google.com/books/edition/Patterns_of_Democracy/GLtX2zJrflAC?hl=en&gbpv=1)\]
+
+———. “Electoral Systems: Majority and Plurality Methods Versus Proportional Representation.” Chapter 8 in *Patterns of Democracy: Government Forms and Performance in Thirty-Six Countries*. Yale University Press, 1999. ISBN: 9780300078930. \[Preview with [Google Books](https://www.google.com/books/edition/Patterns_of_Democracy/GLtX2zJrflAC?hl=en&gbpv=1)\]
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
