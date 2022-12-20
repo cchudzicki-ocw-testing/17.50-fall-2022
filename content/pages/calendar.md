@@ -159,9 +159,15 @@ Can we design better representative institutions?
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
+
 Buzz groups ?????
+
+- Buzz groups: pros and cons of different electoral institutions in practice
+- Buzz groups: would institutional changes really matter?
+- Buzz groups: can we predict the effects?
+
 {{< tdclose >}}{{< tdopen >}}
- 
+Paper 3 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 5: In the real world: Improving governance through federalism and devolution**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
