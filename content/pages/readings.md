@@ -130,7 +130,11 @@ Meenakshi, D. “[Essay on the Decentralisation of Power](https://www.politicals
 {{< tdclose >}}{{< tdopen >}}
 Can participatory mechanisms enhance the quality of governance?
 {{< tdclose >}}{{< tdopen >}}
-Baiocchi, Gianpaolo. “The Citizens of Porto Alegre (in which Marco Borrows Bus Fare and Enters Politics)”, *The Boston Review*, March/April 2006, 31 (2).
+
+Baiocchi, Gianpaolo. “[The Citizens of Porto Alegre: In Which Marco Borrows Bus Fare and Enters Politics](https://www.bostonreview.net/articles/gianpaolo-baiocchi-the-citizens-of-porto-alegre/).” *Boston Review*, March 1, 2006.
+
+Rao, Vijayendra, Kripa Ananthpur, and Kabir Malik. “[The Anatomy of Failure: An Ethnography of a Randomized Trial to Deepen Democracy in Rural India](https://www.sciencedirect.com/science/article/pii/S0305750X17302115).” *World Development* 99 (2017): 481–97.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
