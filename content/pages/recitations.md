@@ -23,13 +23,13 @@ No recitation this week
 2
 {{< tdclose >}}{{< tdopen >}}
 
-Map Test \[8 minutes\]
+Map Test \[8 min\]
 
-Compare and contrast of Aristotle, Ibn Khaldun, Hobbes, and Hume \[12 minutes\]
+Compare and contrast of Aristotle, Ibn Khaldun, Hobbes, and Hume \[12 min\]
 
-Discussion of Dahl: Is it desirable not to have a state? Workable? \[15 minutes\]
+Discussion of Dahl: Is it desirable not to have a state? Workable? \[15 min\]
 
-Discussion of expectations for papers and breakout groups \[15 minutes\]
+Discussion of expectations for papers and breakout groups \[15 min\]
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -100,17 +100,12 @@ Group F: Redistribution. Make sure to articulate whether and why the state shoul
 
 Class discussion of six questions using buzz groups
 
-Explanation of task \[5 min\]
-
-What qualities should rulers have? (Start by brainstorming a list, then identifying tradeoffs among these attributes, and then prioritizing certain qualities.) \[7 min + 3 min of reporting\] 
-
-Review qualities that leaders should have based on what other groups have done. \[3 min\]
-
-What systems of recruitment, selection, and training are most likely to produce leaders with these qualities? \[10 min\]
-
-Does popular election produce leaders with these qualities? \[10 min\]
-
-Can you design a system that would reliably produce leaders with these qualities? \[10 min\]
+- *Explanation of task \[5 min\]*
+- *What qualities should rulers have? (Start by brainstorming a list, then identifying tradeoffs among these attributes, and then prioritizing certain qualities.) \[7 min + 3 min of reporting\]* 
+- *Review qualities that leaders should have based on what other groups have done. \[3 min\]*
+- *What systems of recruitment, selection, and training are most likely to produce leaders with these qualities? \[10 min\]*
+- *Does popular election produce leaders with these qualities? \[10 min\]*
+- *Can you design a system that would reliably produce leaders with these qualities? \[10 min\]*
 
 {{< tdclose >}}{{< tdopen >}}
  
