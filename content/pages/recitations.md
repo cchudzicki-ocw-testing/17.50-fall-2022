@@ -117,20 +117,19 @@ Class discussion of six questions using buzz groups
 Discussion of Lijphart
 {{< tdclose >}}{{< tdopen >}}
 Lijphart, Arend. *Patterns of Democracy: Government Forms and Performance in Thirty-Six Countries*. Yale University Press, 1999. ISBN: 9780300078930. \[Preview with [Google Books](https://www.google.com/books/edition/Patterns_of_Democracy/GLtX2zJrflAC?hl=en&gbpv=1)\]
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-9
-{{< tdclose >}}{{< tdopen >}}
-Buzz groups ?????
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 5: In the real world: Improving governance through federalism and devolution**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-10
+7
 {{< tdclose >}}{{< tdopen >}}
-Does decentralization improve governance?
+
+Breakout groups
+
+- *Detailed discussion of Rao, et al. \[35 min\]*
+- *Buzz groups:* You are the largest landowners in your county/village of 10,000 people, collectively owning about half of the arable land. The progressive national government has announced that in one week it will send an agricultural inspector who will (a) measure all landholdings in preparation for potential land reform legislation, (b) encourage smallholders in the community to form a cooperative, and (c) help landless villagers form a farmers’ union. What do you do? \[20 min\]
+
 {{< tdclose >}}{{< tdopen >}}
- 
+Rao, Vijayendra, Kripa Ananthpur, and Kabir Malik. “[The Anatomy of Failure: An Ethnography of a Randomized Trial to Deepen Democracy in Rural India](https://www.sciencedirect.com/science/article/pii/S0305750X17302115).” *World Development* 99 (2017): 481–97.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
