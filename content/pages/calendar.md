@@ -210,13 +210,23 @@ Paper 5 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
+
 Monitoring street-level bureaucrats
+
+- *Causes of corruption and shirking among street-level bureaucrats*
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
+
 Buzz groups on corruption
+
+- *You are a police captain (heading a precinct) and would like to supplement your income by at least $50,000 per year through corrupt practices. But you also do not want to go to jail or lose your job, which might happen if your corruption is exposed. What scams can you invent that fall within acceptable risk parameters?*
+- *You are the Inspector General of the police department. Your police department is known to have some corruption and you are trying to get it under control. What policies will keep captains (who head a precinct) on their best behavior?*
+- *You are the Inspector General of the police department. You have a relatively clean police force but are trying to make sure that police captains do not become corrupt. What policies do you invent?*
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -224,7 +234,14 @@ Buzz groups on corruption
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
+
 ????????????????????
+
+- *Defining the boundaries of a political community*
+- *The political community in post-conquest and post-colonial states*
+- *National identity: instrument of state control or crucial social glue? Does having a strong national identity make governance better?*
+- *Class discussion of readings*
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
