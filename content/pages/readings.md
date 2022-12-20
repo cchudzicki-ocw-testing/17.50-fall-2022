@@ -157,13 +157,9 @@ Davis, Jennifer. “[Corruption in Public Service Delivery: Experience from Sou
 
 Rheault, Magali. “[Many World Citizens Trust Neighbors More Than Police](https://news.gallup.com/poll/102346/many-world-citizens-trust-neighbors-more-than-police.aspx).” Gallup. October 25, 2007.
 
-Davis, Diane E. “[Law Enforcement in Mexico: Not Yet Under Control](https://nacla.org/article/law-enforcement-mexico-not-yet-under-control).” NACLA. 
+Davis, Diane E. “[Law Enforcement in Mexico: Not Yet Under Control](https://nacla.org/article/law-enforcement-mexico-not-yet-under-control).” NACLA. September 25, 2007.
 
-September 25, 2007.
-
-Mazzolla, Francisco. “[Community Policing in Lebanon](https://www.mei.edu/publications/community-policing-lebanon).” Middle East Institute. 
-
-October 29, 2018.
+Mazzolla, Francisco. “[Community Policing in Lebanon](https://www.mei.edu/publications/community-policing-lebanon).” Middle East Institute. October 29, 2018.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
