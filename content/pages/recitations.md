@@ -101,7 +101,7 @@ Group F: Redistribution. Make sure to articulate whether and why the state shoul
 Class discussion of six questions using buzz groups
 
 - *Explanation of task \[5 min\]*
-- *What qualities should rulers have? (Start by brainstorming a list, then identifying tradeoffs among these attributes, and then prioritizing certain qualities.) \[7 min + 3 min of reporting\]* 
+- *What qualities should rulers have? (Start by brainstorming a list, then identifying tradeoffs among these attributes, and then prioritizing certain qualities.) \[7 min + 3 min of reporting\]*
 - *Review qualities that leaders should have based on what other groups have done. \[3 min\]*
 - *What systems of recruitment, selection, and training are most likely to produce leaders with these qualities? \[10 min\]*
 - *Does popular election produce leaders with these qualities? \[10 min\]*
@@ -109,20 +109,14 @@ Class discussion of six questions using buzz groups
 
 {{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-7
-{{< tdclose >}}{{< tdopen >}}
-Constraining rulers
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 4: Entering the real world: Improving governance through better selection of leaders**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-8
+5
 {{< tdclose >}}{{< tdopen >}}
-Can we design better representative institutions?
+Discussion of Lijphart
 {{< tdclose >}}{{< tdopen >}}
- 
+Lijphart, Arend. *Patterns of Democracy: Government Forms and Performance in Thirty-Six Countries*. Yale University Press, 1999. ISBN: 9780300078930. \[Preview with [Google Books](https://www.google.com/books/edition/Patterns_of_Democracy/GLtX2zJrflAC?hl=en&gbpv=1)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
