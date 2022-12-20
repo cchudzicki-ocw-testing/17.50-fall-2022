@@ -18,25 +18,7 @@ Introduction
 {{< tdclose >}}{{< tdopen >}}
 Course syllabus
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-
 **Topic 1:  State and government**
-
-*Recommended films, TV, or novels for the week related to the state (or lack thereof):*
-
-[*Deadwood, Season 1, Episode 1*](https://www.imdb.com/title/tt0556296/?ref_=ttep_ep1)*.* Directed by Walter Hill. Color, 62 min. 2004.
-
-Golding, William. *Lord of the Flies.* Penguin Books, 2003. ISBN: ‎9780399501487. \[Preview with [Google Books](https://www.google.com/books/edition/Lord_of_the_Flies/3C-4dsIGlEgC?hl=en&gbpv=1)\]
-
-[*Hotel Rwanda*](https://www.imdb.com/title/tt0395169/?ref_=fn_al_tt_1)*.* Directed by Terry George. Color, 121 min. 2004.
-
-[*The Killing Fields*](https://www.imdb.com/title/tt0087553/?ref_=fn_al_tt_3). Directed by Roland Joffé. Color, 141 min. 1984.
-
-Orwell, George. *1984.* epubli, 2021. ISBN: 9783753145136. \[Preview with [Google Books](https://www.google.com/books/edition/Nineteen_Eighty_Four/PEpoEAAAQBAJ?hl=en&gbpv=1)\]
-
-Lowry, Lois. *The Giver.* Houghton Mifflin Harcourt, 2014. ISBN: 9780544340688. \[Preview with [Google Books](https://www.google.com/books/edition/The_Giver/Coi9AwAAQBAJ?hl=en&gbpv=1)\]
-
-[*Burn!*](https://www.imdb.com/title/tt0064866/?ref_=fn_al_tt_6) Directed by Gillo Pontecorvo. Color, 112 min. 1969.
-
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
@@ -62,6 +44,18 @@ The state and its discontents (2)
 {{< tdclose >}}{{< tdopen >}}
 No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+
+Recommended films, TV, or novels for the week related to the state (or lack thereof):
+
+- [*Deadwood, Season 1, Episode 1*](https://www.imdb.com/title/tt0556296/?ref_=ttep_ep1)*.* Directed by Walter Hill. Color, 62 min. 2004.
+- Golding, William. *Lord of the Flies.* Penguin Books, 2003. ISBN: ‎9780399501487. \[Preview with [Google Books](https://www.google.com/books/edition/Lord_of_the_Flies/3C-4dsIGlEgC?hl=en&gbpv=1)\]
+- [*Hotel Rwanda*](https://www.imdb.com/title/tt0395169/?ref_=fn_al_tt_1)*.* Directed by Terry George. Color, 121 min. 2004.
+- [*The Killing Fields*](https://www.imdb.com/title/tt0087553/?ref_=fn_al_tt_3). Directed by Roland Joffé. Color, 141 min. 1984.
+- Orwell, George. *1984.* epubli, 2021. ISBN: 9783753145136. \[Preview with [Google Books](https://www.google.com/books/edition/Nineteen_Eighty_Four/PEpoEAAAQBAJ?hl=en&gbpv=1)\]
+- Lowry, Lois. *The Giver.* Houghton Mifflin Harcourt, 2014. ISBN: 9780544340688. \[Preview with [Google Books](https://www.google.com/books/edition/The_Giver/Coi9AwAAQBAJ?hl=en&gbpv=1)\]
+- [*Burn!*](https://www.imdb.com/title/tt0064866/?ref_=fn_al_tt_6) Directed by Gillo Pontecorvo. Color, 112 min. 1969.
+
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 2: Making rules**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -83,11 +77,15 @@ No readings assigned.
 Picking rulers ?????
 {{< tdclose >}}{{< tdopen >}}
 
-- Allison, Graham. “[The Lee Kuan Yew Conundrum](https://www.theatlantic.com/international/archive/2015/03/lee-kuan-yew-conundrum-democracy-singapore/388955/).” *The Atlantic,* March 30, 2015. 
-- “[Lee Kuan Yew: The Wise Man of the East](https://www.economist.com/asia/2015/03/22/the-wise-man-of-the-east).” *The Economist,* March 26, 2015. 
-- Silverstein, Ken. “[Teodorin’s World](https://foreignpolicy.com/2011/02/21/teodorins-world/).” *Foreign Policy* 185 (2011): 54–62.
-- Sun Yat-sen. Selections from “The Principle of *Mínquán.*” In *The Three Principles of the People: San Min Chu I*. Translated by Frank W. Price. ISBN: 9781927077030.
-- Dahl, Robert A.  “Guardianship.” Chapter 4 in *Democracy and Its Critics.* Yale University Press, 1991. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\]
+Allison, Graham. “[The Lee Kuan Yew Conundrum](https://www.theatlantic.com/international/archive/2015/03/lee-kuan-yew-conundrum-democracy-singapore/388955/).” *The Atlantic,* March 30, 2015. 
+
+“[Lee Kuan Yew: The Wise Man of the East](https://www.economist.com/asia/2015/03/22/the-wise-man-of-the-east).” *The Economist,* March 26, 2015. 
+
+Silverstein, Ken. “[Teodorin’s World](https://foreignpolicy.com/2011/02/21/teodorins-world/).” *Foreign Policy* 185 (2011): 54–62.
+
+Sun Yat-sen. Selections from “The Principle of *Mínquán.*” In *The Three Principles of the People: San Min Chu I*. Translated by Frank W. Price. ISBN: 9781927077030.
+
+Dahl, Robert A.  “Guardianship.” Chapter 4 in *Democracy and Its Critics.* Yale University Press, 1991. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -114,7 +112,7 @@ Lijphart, Arend. “Introduction.” Chapter 1 in *Patterns of Democracy: Govern
 {{< tdclose >}}{{< tdopen >}}
 Buzz groups ?????
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 5: In the real world: Improving governance through federalism and devolution**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -122,7 +120,11 @@ Buzz groups ?????
 {{< tdclose >}}{{< tdopen >}}
 Does decentralization improve governance?
 {{< tdclose >}}{{< tdopen >}}
- 
+
+“[Political Decentralization](http://www1.worldbank.org/publicsector/decentralization/political.htm).” Decentralization & Subnational Regional Economics, The World Bank Group.
+
+Meenakshi, D. “[Essay on the Decentralisation of Power](https://www.politicalsciencenotes.com/essay/government/essay-on-the-decentralisation-of-power-government-political-science/1531).” Political Science.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
