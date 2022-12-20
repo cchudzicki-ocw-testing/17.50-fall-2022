@@ -171,9 +171,8 @@ Buzz groups on corruption
 
 Recommended films for the week:
 
-[*Brubaker*](https://www.imdb.com/title/tt0080474/?ref_=nv_sr_srsg_0)*.* Directed by Stuart Rosenberg. Color, 131 min. 1980*.*
-
-[*Leviathan*](https://www.imdb.com/title/tt2802154/?ref_=nv_sr_srsg_1)*.* Directed by Andrey Zvyagintaev. Color, 140 min. 2014.
+- [*Brubaker*](https://www.imdb.com/title/tt0080474/?ref_=nv_sr_srsg_0)*.* Directed by Stuart Rosenberg. Color, 131 min. 1980.
+- [*Leviathan*](https://www.imdb.com/title/tt2802154/?ref_=nv_sr_srsg_1)*.* Directed by Andrey Zvyagintaev. Color, 140 min. 2014.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 7: Who are the people?**
