@@ -133,15 +133,27 @@ Picking rulers ?????
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
+
 Constraining rulers
+
+- *Discussion of conclusions from recitation*
+- *Quick discussion of paper topic*
+
 {{< tdclose >}}{{< tdopen >}}
- 
+Paper 2 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 4: Entering the real world: Improving governance through better selection of leaders**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
+
 Can we design better representative institutions?
+
+- *Electoral rules for the legislature*
+- *Presidentialism versus parliamentarism*
+- *The problem of multidimensionality in representative systems*
+- *The problems of political parties (internal and external)*
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
