@@ -140,7 +140,7 @@ Rao, Vijayendra, Kripa Ananthpur, and Kabir Malik. “[The Anatomy of Failure: A
 {{< tdclose >}}{{< tdopen >}}
 Class discussion
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 6: In the real world: Improving governance through monitoring and motivating officials**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -148,13 +148,37 @@ Class discussion
 {{< tdclose >}}{{< tdopen >}}
 Monitoring street-level bureaucrats
 {{< tdclose >}}{{< tdopen >}}
- 
+
+Fordham, Alice. “[App Aims to Track Engrained Corruption in Lebanon](https://www.npr.org/2015/03/09/391795425/app-tries-to-track-engrained-corruption-in-lebanon).” NPR. March 9, 2015.  (*Make sure to listen to the interview rather than read the transcript.*)
+
+ “[Corruption and Economic Development](http://www1.worldbank.org/publicsector/anticorrupt/corruptn/cor02.htm).” Chapter 2 in *Helping Countries Combat Corruption: The Role of the World Bank.* The World Bank Group. 1997.
+
+Davis, Jennifer. “[Corruption in Public Service Delivery: Experience from South Asia’s Water and Sanitation Sector](https://www.sciencedirect.com/science/article/pii/S0305750X03001979).” *World Development* 32, no. 1 (2003): 53–71.  
+
+Rheault, Magali. “[Many World Citizens Trust Neighbors More Than Police](https://news.gallup.com/poll/102346/many-world-citizens-trust-neighbors-more-than-police.aspx).” Gallup. October 25, 2007.
+
+Davis, Diane E. “[Law Enforcement in Mexico: Not Yet Under Control](https://nacla.org/article/law-enforcement-mexico-not-yet-under-control).” NACLA. 
+
+September 25, 2007.
+
+Mazzolla, Francisco. “[Community Policing in Lebanon](https://www.mei.edu/publications/community-policing-lebanon).” Middle East Institute. 
+
+October 29, 2018.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
 Buzz groups on corruption
 {{< tdclose >}}{{< tdopen >}}
  
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+
+Recommended films for the week:
+
+[*Brubaker*](https://www.imdb.com/title/tt0080474/?ref_=nv_sr_srsg_0)*.* Directed by Stuart Rosenberg. Color, 131 min. 1980*.*
+
+[*Leviathan*](https://www.imdb.com/title/tt2802154/?ref_=nv_sr_srsg_1)*.* Directed by Andrey Zvyagintaev. Color, 140 min. 2014.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 7: Who are the people?**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
