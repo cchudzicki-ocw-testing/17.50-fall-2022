@@ -162,9 +162,9 @@ Can we design better representative institutions?
 
 Buzz groups ?????
 
-- Buzz groups: pros and cons of different electoral institutions in practice
-- Buzz groups: would institutional changes really matter?
-- Buzz groups: can we predict the effects?
+- *Buzz groups: pros and cons of different electoral institutions in practice*
+- *Buzz groups: would institutional changes really matter?*
+- *Buzz groups: can we predict the effects?*
 
 {{< tdclose >}}{{< tdopen >}}
 Paper 3 due
@@ -173,13 +173,26 @@ Paper 3 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
+
 Does decentralization improve governance?
+
+- *Political versus administrative federalism*
+- *Dealing with ethnic and regional divisions*
+- *Authoritarian enclaves, clientelism, and other challenges*
+- *Discussion of decentralizing reforms in problematic contexts*
+
 {{< tdclose >}}{{< tdopen >}}
- 
+Paper 4 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
+
 Can participatory mechanisms enhance the quality of governance?
+
+The democratic chain and the inadequacy of the electoral mechanism
+
+Direct democracy and related innovations
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
