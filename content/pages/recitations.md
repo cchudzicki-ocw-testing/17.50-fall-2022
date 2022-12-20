@@ -8,7 +8,7 @@ uid: f17b11bb-4820-4baa-a478-902e80f3a98f
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
 {{< thclose >}}{{< thopen >}}
-TOPICS
+ACTIVITIES
 {{< thclose >}}{{< thopen >}}
 READINGS
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
@@ -92,18 +92,26 @@ Group F: Redistribution. Make sure to articulate whether and why the state shoul
 - Amadeo, Kimberly. “[What Is Universal Basic Income?](https://www.thebalancemoney.com/universal-basic-income-4160668)” August 7, 2022.  The Balance.
 - Hunter, Brittany. “[The Top Three Arguments against a Universal Basic Income](https://fee.org/articles/the-top-three-arguments-against-a-universal-basic-income/).” September 8, 2017. FEE Stories, Foundation for Economic Education.
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-5
-{{< tdclose >}}{{< tdopen >}}
-Presentations by breakout groups
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 3: Picking and constraining rulers**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-6
+4
 {{< tdclose >}}{{< tdopen >}}
-Picking rulers ?????
+
+Class discussion of six questions using buzz groups
+
+Explanation of task \[5 min\]
+
+What qualities should rulers have? (Start by brainstorming a list, then identifying tradeoffs among these attributes, and then prioritizing certain qualities.) \[7 min + 3 min of reporting\] 
+
+Review qualities that leaders should have based on what other groups have done. \[3 min\]
+
+What systems of recruitment, selection, and training are most likely to produce leaders with these qualities? \[10 min\]
+
+Does popular election produce leaders with these qualities? \[10 min\]
+
+Can you design a system that would reliably produce leaders with these qualities? \[10 min\]
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
