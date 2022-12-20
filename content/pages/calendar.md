@@ -189,18 +189,22 @@ Paper 4 due
 
 Can participatory mechanisms enhance the quality of governance?
 
-The democratic chain and the inadequacy of the electoral mechanism
-
-Direct democracy and related innovations
+- *The democratic chain and the inadequacy of the electoral mechanism*
+- *Direct democracy and related innovations*
 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
+
 Class discussion
+
+- Follow-up on buzz groups
+- Discussion of paper
+
 {{< tdclose >}}{{< tdopen >}}
- 
+Paper 5 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 6: In the real world: Improving governance through monitoring and motivating officials**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
