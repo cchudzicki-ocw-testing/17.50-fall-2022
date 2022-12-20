@@ -58,8 +58,8 @@ Group A: Lessons from Athens. The institutions invented in the ancient Greek wor
 
 Group B: The use of referenda in modern societies. Focus here on the idea of the citizenry meeting regularly (in person or virtually) to vote directly on policy decisions. Are these feasible in modern societies. If so, for what spheres of policy or types of decisions? What are the pros and cons of applying them?
 
-- Dahl, Robert A.  “Towards the Second Transformation: Republicanism, Representation, and the Logic of Equality.” Chapter 2 in *Democracy and Its Critics.* Yale University Press, 1991, pp. 28–30. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\] (Read the section on “Representative Government”.)
-- Seiffert, Jeanette. “[Perfect Democracy?](https://www.dw.com/en/pros-and-cons-of-the-swiss-referendum-model/a-17643284)” May 18, 2014. Made for Minds.
+- Dahl, Robert A.  “Towards the Second Transformation: Republicanism, Representation, and the Logic of Equality.” Chapter 2 in *Democracy and Its Critics.* Yale University Press, 1991, pp. 28–30. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\] *(Read the section on “Representative Government”.)*
+- Seiffert, Jeanette. “[Perfect Democracy?](https://www.dw.com/en/pros-and-cons-of-the-swiss-referendum-model/a-17643284)” Made for Minds. May 18, 2014. 
 - Salutin, Rick. “[Referendums At Heart of Swiss Political System](https://www.thestar.com/news/insight/2012/07/21/referendums_at_heart_of_swiss_political_system.html?rf),” *Toronto Sun*, July 21, 2012.
 - Fishkin, James S. “[The Nation in a Room](https://www.bostonreview.net/articles/james-fishkin-nation-in-a-room-turning-public-opinion-into-policy/).” *Boston Review*, March 1, 2006. 
 - Schmitter, Philippe C. [“A Proposal for the Creation of a 'Citizen Assembly'.”(PDF)](https://www.eui.eu/Documents/DepartmentsCentres/SPS/Profiles/Schmitter/CitizenAssembly.pdf)
@@ -69,13 +69,13 @@ Group C: External defense. What sort of institutions are required and desirable 
 - Kaplan, Jonathan. “[The Role of the Military in Israel](https://archive.jewishagency.org/society-and-politics/content/36591/).” The Jewish Agency for Israel.
 - Kramer, Andrew. “[Spooked by Russia, Tiny Estonia Trains a Nation of Insurgents](https://www.nytimes.com/2016/11/01/world/europe/spooked-by-russia-tiny-estonia-trains-a-nation-of-insurgents.html),” *New York Times*, October 31, 2016.
 - Barash, David P. “[Costa Rica’s Peace Dividend: How Abolishing the Military Paid Off](https://www.latimes.com/opinion/la-xpm-2013-dec-15-la-oe-barash-costa-rica-demilitarization-20131208-story.html),” *Los Angeles Times*, December 15, 2013.
-- McFate, Sean. “[Mercenaries and War: Understanding Private Armies Today](https://ndupress.ndu.edu/Media/News/Article/2031922/mercenaries-and-war-understanding-private-armies-today/).” December 4, 2019. National Defense University Press.
-- Rostker, Bernard D. “[The Evolution of the All-Volunteer Force](https://www.rand.org/pubs/research_briefs/RB9195.html).” 2006. RAND.
+- McFate, Sean. “[Mercenaries and War: Understanding Private Armies Today](https://ndupress.ndu.edu/Media/News/Article/2031922/mercenaries-and-war-understanding-private-armies-today/).” National Defense University Press. December 4, 2019. 
+- Rostker, Bernard D. “[The Evolution of the All-Volunteer Force](https://www.rand.org/pubs/research_briefs/RB9195.html).” RAND. 2006. 
 - Weisberg, Jacob. “[Rough Draft: The Gross Unfairness of an All-Volunteer Army](https://slate.com/news-and-politics/2006/03/the-gross-unfairness-of-an-all-volunteer-army.html).” *Slate*, March 22, 2006. 
 
 Group D: Justice and punishment. Begin from first principles: how should the state punish infractions? You should feel free to consider alternative approaches to deterrence and punishment in general that rely on community shaming, community service, etc. Note that you may wish to apply the notion of “restorative justice” to certain types of crimes and certain types of communities- for instance, involuntary homicide, fraud, or sexual misconduct between individuals who know each other. Whatever you decide, make sure you clearly articulate the fundamental options for the class.
 
-- Fukuyama, Francis.  “Tribal Societies: Property, Justice, War.” Chapter 4 in *The Origins of Political Order*. Farrar, Straus and Giroux, 2011, pp. 69–72. ISBN: 9781429958936. (Read the section “Law and Justice.”)
+- Fukuyama, Francis.  “Tribal Societies: Property, Justice, War.” Chapter 4 in *The Origins of Political Order*. Farrar, Straus and Giroux, 2011, pp. 69–72. ISBN: 9781429958936. *(Read the section “Law and Justice.”)*
 - Oshidary, Neekaan. [Summary of Howard Zehr’s *The Little Book of Restorative Justice.* (PDF)](https://neekaan.com/TheLittleBookofRestorativeJustice.pdf) Neekaan.com.
 - Rosen, David. “[Crime & Public Shaming](https://www.counterpunch.org/2016/04/15/crime-public-shaming/).” *CounterPunch*, April 15, 2016. 
 - [Alternatives to imprisonment](https://en.wikipedia.org/wiki/Alternatives_to_imprisonment). Wikipedia.
@@ -88,9 +88,9 @@ Group E: Law enforcement. Think about the role of policing, including the role o
 Group F: Redistribution. Make sure to articulate whether and why the state should be in the business of redistribution. Consider whether there should be any conditionality associated with transfers and, if so, what sort? (For instance, recipients of government assistance must do X.) If you believe the state should ensure some sort of welfare provision to disadvantaged citizens, discuss how such transfers can be made so that the state feels smaller or less intrusive. Be sure to articulate clearly for your classmates what the different options suggested by the readings are.
 
 - Bartholomew, James. “[Swiss Welfare Runs like Clockwork](https://www.spectator.co.uk/article/swiss-welfare-runs-like-clockwork/).” *The Spectator,* July 17, 2010.
-- Bergmann, Barbara. “[Why Sweden, Not Switzerland, Should Be America’s Social Welfare Model](https://www.pbs.org/newshour/nation/sweden-switzerland-americas-social-welfare-model).” April 11, 2014. PBS News Hour.
+- Bergmann, Barbara. “[Why Sweden, Not Switzerland, Should Be America’s Social Welfare Model](https://www.pbs.org/newshour/nation/sweden-switzerland-americas-social-welfare-model).” PBS News Hour. April 11, 2014. 
 - Amadeo, Kimberly. “[What Is Universal Basic Income?](https://www.thebalancemoney.com/universal-basic-income-4160668)” August 7, 2022.  The Balance.
-- Hunter, Brittany. “[The Top Three Arguments against a Universal Basic Income](https://fee.org/articles/the-top-three-arguments-against-a-universal-basic-income/).” September 8, 2017. FEE Stories, Foundation for Economic Education.
+- Hunter, Brittany. “[The Top Three Arguments against a Universal Basic Income](https://fee.org/articles/the-top-three-arguments-against-a-universal-basic-income/).” FEE Stories, Foundation for Economic Education. September 8, 2017. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 3: Picking and constraining rulers**
@@ -130,24 +130,16 @@ Breakout groups
 
 {{< tdclose >}}{{< tdopen >}}
 Rao, Vijayendra, Kripa Ananthpur, and Kabir Malik. “[The Anatomy of Failure: An Ethnography of a Randomized Trial to Deepen Democracy in Rural India](https://www.sciencedirect.com/science/article/pii/S0305750X17302115).” *World Development* 99 (2017): 481–97.
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-11
-{{< tdclose >}}{{< tdopen >}}
-Can participatory mechanisms enhance the quality of governance?
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-12
-{{< tdclose >}}{{< tdopen >}}
-Class discussion
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 6: In the real world: Improving governance through monitoring and motivating officials**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-13
+8
 {{< tdclose >}}{{< tdopen >}}
-Monitoring street-level bureaucrats
+
+Discussion of readings
+
+The nature and extent of corruption in China
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
