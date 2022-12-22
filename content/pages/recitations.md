@@ -75,7 +75,7 @@ Group C: External defense. What sort of institutions are required and desirable 
 
 Group D: Justice and punishment. Begin from first principles: how should the state punish infractions? You should feel free to consider alternative approaches to deterrence and punishment in general that rely on community shaming, community service, etc. Note that you may wish to apply the notion of “restorative justice” to certain types of crimes and certain types of communities- for instance, involuntary homicide, fraud, or sexual misconduct between individuals who know each other. Whatever you decide, make sure you clearly articulate the fundamental options for the class.
 
-- Fukuyama, Francis.  “Tribal Societies: Property, Justice, War.” Chapter 4 in *The Origins of Political Order*. Farrar, Straus and Giroux, 2011, pp. 69–72. ISBN: 9781429958936. *(Read the section “Law and Justice.”)*
+- Fukuyama, Francis.  “Tribal Societies: Property, Justice, War.” Chapter 4 in *The Origins of Political Order*. Profile Books, 2011. ISBN: 9781847652812. \[Preview with [Google Books](https://www.google.com/books/edition/The_Origins_of_Political_Order/CvN0ihQi--wC?hl=en&gbpv=1)\]*(Read the section “Law and Justice.”)*
 - Oshidary, Neekaan. [Summary of Howard Zehr’s *The Little Book of Restorative Justice.* (PDF)](https://neekaan.com/TheLittleBookofRestorativeJustice.pdf) Neekaan.com.
 - Rosen, David. “[Crime & Public Shaming](https://www.counterpunch.org/2016/04/15/crime-public-shaming/).” *CounterPunch*, April 15, 2016. 
 - [Alternatives to imprisonment](https://en.wikipedia.org/wiki/Alternatives_to_imprisonment). Wikipedia.
