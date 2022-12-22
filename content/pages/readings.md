@@ -192,13 +192,13 @@ Blakemore, Erin. “[Who Are the Rohingya People?](https://www.nationalgeographi
 
 Estrin, James. “[Breaking Through Walls of Bias](https://archive.nytimes.com/lens.blogs.nytimes.com/2012/11/05/breaking-through-walls-of-bias/),” *New York Times*, November 5, 2012.
 
-Bilefsky, Dan. “[Walls, Real and Imagined, Surround the Roma](https://www.nytimes.com/2010/04/03/world/europe/03roma.html?_r=0),” *New York Times*, April 5, 2010.
+Bilefsky, Dan. “[Walls, Real and Imagined, Surround the Roma](https://www.nytimes.com/2010/04/03/world/europe/03roma.html?_r=0),” *New York Times*, April 2, 2010.
 
-“[The Struggle for Survival of the Roma People: Europe's Most Hated](https://www.youtube.com/watch?v=ALdlphTYdi4).” Microsoft Bing. *(video)*
+“[The Struggle for Survival of the Roma People: Europe's Most Hated](https://www.youtube.com/watch?v=ALdlphTYdi4).” YouTube. *(video)*
 
-“[CNN documentary on the Roma community in Romania](https://www.youtube.com/watch?v=kGThWKlPRMc).” Microsoft Bing. *(video)*
+“[CNN documentary on the Roma community in Romania](https://www.youtube.com/watch?v=kGThWKlPRMc).” YouTube. *(video)*
 
-Berger, Miriam. “[Israel’s Hugely Controversial ‘Nation-State’ Law, Explained](https://www.vox.com/world/2018/7/31/17623978/israel-jewish-nation-state-law-bill-explained-apartheid-netanyahu-democracy).” Vox*.* July 31, 2018. 
+Berger, Miriam. “[Israel’s Hugely Controversial ‘Nation-State’ Law, Explained](https://www.vox.com/world/2018/7/31/17623978/israel-jewish-nation-state-law-bill-explained-apartheid-netanyahu-democracy).” Vox. July 31, 2018. 
 
 Burgess, Chris. “[A Japanese Multicultural Society Still Far Off](https://www.eastasiaforum.org/2016/10/13/a-japanese-multicultural-society-still-far-off/).” East Asia Forum. October 13, 2016.
 
