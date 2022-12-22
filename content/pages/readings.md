@@ -184,7 +184,7 @@ Recommended films for the week:
 
 Review Pop Quiz Question 10.
 
-Fukuyama, Francis.  “Tribal Societies: Property, Justice, War.” Chapter 4 in *The Origins of Political Order*. Farrar, Straus and Giroux, 2011, pp. 69–72. ISBN: 9781429958936. *(Read the section “Law and Justice.”)*
+Fukuyama, Francis.  “Tribal Societies: Property, Justice, War.” Chapter 4 in *The Origins of Political Order*. Profile Books, 2011. ISBN: 9781847652812. \[Preview with [Google Books](https://www.google.com/books/edition/The_Origins_of_Political_Order/CvN0ihQi--wC?hl=en&gbpv=1)\]*(Read the section “Law and Justice.”)*
 
 “[Episode 1.3: The Upside of Nationalism, with Aram Hur](https://www.scopeconditionspodcast.com/episodes/episode-3-the-upside-of-nationalism-with-aram-hur).” Scope Conditions Podcast.
 
