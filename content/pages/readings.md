@@ -181,7 +181,29 @@ Recommended films for the week:
 {{< tdclose >}}{{< tdopen >}}
 ????????????????????
 {{< tdclose >}}{{< tdopen >}}
+
 Review Pop Quiz Question 10.
+
+Fukuyama, Francis.  “Tribal Societies: Property, Justice, War.” Chapter 4 in *The Origins of Political Order*. Farrar, Straus and Giroux, 2011, pp. 69–72. ISBN: 9781429958936. *(Read the section “Law and Justice.”)*
+
+“[Episode 1.3: The Upside of Nationalism, with Aram Hur](https://www.scopeconditionspodcast.com/episodes/episode-3-the-upside-of-nationalism-with-aram-hur).” Scope Conditions Podcast.
+
+Blakemore, Erin. “[Who Are the Rohingya People?](https://www.nationalgeographic.com/culture/article/rohingya-people)” *National Geographic*, February 8, 2019.
+
+Estrin, James. “[Breaking Through Walls of Bias](https://archive.nytimes.com/lens.blogs.nytimes.com/2012/11/05/breaking-through-walls-of-bias/),” *New York Times*, November 5, 2012.
+
+Bilefsky, Dan. “[Walls, Real and Imagined, Surround the Roma](https://www.nytimes.com/2010/04/03/world/europe/03roma.html?_r=0),” *New York Times*, April 5, 2010.
+
+“[The Struggle for Survival of the Roma People: Europe's Most Hated](https://www.youtube.com/watch?v=ALdlphTYdi4).” Microsoft Bing. *(video)*
+
+“[CNN documentary on the Roma community in Romania](https://www.youtube.com/watch?v=kGThWKlPRMc).” Microsoft Bing. *(video)*
+
+Berger, Miriam. “[Israel’s Hugely Controversial ‘Nation-State’ Law, Explained](https://www.vox.com/world/2018/7/31/17623978/israel-jewish-nation-state-law-bill-explained-apartheid-netanyahu-democracy).” Vox*.* July 31, 2018. 
+
+Burgess, Chris. “[A Japanese Multicultural Society Still Far Off](https://www.eastasiaforum.org/2016/10/13/a-japanese-multicultural-society-still-far-off/).” East Asia Forum. October 13, 2016.
+
+Stokes, Bruce. “[What It Takes to Truly Be ‘One of Us’](https://www.pewresearch.org/global/2017/02/01/what-it-takes-to-truly-be-one-of-us/).” Pew Research Center. February 1, 2017.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
