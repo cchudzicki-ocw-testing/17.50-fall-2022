@@ -284,13 +284,22 @@ Paper 7 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
+
 Bloated states and their consequences
+
+- *Random anecdote<sup>TM</sup>: Attempted assassination of Park Chun-Hee in 1974* 
+- *Bloated states and their consequences*
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
+
 ???????????????????????
+
+- *Broad explanations for economic development*
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
