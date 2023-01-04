@@ -275,13 +275,35 @@ Recommended film for the week:
 {{< tdclose >}}{{< tdopen >}}
 ???????????????????????
 {{< tdclose >}}{{< tdopen >}}
- 
+
+“[Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stat- BBC Four](https://www.youtube.com/watch?v=kTSxo3175ec).” YouTube. *(video)*
+
+“[The Road to Hell is Unpaved](https://www.economist.com/christmas-specials/2002/12/19/the-road-to-hell-is-unpaved).” *The Economist*, December 19, 2002.
+
+Rodrik, Dani, Arvind Subramanian, and Francesco Trebbi. “[Institutions Rule: The Primacy of Institutions over Geography and Integration in Economic Development](https://www.jstor.org/stable/40212696#metadata_info_tab_contents).” *Journal of Economic Growth* 9 (2004): 131–65.
+
+de Soto, Hernando. “The Five Mysteries of Capital.” Chapter 1 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
+
+———. “The Mystery of Missing Information.” Chapter 2 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
+
+———. “By Way of Conclusion.” Chapter 7 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003, pp. 208–18. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
+
+Rodrik, Dani. [“Industrial Policy: Don’t Ask Why, Ask How.” (PDF)](https://drodrik.scholar.harvard.edu/files/dani-rodrik/files/industrial-policy-dont-ask-why-ask-how.pdf) *Middle East Development Journal * 1, no. 1 (2009): 1–29.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
 ???????????????????????
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+
+Recommended films for the week:
+
+- [*The Harder They Come*](https://www.imdb.com/title/tt0070155/?ref_=nv_sr_srsg_4). Directed by Perry Henzell. Color, 120 min. 1972.
+- [*Slumdog Millionaire*](https://www.imdb.com/title/tt1010048/?ref_=nv_sr_srsg_0). Directed by Danny Boyle and Loveleen Tandan. Color, 120 min. 2008.
+- [*Central Station*](https://www.imdb.com/title/tt0140888/?ref_=fn_al_tt_1). Directed by Walter Salles. Color, 110 min. 1998.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 9: Revolution, democratization, and regime change**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
