@@ -223,7 +223,21 @@ Lozada, Carlos. “[Samuel Huntington, a Prophet for the Trump Era](https://www.
 {{< tdclose >}}{{< tdopen >}}
 The debate over immigration
 {{< tdclose >}}{{< tdopen >}}
- 
+
+Papademetriou, Demetrios G. “[Policy Considerations for Immigrant Integration](https://www.migrationpolicy.org/article/policy-considerations-immigrant-integration).” Migration Policy Institute. October 1, 2003.
+
+Hamilton, Tracy Brown. “[Losing Identity During the Refugee Crisis: The Difference between Assimilation and Integration in the Classroom](https://www.theatlantic.com/education/archive/2016/05/balancing-integration-and-assimilation-during-the-refugee-crisis/482757/).” *The Atlantic*, May 16, 2016.
+
+Creatura, Isabella. “[Rethinking ‘Integration’ and ‘Assimilation’ of Refugees](https://brownpoliticalreview.org/2017/03/rethinking-integration-assimilation-refugees/).” *Brown Political Review*, March 13, 2017.
+
+Zappi, Sylvia. “[French Government Revives Assimilation Policy](https://www.migrationpolicy.org/article/french-government-revives-assimilation-policy).” Migration Policy Institute. Migration Policy Institute. October 1, 2003.
+
+Griffith, Andrew. “[Building a Mosaic: The Evolution of Canada’s Approach to Immigrant Integration](https://www.migrationpolicy.org/article/building-mosaic-evolution-canadas-approach-immigrant-integration).” Migration Policy Institute. November 1, 2017.
+
+Goings, Rick. “[Stop Telling Immigrants to Assimilate and Start Helping Them Participate](https://www.weforum.org/agenda/2017/01/stop-telling-immigrants-to-assimilate-and-start-helping-them-participate/).” World Economic Forum. January 14, 2017.
+
+Bernstein, Hamutal, with Nicole DuBois. [“Bringing Evidence to the Refugee Integration Debate.” (PDF)](https://www.urban.org/sites/default/files/publication/97771/bringing_evidence_to_the_refugee_integration_debate_0.pdf) Urban Institute. April 2018. 
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
