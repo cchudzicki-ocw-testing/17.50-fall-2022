@@ -126,7 +126,7 @@ Lijphart, Arend. *Patterns of Democracy: Government Forms and Performance in Thi
 Breakout groups
 
 - *Detailed discussion of Rao, et al. \[35 min\]*
-- *Buzz groups:* You are the largest landowners in your county/village of 10,000 people, collectively owning about half of the arable land. The progressive national government has announced that in one week it will send an agricultural inspector who will (a) measure all landholdings in preparation for potential land reform legislation, (b) encourage smallholders in the community to form a cooperative, and (c) help landless villagers form a farmers’ union. What do you do? \[20 min\]
+- *Buzz groups:* *You are the largest landowners in your county/village of 10,000 people, collectively owning about half of the arable land. The progressive national government has announced that in one week it will send an agricultural inspector who will (a) measure all landholdings in preparation for potential land reform legislation, (b) encourage smallholders in the community to form a cooperative, and (c) help landless villagers form a farmers’ union. What do you do? \[20 min\]*
 
 {{< tdclose >}}{{< tdopen >}}
 Rao, Vijayendra, Kripa Ananthpur, and Kabir Malik. “[The Anatomy of Failure: An Ethnography of a Randomized Trial to Deepen Democracy in Rural India](https://www.sciencedirect.com/science/article/pii/S0305750X17302115).” *World Development* 99 (2017): 481–97.
@@ -160,8 +160,8 @@ National identity and ethnic minorities in China
 
 Prepare for class debate over immigration-related policies in Compostela: 
 
-- *Should “assimilation” or “integration” be the goal for immigrants and refugees?* 
-- *What government policies would best advance the goal you support?* 
+- *Should “assimilation” or “integration” be the goal for immigrants and refugees?*
+- *What government policies would best advance the goal you support?*
 - *\[Note: In each case, you will be assigned to argue for one side or the other, whether or not you actually agree with it.\]*
 
 Use an aging app to see what you and your group might look like at 60 years old
