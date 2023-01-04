@@ -142,18 +142,16 @@ The nature and extent of corruption in China
 
 {{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-14
-{{< tdclose >}}{{< tdopen >}}
-Buzz groups on corruption
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 7: Who are the people?**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-15
+9
 {{< tdclose >}}{{< tdopen >}}
-????????????????????
+
+Why is national identity valuable? Is it stronger when linked to race, ethnicity, language, religion, or shared cultural practices? If it is desirable, should the government promote it?
+
+National identity and ethnic minorities in China
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
