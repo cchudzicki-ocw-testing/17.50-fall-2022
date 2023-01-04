@@ -99,9 +99,9 @@ My wife and I have active two sons (ages 12 and 14) and an even more active dog.
 
 The TA or I will occasionally send you articles on current events. We will choose these articles because they strike us as (a) particularly insightful, (b) balanced in their presentation of issues, and (c) relevant to course themes – with the idea being that “if you are going to read anything about this topic, check out this one”. Of course, you are under no obligation to read them.
 
-*Random AnecdotesTM*
+*Random Anecdotes<sup>TM</sup>*
 
-I will sometimes begin class with a very brief story or factoid about comparative politics (“Random AnecdoteTM), a comment on a recent event, a mention of historically significant event on its anniversary, or something similar. The purpose of these remarks, which are not necessarily relevant to the subject matter for that particular class session (hence the “random”), is to get you thinking about some apparently puzzling political issue.
+I will sometimes begin class with a very brief story or factoid about comparative politics (“Random Anecdote<sup>TM</sup>”), a comment on a recent event, a mention of historically significant event on its anniversary, or something similar. The purpose of these remarks, which are not necessarily relevant to the subject matter for that particular class session (hence the “random”), is to get you thinking about some apparently puzzling political issue.
 
 #### Classroom Norms
 
