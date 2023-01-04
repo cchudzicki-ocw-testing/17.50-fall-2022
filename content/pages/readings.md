@@ -209,7 +209,15 @@ Stokes, Bruce. “[What It Takes to Truly Be ‘One of Us’](https://www.pewres
 {{< tdclose >}}{{< tdopen >}}
 Building national identity
 {{< tdclose >}}{{< tdopen >}}
- 
+
+ [“The American Identity: Points of Pride, Conflicting Views, and a Distinct Culture.” (PDF)](https://apnorc.org/wp-content/uploads/2020/02/APNORC_American_Identity_2017.pdf) Associated Press / NORC Center for Public Affairs Research at the University of Chicago. March 2017.
+
+Huntington, Samuel P. “Foreword.” In *Who Are We? The Challenges to America’s National Identity*. Simon & Schuster, 2004. ISBN: ‎9780684870533. \[Preview with [Google Books](https://www.google.com/books/edition/Who_are_We/6xiYiybkE8kC?hl=en&gbpv=1)\]  
+
+———. “The Crisis of National Identity.” Chapter 1 in *Who Are We? The Challenges to America’s National Identity*. Simon & Schuster, 2004. ISBN: ‎9780684870533. \[Preview with [Google Books](https://www.google.com/books/edition/Who_are_We/6xiYiybkE8kC?hl=en&gbpv=1)\]  
+
+Lozada, Carlos. “[Samuel Huntington, a Prophet for the Trump Era](https://www.washingtonpost.com/news/book-party/wp/2017/07/18/samuel-huntington-a-prophet-for-the-trump-era/),” *Washington Post*, July 18, 2017.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
