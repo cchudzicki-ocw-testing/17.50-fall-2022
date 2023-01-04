@@ -261,7 +261,7 @@ Paper 6 due
 
 The debate over immigration
 
-- *Random anecdote<sup>TM</sup>: “Beer hall* putsch*” coup attempt; November 8–9, 1923 (99 years ago)*
+- *Random anecdote<sup>TM</sup>: “Beer hall putsch” coup attempt; November 8–9, 1923* 
 - *Overview of immigration policies*
 
 {{< tdclose >}}{{< tdopen >}}
