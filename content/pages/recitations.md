@@ -198,7 +198,7 @@ de Soto, Hernando. “The Five Mysteries of Capital.” Chapter 1 in *The Myster
 
 ———. “The Mystery of Missing Information.” Chapter 2 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
 
-———. “By Way of Conclusion.” Chapter 7 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003, pp. 208–18. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
+———. “By Way of Conclusion.” Chapter 7 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003, pp. 208–18. ISBN: ‎9780465016150. 
 
 Rodrik, Dani. [“Industrial Policy: Don’t Ask Why, Ask How.” (PDF)](https://drodrik.scholar.harvard.edu/files/dani-rodrik/files/industrial-policy-dont-ask-why-ask-how.pdf) *Middle East Development Journal* 1, no. 1 (2009): 1–29.
 
