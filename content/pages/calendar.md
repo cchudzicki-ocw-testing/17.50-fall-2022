@@ -272,16 +272,12 @@ The debate over immigration
 
 Class discussion and debate
 
-- *Forty years after the founding of your now large, flourishing, and well-ordered nation of*  
-    *Compostela, climate change has created a vast number of desperate refugees from all over*  
-    *planet Earth. You – now pillars of the community, with spouses, grown children, and*  
-    *grandchildren – have been asked to make policy recommendations about how many*  
-    *refugees should be admitted. How many refugees should be admitted **each year** as a*  
-    *percentage of the colony’s current population (from 0% to 100%)? What conditions, if any,*  
-    *do you wish to set regarding the types of refugees the colony should accept? Will you favor*  
-    *certain individuals more than others? What mechanisms of integration for refugees should*  
-    *be created? Finally, how should the colony decide on your recommendations – by ordinary*  
-    *legislation, by supermajority legislation, by a majority in a referendum, or by a*  
+- *Forty years after the founding of your now large, flourishing, and well-ordered nation of*   
+    *Compostela, climate change has created a vast number of desperate refugees from all over planet Earth. You – now pillars of the community, with spouses, grown children, and*   
+    *grandchildren – have been asked to make policy recommendations about how many*   
+    *refugees should be admitted. How many refugees should be admitted **each year** as a*   
+    *percentage of the colony’s current population (from 0% to 100%)? What conditions, if any,* *do you wish to set regarding the types of refugees the colony should accept? Will you favor*   
+    *certain individuals more than others? What mechanisms of integration for refugees should be created? Finally, how should the colony decide on your recommendations – by ordinary legislation, by supermajority legislation, by a majority in a referendum, or by a*   
     *supermajority in a referendum – and why?*
 - *We will vote on which teams made the best arguments*
 
