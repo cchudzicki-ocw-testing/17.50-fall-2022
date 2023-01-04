@@ -155,9 +155,17 @@ National identity and ethnic minorities in China
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-16
+10
 {{< tdclose >}}{{< tdopen >}}
-Building national identity
+
+Prepare for class debate over immigration-related policies in Compostela: 
+
+- *Should “assimilation” or “integration” be the goal for immigrants and refugees?* 
+- *What government policies would best advance the goal you support?* 
+- *\[Note: In each case, you will be assigned to argue for one side or the other, whether or not you actually agree with it.\]*
+
+Use an aging app to see what you and your group might look like at 60 years old
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
