@@ -168,24 +168,16 @@ Use an aging app to see what you and your group might look like at 60 years old
 
 {{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-17
-{{< tdclose >}}{{< tdopen >}}
-The debate over immigration
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-18
-{{< tdclose >}}{{< tdopen >}}
-Class discussion and debate
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 8: What can the government do to promote prosperity? What should it not do?**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-19
+11
 {{< tdclose >}}{{< tdopen >}}
-Bloated states and their consequences
+
+Discussion of readings
+
+Economic policy choices in China
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
