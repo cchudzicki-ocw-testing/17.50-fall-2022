@@ -181,9 +181,15 @@ Economic policy choices in China
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-20
+12
 {{< tdclose >}}{{< tdopen >}}
-???????????????????????
+
+Discussion of Rodrik, et al. and de Soto (what is “dead capital”)
+
+- *What does de Soto presume about the state’s role? How realistic is this assumption?*
+- *Discussion of Rodrik (2009)*
+- *China as an exception to the question of property rights?*
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
