@@ -263,7 +263,13 @@ Fukuyama, Francis. “The Missing Dimensions of Stateness.” Chapter 1 in *Stat
 {{< tdclose >}}{{< tdopen >}}
 ???????????????????????
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+
+Recommended film for the week:
+
+[*Brazil*](https://www.imdb.com/title/tt0088846/?ref_=fn_al_tt_1). Directed by Terry Gilliam. Color,  132 min. 1985.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
