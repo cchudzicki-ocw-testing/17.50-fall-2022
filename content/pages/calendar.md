@@ -52,7 +52,7 @@ The state and its discontents (1)
 
 The state and its discontents (2)
 
-- *Random anecdoteTM: Montezuma’s instructions to his messenger, in delivery of a letter to Hernán Cortés at Veracruz.*
+- *Random anecdote<sup>TM</sup>: Montezuma’s instructions to his messenger, in delivery of a letter to Hernán Cortés at Veracruz.*
 - *Lecture: What is a state and why have one? (Part II) How were states originally created?*
 - *Nasty things states do. Better no state than a bad state?*
 - *Can we make the state “smaller”?*
@@ -76,7 +76,7 @@ The state and its discontents (2)
 
 Making rules and the state in countries that are “born free”
 
-- *Random anecdoteTM: Approved undergarments in a Japanese high school.*
+- *Random anecdote<sup>TM</sup>: Approved undergarments in a Japanese high school.*
 - *Born free versus something else*
 - *Introduction to the (fictitious) island nation of Compostela*
     - *Backup rainwater catchment versus coastal defense?*
@@ -247,13 +247,23 @@ Buzz groups on corruption
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
+
 Building national identity
+
+- *Options for promoting national identity in the now diverse nation of Compostela*
+- *Options for promoting national identity in a post-colonial society*
+
 {{< tdclose >}}{{< tdopen >}}
- 
+Paper 6 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
+
 The debate over immigration
+
+- *Random anecdote<sup>TM</sup>: “Beer hall* putsch*” coup attempt; November 8–9, 1923 (99 years ago)*
+- *Overview of immigration policies*
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
