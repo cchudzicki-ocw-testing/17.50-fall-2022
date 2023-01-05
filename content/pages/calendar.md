@@ -340,7 +340,13 @@ Writing assignment due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b44
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
+
 ???????????????????????
+
+- *What happened in the Arab Spring?*
+- *Why do people protest?*
+- *Why do dictators respond to protest to protests as they do?*
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
