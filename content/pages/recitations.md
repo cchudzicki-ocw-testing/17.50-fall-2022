@@ -202,24 +202,16 @@ de Soto, Hernando. “The Five Mysteries of Capital.” Chapter 1 in *The Myster
 
 Rodrik, Dani. [“Industrial Policy: Don’t Ask Why, Ask How.” (PDF)](https://drodrik.scholar.harvard.edu/files/dani-rodrik/files/industrial-policy-dont-ask-why-ask-how.pdf) *Middle East Development Journal* 1, no. 1 (2009): 1–29.
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-21
-{{< tdclose >}}{{< tdopen >}}
-???????????????????????
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-22
-{{< tdclose >}}{{< tdopen >}}
-???????????????????????
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 9: Revolution, democratization, and regime change**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-23
+13
 {{< tdclose >}}{{< tdopen >}}
-???????????????????????
+
+Political support, opposition, and control in China
+
+You are a member of the Civic Front of Kumar, a country ruled by an unpopular dictator whose secret police do atrocious things to his opponents. The Civic Front seeks to replace Kumar’s regime with a liberal democracy. Most of its leaders are in prison or in exile, though some (like you) are underground. What do you do?
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
