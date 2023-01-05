@@ -322,7 +322,7 @@ Brownlee, Jason, Tarek Masoud, and Andrew Reynolds. “[Tracking the 'Arab Sprin
 
 “[Episode 1.2: Forging Democracy Out of the Trauma of Repression, with Elizabeth Nugent](https://www.scopeconditionspodcast.com/episodes/episode-04-forging-democracy-out-of-the-trauma-of-repression-with-elizabeth-nugent).” Scope Conditions Podcast.
 
-Kendall-Taylor, Andrea, and Erica Frantz. “[How Autocracies Fall](https://www.tandfonline.com/doi/abs/10.1080/0163660X.2014.893172).” *Washington*  *Quarterly* 37, no. 1 (2014): 35–47.
+Kendall-Taylor, Andrea, and Erica Frantz. “[How Autocracies Fall](https://www.tandfonline.com/doi/abs/10.1080/0163660X.2014.893172).” *Washington* *Quarterly* 37, no. 1 (2014): 35–47.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
