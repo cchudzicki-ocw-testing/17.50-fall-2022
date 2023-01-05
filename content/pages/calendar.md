@@ -110,7 +110,7 @@ Making rules and the state in countries that are “born free”
 {{< tdclose >}}{{< tdopen >}}
 Presentations by breakout groups
 {{< tdclose >}}{{< tdopen >}}
-Paper 1 due
+Paper 1 due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 3: Picking and constraining rulers**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -140,7 +140,7 @@ Constraining rulers
 - *Quick discussion of paper topic*
 
 {{< tdclose >}}{{< tdopen >}}
-Paper 2 due
+Paper 2 due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 4: Entering the real world: Improving governance through better selection of leaders**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -167,7 +167,7 @@ Buzz groups ?????
 - *Buzz groups: can we predict the effects?*
 
 {{< tdclose >}}{{< tdopen >}}
-Paper 3 due
+Paper 3 due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 5: In the real world: Improving governance through federalism and devolution**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -182,7 +182,7 @@ Does decentralization improve governance?
 - *Discussion of decentralizing reforms in problematic contexts*
 
 {{< tdclose >}}{{< tdopen >}}
-Paper 4 due
+Paper 4 due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
@@ -204,7 +204,7 @@ Class discussion
 - Discussion of paper
 
 {{< tdclose >}}{{< tdopen >}}
-Paper 5 due
+Rewrite of Paper 4 due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 6: In the real world: Improving governance through monitoring and motivating officials**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -254,7 +254,7 @@ Building national identity
 - *Options for promoting national identity in a post-colonial society*
 
 {{< tdclose >}}{{< tdopen >}}
-Paper 6 due
+Paper 5 due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
@@ -278,7 +278,7 @@ Class discussion and debate
 Informal gab session on Friday: Recent elections
 
 {{< tdclose >}}{{< tdopen >}}
-Paper 7 due
+Paper 6 due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 8: What can the government do to promote prosperity? What should it not do?**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -287,7 +287,7 @@ Paper 7 due
 
 Bloated states and their consequences
 
-- *Random anecdote<sup>TM</sup>: Attempted assassination of Park Chun-Hee in 1974* 
+- *Random anecdote<sup>TM</sup>: Attempted assassination of Park Chun-Hee in 1974*
 - *Bloated states and their consequences*
 
 {{< tdclose >}}{{< tdopen >}}
@@ -305,15 +305,25 @@ Bloated states and their consequences
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
+
 ???????????????????????
+
+- *Industrial policy and its discontents*
+- *Review Pop Quiz questions 9 and 11*
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
-???????????????????????
+
+??????????????????????
+
+- *Random anecdote<sup>TM</sup>: Anniversary of the Hat Law in Turkey (November 25, 1925)*
+- *Further discussion of industrial policy*
+
 {{< tdclose >}}{{< tdopen >}}
- 
+Writing assignment due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 9: Revolution, democratization, and regime change**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
