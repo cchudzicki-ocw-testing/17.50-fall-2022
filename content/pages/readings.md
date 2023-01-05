@@ -314,7 +314,7 @@ Recommended films for the week:
 
 “[How did the Arab Spring start in Tunisia? - BBC What's New](https://www.youtube.com/watch?v=l_D7LLqufVE).” YouTube. *(video)*
 
-“[Here's How the Arab Spring Started and How It Affected the World | History](https://www.youtube.com/watch?v=Fgcd5ZcxDys&t=216s).” YouTube. *(video)*
+“[Here's How the Arab Spring Started and How It Affected the World | History](https://www.youtube.com/watch?v=Fgcd5ZcxDys).” YouTube. *(video)*
 
 Anderson, Lisa. “[Demystifying the Arab Spring: Parsing the Differences between Tunisia, Egypt, and Libya](https://www.researchgate.net/publication/263535781_Demystifying_the_Arab_Spring_Parsing_the_Differences_Between_Tunisia_Egypt_and_Libya).” *Foreign Affairs* 90, no. 3 (2011): 2–7.
 
@@ -322,7 +322,7 @@ Brownlee, Jason, Tarek Masoud, and Andrew Reynolds. “[Tracking the 'Arab Sprin
 
 “[Episode 1.2: Forging Democracy Out of the Trauma of Repression, with Elizabeth Nugent](https://www.scopeconditionspodcast.com/episodes/episode-04-forging-democracy-out-of-the-trauma-of-repression-with-elizabeth-nugent).” Scope Conditions Podcast.
 
-Kendall-Taylor, Andrea, and Erica Frantz. “[How Autocracies Fall](https://www.tandfonline.com/doi/abs/10.1080/0163660X.2014.893172).” *Washington*  
+Kendall-Taylor, Andrea, and Erica Frantz. “[How Autocracies Fall](https://www.tandfonline.com/doi/abs/10.1080/0163660X.2014.893172).” *Washington*   
 *Quarterly* 37, no. 1 (2014): 35–47.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
