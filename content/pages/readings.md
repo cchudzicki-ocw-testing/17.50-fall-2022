@@ -329,7 +329,15 @@ Kendall-Taylor, Andrea, and Erica Frantz. “[How Autocracies Fall](https://www.
 {{< tdclose >}}{{< tdopen >}}
 ???????????????????????
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+
+Recommended films for the week:
+
+[*Bahrain: Shouting in the Dark*](https://www.imdb.com/title/tt2203745/?ref_=nv_sr_srsg_0). Directed by May Ying Welsh. Color,  51 min. 2011.
+
+[*Z*](https://www.imdb.com/title/tt0065234/?ref_=fn_al_tt_1). Directed by Costa-Gavras. Color, 127 min. 1969.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 10: Do new technologies increase accountability or social control?**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
