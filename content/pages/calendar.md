@@ -329,7 +329,12 @@ Writing assignment due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b44
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
+
 ???????????????????????
+
+- *Theories of democratization and democratic breakdown*
+- *Democratizing autocratic regimes*
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
