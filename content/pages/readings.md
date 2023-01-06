@@ -371,7 +371,21 @@ Marr, Bernard. “[Chinese Social Credit Score: Utopian Big Data Bliss or Black 
 {{< tdclose >}}{{< tdopen >}}
 ???????????????????????
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+
+Recommended novels (some of which have been made into films) and movie for the week:
+
+Boye, Karin. *Kallocain*. Translated by Gustaf Lannestock. University of Wisconsin Press, 2002. ISBN: ‎9780299038946. \[Preview with [Google Books](https://www.google.com/books/edition/Kallocain/DyTTNWgQeTMC?hl=en&gbpv=1)\]
+
+Huxley, Aldous. *Brave New World*. Harper Perennial, 2006. ISBN: ‎9780060850524.
+
+Orwell, George. *Nineteen Eighty-Four*. Orion, 2022. ISBN: 9781473234819. \[Preview with [Google Books](https://www.google.com/books/edition/Nineteen_Eighty_Four/SN4wEAAAQBAJ?hl=en&gbpv=1)\]
+
+Eggers, Dave. *The Circle*. Knopf Doubleday Publishing Group, 2013. ISBN: 9780385351409.  \[Preview with [Google Books](https://www.google.com/books/edition/The_Circle/sbxWAAAAQBAJ?hl=en&gbpv=1)\]  
+
+[*Logan's Run*](https://www.imdb.com/title/tt0074812/?ref_=nv_sr_srsg_0). Directed by Michael Anderson. Color, 119 min. 1976.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 11: The future of democracy and the state**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
