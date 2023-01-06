@@ -346,31 +346,23 @@ Recommended films for the week:
 ???????????????????????
 {{< tdclose >}}{{< tdopen >}}
 
-Diamond, Larry. “[Liberation Technology](https://www.journalofdemocracy.org/articles/liberation-technology/).” *Journal of Democracy* 21, no. 3 (2010):  
-69–83.
+Diamond, Larry. “[Liberation Technology](https://www.journalofdemocracy.org/articles/liberation-technology/).” *Journal of Democracy* 21, no. 3 (2010): 69–83.
 
-Morozov, Evgeny. “[Liberation Technology: Whither Internet Control?](https://www.journalofdemocracy.org/articles/liberation-technology-whither-internet-control/)” *Journal*  
-*of Democracy* 22, no. 2 (2011): 62–74.
+Morozov, Evgeny. “[Liberation Technology: Whither Internet Control?](https://www.journalofdemocracy.org/articles/liberation-technology-whither-internet-control/)” *Journal* *of Democracy* 22, no. 2 (2011): 62–74.
 
 Little, Andrew T. [“Communication Technology and Protest.” (PDF)](https://anthlittle.github.io/files/little_infoaction_web.pdf) *Journal of Politics* 78, no. 1 (2016): 152–66.
 
-Bahrani, Yasmine. “[What is it like to Live in a Modern Surveillance State? Look](https://www.washingtonpost.com/opinions/2019/09/10/what-is-it-like-live-modern-surveillance-state-look-dubai/)  
-[to Dubai](https://www.washingtonpost.com/opinions/2019/09/10/what-is-it-like-live-modern-surveillance-state-look-dubai/),” *Washington Post*, September 10, 2019.
+Bahrani, Yasmine. “[What is it like to Live in a Modern Surveillance State? Look to Dubai](https://www.washingtonpost.com/opinions/2019/09/10/what-is-it-like-live-modern-surveillance-state-look-dubai/),” *Washington Post*, September 10, 2019.
 
-Farrow, Ronan. “[How Democracies Spy on Their Citizens](https://www.newyorker.com/magazine/2022/04/25/how-democracies-spy-on-their-citizens).” *The New Yorker*,   
-April 18, 2022. 
+Farrow, Ronan. “[How Democracies Spy on Their Citizens](https://www.newyorker.com/magazine/2022/04/25/how-democracies-spy-on-their-citizens).” *The New Yorker*, April 18, 2022. 
 
-Satariano, Adam, and Paul Mozur. “[Russia Is Censoring the Internet, With](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html)  
-[Coercion and Black Boxes](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html),” *New York Times*, October 23, 2021.
+Satariano, Adam, and Paul Mozur. “[Russia Is Censoring the Internet, With Coercion and Black Boxes](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html),” *New York Times*, October 23, 2021.
 
 “[Why China’s Social Credit System is Worse Than You Think](https://www.youtube.com/watch?v=fM3KONWxgIo).” YouTube. *(video)*
 
-Marr, Bernard. “[Chinese Social Credit Score: Utopian Big Data Bliss or Dark](https://www.forbes.com/sites/bernardmarr/2019/01/21/chinese-social-credit-score-utopian-big-data-bliss-or-black-mirror-on-steroids/?sh=630c38d48b83)  
-[Mirror on Steroids?](https://www.forbes.com/sites/bernardmarr/2019/01/21/chinese-social-credit-score-utopian-big-data-bliss-or-black-mirror-on-steroids/?sh=630c38d48b83)” *Forbes*, 
+Marr, Bernard. “[Chinese Social Credit Score: Utopian Big Data Bliss or Dark Mirror on Steroids?](https://www.forbes.com/sites/bernardmarr/2019/01/21/chinese-social-credit-score-utopian-big-data-bliss-or-black-mirror-on-steroids/?sh=630c38d48b83)” *Forbes*, January 21, 2019.
 
-January 21, 2019.
-
-“[China's Social Credit System Keeps a Critical Eye on Everyday Behavior](https://www.youtube.com/watch?v=Onm6Sb3Pb2Y).”  YouTube. *(video)*
+“[China's Social Credit System Keeps a Critical Eye on Everyday Behavior](https://www.youtube.com/watch?v=Onm6Sb3Pb2Y).” YouTube. *(video)*
 
 “[Keeping Score: China’s ‘Social Credit System’ | Radio Free Asia (RFA)](https://www.youtube.com/watch?v=M1sf72fqHTs).” YouTube. *(video)*
 
