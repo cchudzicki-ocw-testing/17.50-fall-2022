@@ -354,7 +354,11 @@ Writing assignment due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b44
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
 {{< tdclose >}}{{< tdopen >}}
+
 ???????????????????????
+
+- *Theories of technological impacts on politics*
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
