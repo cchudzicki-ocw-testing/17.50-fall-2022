@@ -360,7 +360,7 @@ Satariano, Adam, and Paul Mozur. “[Russia Is Censoring the Internet, With Coer
 
 “[Why China’s Social Credit System is Worse Than You Think](https://www.youtube.com/watch?v=fM3KONWxgIo).” YouTube. *(video)*
 
-Marr, Bernard. “[Chinese Social Credit Score: Utopian Big Data Bliss or Dark Mirror on Steroids?](https://www.forbes.com/sites/bernardmarr/2019/01/21/chinese-social-credit-score-utopian-big-data-bliss-or-black-mirror-on-steroids/?sh=630c38d48b83)” *Forbes*, January 21, 2019.
+Marr, Bernard. “[Chinese Social Credit Score: Utopian Big Data Bliss or Black Mirror on Steroids?](https://www.forbes.com/sites/bernardmarr/2019/01/21/chinese-social-credit-score-utopian-big-data-bliss-or-black-mirror-on-steroids/?sh=630c38d48b83)” *Forbes*, January 21, 2019.
 
 “[China's Social Credit System Keeps a Critical Eye on Everyday Behavior](https://www.youtube.com/watch?v=Onm6Sb3Pb2Y).” YouTube. *(video)*
 
