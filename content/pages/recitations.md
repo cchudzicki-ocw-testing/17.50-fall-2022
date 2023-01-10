@@ -240,24 +240,16 @@ Satariano, Adam, and Paul Mozur. “[Russia Is Censoring the Internet, With Coer
 
 Marr, Bernard. “[Chinese Social Credit Score: Utopian Big Data Bliss or Black Mirror on Steroids?](https://www.forbes.com/sites/bernardmarr/2019/01/21/chinese-social-credit-score-utopian-big-data-bliss-or-black-mirror-on-steroids/?sh=630c38d48b83)” *Forbes*, January 21, 2019.
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-26
-{{< tdclose >}}{{< tdopen >}}
-???????????????????????
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 11: The future of democracy and the state**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-27
+15
 {{< tdclose >}}{{< tdopen >}}
-The fundamental challenge of governance
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-28
-{{< tdclose >}}{{< tdopen >}}
-The future of democracy and the state
+
+Discussion of readings
+
+Review of Pop Quiz
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
