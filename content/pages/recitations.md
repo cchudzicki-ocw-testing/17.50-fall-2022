@@ -214,18 +214,16 @@ You are a member of the Civic Front of Kumar, a country ruled by an unpopular di
 
 {{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-24
-{{< tdclose >}}{{< tdopen >}}
-???????????????????????
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 10: Do new technologies increase accountability or social control?**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-25
+14
 {{< tdclose >}}{{< tdopen >}}
-???????????????????????
+
+Discussion of readings
+
+Discussion of China's social credit score
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
