@@ -387,10 +387,7 @@ The fundamental challenge of governance
 
 The future of democracy and the state
 
-- *Compostela has become divided into two factions of roughly equal size that disagree*  
-    *sharply on the direction the country should take. The colony recently had a very close*  
-    *election; one side claimed victory whereas the other side argued that the results of the*  
-    *election were well within the margin of fraud. Can you prevent civil war?*
+- *Compostela has become divided into two factions of roughly equal size that disagree* *sharply on the direction the country should take. The colony recently had a very close* *election; one side claimed victory whereas the other side argued that the results of the* *election were well within the margin of fraud. Can you prevent civil war?*
 - *Discussion of final exam*
 - *How not to be a total idiot about politics*
 
