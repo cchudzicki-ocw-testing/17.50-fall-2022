@@ -364,7 +364,16 @@ Writing assignment due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b44
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
+
 ???????????????????????
+
+- *Random anecdote<sup>TM</sup>: North Korea bans laughing, drinking, etc. on 10th anniversary of Kim*  
+    *Jong-Il’s death (December 17)*
+- *Buzz groups: You are the Advisory Council to the President-for-Life of Qumar. Pick two*  
+    *emergning technologies (e.g., AI, facial recognition, genetic databases, etc.) and make*  
+    *recommendations to him regarding what he should do about them*
+- *Discussion based on buzz groups*
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
