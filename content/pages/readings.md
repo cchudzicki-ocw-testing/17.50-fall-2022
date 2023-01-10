@@ -393,11 +393,21 @@ Eggers, Dave. *The Circle*. Knopf Doubleday Publishing Group, 2013. ISBN: 978038
 {{< tdclose >}}{{< tdopen >}}
 The fundamental challenge of governance
 {{< tdclose >}}{{< tdopen >}}
- 
+
+Mounk, Yascha. “[The Undemocratic Dilemma](https://www.journalofdemocracy.org/articles/the-undemocratic-dilemma/).” *Journal of Democracy* 29, no. 2 (2018): 98–112.
+
+Svolik, Milan W. “[Polarization versus Democracy](https://www.journalofdemocracy.org/articles/polarization-versus-democracy/).” *Journal of Democracy* 30, no. 3 (2019): 20–32.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 28
 {{< tdclose >}}{{< tdopen >}}
+
 The future of democracy and the state
+
+- *Compostela has become divided into two factions of roughly equal size that disagree sharply on the direction the country should take. The colony recently had a very close election; one side claimed victory whereas the other side argued that the results of the election were well within the margin of fraud. Can you prevent civil war?*
+- *Discussion of final exam*
+- *How not to be a total idiot about politics*
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
