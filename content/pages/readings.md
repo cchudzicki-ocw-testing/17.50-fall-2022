@@ -409,5 +409,5 @@ The future of democracy and the state
 - *How not to be a total idiot about politics*
 
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
