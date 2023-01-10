@@ -251,5 +251,9 @@ Discussion of readings
 Review of Pop Quiz
 
 {{< tdclose >}}{{< tdopen >}}
- 
+
+Mounk, Yascha. “[The Undemocratic Dilemma](https://www.journalofdemocracy.org/articles/the-undemocratic-dilemma/).” *Journal of Democracy* 29, no. 2 (2018): 98–112.
+
+Svolik, Milan W. “[Polarization versus Democracy](https://www.journalofdemocracy.org/articles/polarization-versus-democracy/).” *Journal of Democracy* 30, no. 3 (2019): 20–32.
+
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
