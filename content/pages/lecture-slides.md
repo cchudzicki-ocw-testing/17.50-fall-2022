@@ -12,7 +12,7 @@ TOPICS
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 2 - 3
 {{< tdclose >}}{{< tdopen >}}
-The state (PDF)
+The state (PDF - 3.5MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
@@ -58,5 +58,5 @@ Technology and political impact (PDF)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 27
 {{< tdclose >}}{{< tdopen >}}
-The fundamental challenge of governance (PDF)
+The fundamental problem of governance (PDF)
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
