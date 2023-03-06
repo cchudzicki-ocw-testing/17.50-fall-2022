@@ -5,7 +5,7 @@ draft: false
 title: Recitations
 uid: f17b11bb-4820-4baa-a478-902e80f3a98f
 ---
-Note: There is no recitation during week 6.
+Note: There is no recitation during weeks 1 and 6.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
@@ -13,13 +13,7 @@ WEEK #
 ACTIVITIES
 {{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-1
-{{< tdclose >}}{{< tdopen >}}
-No recitation this week
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 1:  State and government**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
