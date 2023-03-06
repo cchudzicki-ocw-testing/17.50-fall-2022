@@ -12,51 +12,51 @@ TOPICS
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 2 - 3
 {{< tdclose >}}{{< tdopen >}}
-The state (PDF - 3.5MB)
+{{% resource_link "486b885c-fadb-4c1a-a61f-9b477f84eb5e" "The state (PDF - 3.5MB)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
-Boundaries of the state (PDF)
+{{% resource_link "9ce04c45-4b68-4a29-9b1c-fae6851cca53" "Boundaries of the state (PDF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6 - 7
 {{< tdclose >}}{{< tdopen >}}
-Constraining the state and rulers (PDF)
+{{% resource_link "85e80b86-325b-41e3-bc60-5ea26653e12f" "Constraining the state and rulers (PDF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
-Institutions of representative democracy (PDF)
+{{% resource_link "dd02696f-5658-4ecb-99a7-ae00836012ae" "Institutions of representative democracy (PDF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
 
-Federalism (PDF)
+{{% resource_link "93aa1a42-d128-4c05-800c-ff10fa8d58f9" "Federalism (PDF)" %}}
 
-Clientelism (PDF)
+{{% resource_link "44de77c4-c91d-44aa-bd5f-2f60991dfdfc" "Clientelism (PDF)" %}}
 
-Culture and democracy (PDF)
+{{% resource_link "0bc4a35d-1398-4593-ab87-9c1d48e9cb89" "Culture and democracy (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-Corruption (PDF)
+{{% resource_link "58595b51-a073-45af-ba15-25fade10c5a3" "Corruption (PDF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
-National identity (PDF)
+{{% resource_link "e6c80368-b804-4b15-ba52-287a4b62dccd" "National identity (PDF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
-Immigration (PDF)
+{{% resource_link "d82c4d51-1a7b-46ae-9529-d78430c59bde" "Immigration (PDF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
-Democratization (PDF)
+{{% resource_link "ebb0b41a-c876-4154-b76c-c7d85b88f991" "Democratization (PDF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
-Technology and political impact (PDF)
+{{% resource_link "a0201fcc-cf02-45e9-b9a3-917c695cdb39" "Technology and political impact (PDF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 27
 {{< tdclose >}}{{< tdopen >}}
-The fundamental problem of governance (PDF)
+{{% resource_link "0766885c-18e3-46f8-8da3-5b20c43ad0e1" "The fundamental problem of governance (PDF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
