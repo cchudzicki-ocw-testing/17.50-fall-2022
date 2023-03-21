@@ -5,7 +5,7 @@ draft: false
 title: Assignments
 uid: 268c54ed-52cd-447f-af68-583785b4440f
 ---
-#### Paper 1
+### Paper 1
 
 *3 pages.*
 
@@ -13,7 +13,7 @@ Are states necessary? Desirable? What things should they do? What things should 
 
 This paper is due during Session 5.
 
-#### Paper 2
+### Paper 2
 
 *3 pages.*
 
@@ -21,7 +21,7 @@ You live in the fictitious country of Compostela, which has approximately six mi
 
 This paper is due during Session 7.
 
-#### Paper 3
+### Paper 3
 
 *2 pages.*
 
@@ -31,7 +31,7 @@ P.S.Â  If you want to write about a different institutional choice, you can. But
 
 This paper is due during Session 9.
 
-#### Paper 4
+### Paper 4
 
 *2 or 3 pages.*
 
@@ -41,7 +41,7 @@ This paper is due during Session 10.
 
 Note: A rewrite of this paper is due during Session 12.
 
-#### Paper 5
+### Paper 5
 
 *3 pages.*
 
@@ -49,7 +49,7 @@ Is endorsement of political institutions (that is, everyone accepts the countryâ
 
 This paper is due during Session 16.
 
-#### Paper 6
+### Paper 6
 
 *2 pages.*
 
