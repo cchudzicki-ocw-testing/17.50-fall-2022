@@ -1,6 +1,7 @@
 ---
 content_type: page
-description: This section contains the course readings.
+description: This section contains the course readings, as well as recommended films,
+  tv shows, or novels for certain weeks.
 draft: false
 title: Readings
 uid: 5766748f-26ce-4690-8413-aba30fb6b353
@@ -74,7 +75,7 @@ No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
-Picking rulers ?????
+Picking rulers 
 {{< tdclose >}}{{< tdopen >}}
 
 Allison, Graham. “[The Lee Kuan Yew Conundrum](https://www.theatlantic.com/international/archive/2015/03/lee-kuan-yew-conundrum-democracy-singapore/388955/).” *The Atlantic,* March 30, 2015. 
@@ -110,7 +111,7 @@ Lijphart, Arend. “Introduction.” Chapter 1 in *Patterns of Democracy: Govern
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
-Buzz groups ?????
+Buzz groups
 {{< tdclose >}}{{< tdopen >}}
 No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -179,7 +180,7 @@ Recommended films for the week:
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
-????????????????????
+Who are the people?
 {{< tdclose >}}{{< tdopen >}}
 
 Review Pop Quiz Question 10.
@@ -261,7 +262,7 @@ Fukuyama, Francis. “The Missing Dimensions of Stateness.” Chapter 1 in *Stat
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
-???????????????????????
+Broad explanations for economic development
 {{< tdclose >}}{{< tdopen >}}
 No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -273,7 +274,7 @@ Recommended film for the week:
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
-???????????????????????
+Industrial policy and its discontents
 {{< tdclose >}}{{< tdopen >}}
 
 “[Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats- BBC Four](https://www.youtube.com/watch?v=kTSxo3175ec).” YouTube. *(video)*
@@ -293,7 +294,7 @@ Rodrik, Dani. [“Industrial Policy: Don’t Ask Why, Ask How.” (PDF)](https:/
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
-???????????????????????
+Further discussion of industrial policy
 {{< tdclose >}}{{< tdopen >}}
 No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -309,7 +310,7 @@ Recommended films for the week:
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
-???????????????????????
+Regime change
 {{< tdclose >}}{{< tdopen >}}
 
 “[How did the Arab Spring start in Tunisia? - BBC What's New](https://www.youtube.com/watch?v=l_D7LLqufVE).” YouTube. *(video)*
@@ -327,7 +328,7 @@ Kendall-Taylor, Andrea, and Erica Frantz. “[How Autocracies Fall](https://www.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
-???????????????????????
+Arab Spring
 {{< tdclose >}}{{< tdopen >}}
 No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -343,7 +344,7 @@ Recommended films for the week:
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
 {{< tdclose >}}{{< tdopen >}}
-???????????????????????
+Theories of technological impacts on politics
 {{< tdclose >}}{{< tdopen >}}
 
 Diamond, Larry. “[Liberation Technology](https://www.journalofdemocracy.org/articles/liberation-technology/).” *Journal of Democracy* 21, no. 3 (2010): 69–83.
@@ -369,7 +370,7 @@ Marr, Bernard. “[Chinese Social Credit Score: Utopian Big Data Bliss or Black 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
-???????????????????????
+Buzz groups
 {{< tdclose >}}{{< tdopen >}}
 No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
