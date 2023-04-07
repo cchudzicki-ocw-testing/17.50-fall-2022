@@ -117,7 +117,7 @@ Paper 1 due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assig
 6
 {{< tdclose >}}{{< tdopen >}}
 
-Picking rulers ?????
+Picking rulers 
 
 - *Review Pop Quiz Question 4*
 - *Leadership selection (and training) mechanisms*
@@ -160,11 +160,11 @@ Can we design better representative institutions?
 9
 {{< tdclose >}}{{< tdopen >}}
 
-Buzz groups ?????
+Buzz groups
 
-- *Buzz groups: pros and cons of different electoral institutions in practice*
-- *Buzz groups: would institutional changes really matter?*
-- *Buzz groups: can we predict the effects?*
+- *Pros and cons of different electoral institutions in practice*
+- *Would institutional changes really matter?*
+- *Can we predict the effects?*
 
 {{< tdclose >}}{{< tdopen >}}
 Paper 3 due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section)
@@ -235,7 +235,7 @@ Buzz groups on corruption
 15
 {{< tdclose >}}{{< tdopen >}}
 
-????????????????????
+Who are the people?
 
 - *Defining the boundaries of a political community*
 - *The political community in post-conquest and post-colonial states*
@@ -295,20 +295,15 @@ Bloated states and their consequences
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
-
-???????????????????????
-
-- *Broad explanations for economic development*
-
+Broad explanations for economic development
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
 
-???????????????????????
+Industrial policy and its discontents
 
-- *Industrial policy and its discontents*
 - *Review Pop Quiz questions 9 and 11*
 
 {{< tdclose >}}{{< tdopen >}}
@@ -317,10 +312,9 @@ Bloated states and their consequences
 22
 {{< tdclose >}}{{< tdopen >}}
 
-??????????????????????
+Further discussion of industrial policy
 
 - *Random anecdote<sup>TM</sup>: Anniversary of the Hat Law in Turkey (November 25, 1925)*
-- *Further discussion of industrial policy*
 
 {{< tdclose >}}{{< tdopen >}}
 Writing assignment due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section)
@@ -330,7 +324,7 @@ Writing assignment due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b44
 23
 {{< tdclose >}}{{< tdopen >}}
 
-???????????????????????
+Regime change
 
 - *Theories of democratization and democratic breakdown*
 - *Democratizing autocratic regimes*
@@ -341,11 +335,11 @@ Writing assignment due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b44
 24
 {{< tdclose >}}{{< tdopen >}}
 
-???????????????????????
+Arab Spring
 
 - *What happened in the Arab Spring?*
 - *Why do people protest?*
-- *Why do dictators respond to protest to protests as they do?*
+- *Why do dictators respond to protests as they do?*
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -354,18 +348,14 @@ Writing assignment due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b44
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
 {{< tdclose >}}{{< tdopen >}}
-
-???????????????????????
-
-- *Theories of technological impacts on politics*
-
+Theories of technological impacts on politics
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
 
-???????????????????????
+Buzz groups
 
 - *Random anecdote<sup>TM</sup>: North Korea bans laughing, drinking, etc. on 10th anniversary of Kim* *Jong-Il’s death (December 17)*
 - *Buzz groups: You are the Advisory Council to the President-for-Life of Qumar. Pick two* *emerging technologies (e.g., AI, facial recognition, genetic databases, etc.) and make* *recommendations to him regarding what he should do about them*
