@@ -13,7 +13,7 @@ learning_resource_types:
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: 'Introduction to Comparative Politics, Lecture Slides: Lectures 6 and 7, Constraining
-  the State and Users'
+  the State and Rulers'
 uid: 85e80b86-325b-41e3-bc60-5ea26653e12f
 video_files:
   video_captions_file: ''
