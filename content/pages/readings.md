@@ -80,11 +80,11 @@ Picking rulers 
 
 Allison, Graham. “[The Lee Kuan Yew Conundrum](https://www.theatlantic.com/international/archive/2015/03/lee-kuan-yew-conundrum-democracy-singapore/388955/).” *The Atlantic,* March 30, 2015. 
 
-“[Lee Kuan Yew: The Wise Man of the East](https://www.economist.com/asia/2015/03/22/the-wise-man-of-the-east).” *The Economist,* March 26, 2015. 
+“[Lee Kuan Yew: The Wise Man of the East](https://www.economist.com/asia/2015/03/22/the-wise-man-of-the-east).” *The Economist,* March 22, 2015. 
 
 Silverstein, Ken. “[Teodorin’s World](https://foreignpolicy.com/2011/02/21/teodorins-world/).” *Foreign Policy* 185 (2011): 54–62.
 
-Sun Yat-sen. Selections from “The Principle of *Mínquán.*” In *The Three Principles of the People: San Min Chu I*. Translated by Frank W. Price. ISBN: 9781927077030.
+Sun Yat-sen. Selections from “The Principle of *Mínquán.*” In *The Three Principles of the People: San Min Chu I*. Translated by Frank W. Price. Soul Care Publishing, 2011. ISBN: 9781927077030.
 
 Dahl, Robert A. “Guardianship.” Chapter 4 in *Democracy and Its Critics.* Yale University Press, 1991. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\]
 
@@ -122,7 +122,7 @@ No readings assigned.
 Does decentralization improve governance?
 {{< tdclose >}}{{< tdopen >}}
 
-“[Political Decentralization](http://www1.worldbank.org/publicsector/decentralization/political.htm).” Decentralization & Subnational Regional Economics, The World Bank Group.
+“Political Decentralization.” Decentralization & Subnational Regional Economics, The World Bank Group.
 
 Meenakshi, D. “[Essay on the Decentralisation of Power](https://www.politicalsciencenotes.com/essay/government/essay-on-the-decentralisation-of-power-government-political-science/1531).” Political Science.
 
@@ -152,7 +152,7 @@ Monitoring street-level bureaucrats
 
 Fordham, Alice. “[App Aims to Track Engrained Corruption in Lebanon](https://www.npr.org/2015/03/09/391795425/app-tries-to-track-engrained-corruption-in-lebanon).” NPR. March 9, 2015.  (*Make sure to listen to the interview rather than read the transcript.*)
 
- “[Corruption and Economic Development](http://www1.worldbank.org/publicsector/anticorrupt/corruptn/cor02.htm).” Chapter 2 in *Helping Countries Combat Corruption: The Role of the World Bank.* The World Bank Group. 1997.
+ “[Corruption and Economic Development](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/799831538245192753/helping-countries-combat-corruption-the-role-of-the-world-bank).” Chapter 2 in *Helping Countries Combat Corruption: The Role of the World Bank.* The World Bank Group. 1997.
 
 Davis, Jennifer. “[Corruption in Public Service Delivery: Experience from South Asia’s Water and Sanitation Sector](https://www.sciencedirect.com/science/article/pii/S0305750X03001979).” *World Development* 32, no. 1 (2003): 53–71.  
 
@@ -173,7 +173,7 @@ No readings assigned.
 Recommended films for the week:
 
 - [*Brubaker*](https://www.imdb.com/title/tt0080474/?ref_=nv_sr_srsg_0)*.* Directed by Stuart Rosenberg. Color, 131 min. 1980.
-- [*Leviathan*](https://www.imdb.com/title/tt2802154/?ref_=nv_sr_srsg_1)*.* Directed by Andrey Zvyagintaev. Color, 140 min. 2014.
+- [*Leviathan*](https://www.imdb.com/title/tt2802154/?ref_=nv_sr_srsg_1)*.* Directed by Andrey Zvyagintsev. Color, 140 min. 2014.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 7: Who are the people?**
@@ -185,7 +185,7 @@ Who are the people?
 
 Review Pop Quiz Question 10.
 
-Fukuyama, Francis.  “Tribal Societies: Property, Justice, War.” Chapter 4 in *The Origins of Political Order*. Profile Books, 2011. ISBN: 9781847652812. \[Preview with [Google Books](https://www.google.com/books/edition/The_Origins_of_Political_Order/CvN0ihQi--wC?hl=en&gbpv=1)\]*(Read the section “Law and Justice.”)*
+Fukuyama, Francis. “Tribal Societies: Property, Justice, War.” Chapter 4 in *The Origins of Political Order*. Profile Books, 2011. ISBN: 9781847652812. \[Preview with [Google Books](https://www.google.com/books/edition/The_Origins_of_Political_Order/CvN0ihQi--wC?hl=en&gbpv=1)\] *(Read the section “Law and Justice.”)*
 
 “[Episode 1.3: The Upside of Nationalism, with Aram Hur](https://www.scopeconditionspodcast.com/episodes/episode-3-the-upside-of-nationalism-with-aram-hur).” Scope Conditions Podcast.
 
@@ -279,15 +279,15 @@ Industrial policy and its discontents
 
 “[Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats- BBC Four](https://www.youtube.com/watch?v=kTSxo3175ec).” YouTube. *(video)*
 
-“[The Road to Hell is Unpaved](https://www.economist.com/christmas-specials/2002/12/19/the-road-to-hell-is-unpaved).” *The Economist*, December 19, 2002.
+DOUALA. “[The Road to Hell is Unpaved](https://www.economist.com/christmas-specials/2002/12/19/the-road-to-hell-is-unpaved).” *The Economist*, December 19, 2002.
 
-Rodrik, Dani, Arvind Subramanian, and Francesco Trebbi. “[Institutions Rule: The Primacy of Institutions over Geography and Integration in Economic Development](https://www.jstor.org/stable/40212696#metadata_info_tab_contents).” *Journal of Economic Growth* 9 (2004): 131–65.
+Rodrik, Dani, Arvind Subramanian, and Francesco Trebbi. “[Institutions Rule: The Primacy of Institutions over Geography and Integration in Economic Development](https://www.jstor.org/stable/40212696#metadata_info_tab_contents).” *Journal of Economic Growth* 9, no. 2 (2004): 131–65.
 
 de Soto, Hernando. “The Five Mysteries of Capital.” Chapter 1 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
 
 ———. “The Mystery of Missing Information.” Chapter 2 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
 
-———. “By Way of Conclusion.” Chapter 7 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003, pp. 208–18. ISBN: ‎9780465016150. 
+———. “By Way of Conclusion.” Chapter 7 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003, pp. 208–18. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
 
 Rodrik, Dani. [“Industrial Policy: Don’t Ask Why, Ask How.” (PDF)](https://drodrik.scholar.harvard.edu/files/dani-rodrik/files/industrial-policy-dont-ask-why-ask-how.pdf) *Middle East Development Journal*  1, no. 1 (2009): 1–29.
 
@@ -357,7 +357,7 @@ Bahrani, Yasmine. “[What is it like to Live in a Modern Surveillance State? Lo
 
 Farrow, Ronan. “[How Democracies Spy on Their Citizens](https://www.newyorker.com/magazine/2022/04/25/how-democracies-spy-on-their-citizens).” *The New Yorker*, April 18, 2022. 
 
-Satariano, Adam, and Paul Mozur. “[Russia Is Censoring the Internet, With Coercion and Black Boxes](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html),” *New York Times*, October 23, 2021.
+Satariano, Adam, and Paul Mozur. “[Russia Is Censoring the Internet, With Coercion and Black Boxes](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html),” *New York Times*, October 22, 2021.
 
 “[Why China’s Social Credit System is Worse Than You Think](https://www.youtube.com/watch?v=fM3KONWxgIo).” YouTube. *(video)*
 
