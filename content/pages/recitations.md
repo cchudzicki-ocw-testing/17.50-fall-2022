@@ -46,22 +46,22 @@ Breakout groups
 
 Group A: Lessons from Athens. The institutions invented in the ancient Greek world approximately 2,500 years ago were distinctive in providing direct citizen control of government. You should focus here on the notion of authoritative bodies (essentially, state agencies) being staffed by randomly selected groups of citizens and the citizenry meeting regularly to vote on decisions. Are these feasible in modern societies, either at the national or local level, and for certain spheres of policy? What are the pros and cons of applying them?
 
-- Dahl, Robert A.  “The First Transformation: To the Democratic City­-State.” Chapter 1 in *Democracy and Its Critics.* Yale University Press, 1991. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\]
+- Dahl, Robert A. “The First Transformation: To the Democratic City­-State.” Chapter 1 in *Democracy and Its Critics.* Yale University Press, 1991. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\]
 - Selections from Aristotle’s *The Constitution of Athens*, Parts 42–69.
 - Ober, Josiah. “[Learning from Athens](https://www.bostonreview.net/articles/josiah-ober-learning-from-athens/).” *Boston Review*, March 1, 2006. 
 
 Group B: The use of referenda in modern societies. Focus here on the idea of the citizenry meeting regularly (in person or virtually) to vote directly on policy decisions. Are these feasible in modern societies. If so, for what spheres of policy or types of decisions? What are the pros and cons of applying them?
 
-- Dahl, Robert A.  “Towards the Second Transformation: Republicanism, Representation, and the Logic of Equality.” Chapter 2 in *Democracy and Its Critics.* Yale University Press, 1991, pp. 28–30. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\] *(Read the section on “Representative Government”.)*
+- Dahl, Robert A. “Towards the Second Transformation: Republicanism, Representation, and the Logic of Equality.” Chapter 2 in *Democracy and Its Critics.* Yale University Press, 1991, pp. 28–30. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\] *(Read the section on “Representative Government”.)*
 - Seiffert, Jeanette. “[Perfect Democracy?](https://www.dw.com/en/pros-and-cons-of-the-swiss-referendum-model/a-17643284)” Made for Minds. May 18, 2014. 
-- Salutin, Rick. “[Referendums At Heart of Swiss Political System](https://www.thestar.com/news/insight/2012/07/21/referendums_at_heart_of_swiss_political_system.html?rf),” *Toronto Sun*, July 21, 2012.
+- Salutin, Rick. “[Referendums At Heart of Swiss Political System](https://www.thestar.com/news/insight/2012/07/21/referendums_at_heart_of_swiss_political_system.html?rf),” *Toronto Star*, July 21, 2012.
 - Fishkin, James S. “[The Nation in a Room](https://www.bostonreview.net/articles/james-fishkin-nation-in-a-room-turning-public-opinion-into-policy/).” *Boston Review*, March 1, 2006. 
 - Schmitter, Philippe C. [“A Proposal for the Creation of a 'Citizen Assembly'.”(PDF)](https://www.eui.eu/Documents/DepartmentsCentres/SPS/Profiles/Schmitter/CitizenAssembly.pdf)
 
 Group C: External defense. What sort of institutions are required and desirable for the defense of your country in a modern context. For instance, does “defense” include power projection abroad for national advantage? Protections of allies? Ensuring access to strategic resources and trade routes? Conquest and other wars of choice abroad? Then think about provision of this good: the value of a draft *versus* an all-volunteer army *versus* reliance on (foreign) mercenaries *versus* a small constabulary force backed by citizen-militias, etc. 
 
-- Kaplan, Jonathan. “[The Role of the Military in Israel](https://archive.jewishagency.org/society-and-politics/content/36591/).” The Jewish Agency for Israel.
-- Kramer, Andrew. “[Spooked by Russia, Tiny Estonia Trains a Nation of Insurgents](https://www.nytimes.com/2016/11/01/world/europe/spooked-by-russia-tiny-estonia-trains-a-nation-of-insurgents.html),” *New York Times*, October 31, 2016.
+- Kaplan, Jonathan. “[The Role of the Military in Israel](https://archive.jewishagency.org/society-and-politics/content/36591/).” The Jewish Agency for Israel. April 27, 2015.
+- Kramer, Andrew E. “[Spooked by Russia, Tiny Estonia Trains a Nation of Insurgents](https://www.nytimes.com/2016/11/01/world/europe/spooked-by-russia-tiny-estonia-trains-a-nation-of-insurgents.html),” *New York Times*, October 31, 2016.
 - Barash, David P. “[Costa Rica’s Peace Dividend: How Abolishing the Military Paid Off](https://www.latimes.com/opinion/la-xpm-2013-dec-15-la-oe-barash-costa-rica-demilitarization-20131208-story.html),” *Los Angeles Times*, December 15, 2013.
 - McFate, Sean. “[Mercenaries and War: Understanding Private Armies Today](https://ndupress.ndu.edu/Media/News/Article/2031922/mercenaries-and-war-understanding-private-armies-today/).” National Defense University Press. December 4, 2019. 
 - Rostker, Bernard D. “[The Evolution of the All-Volunteer Force](https://www.rand.org/pubs/research_briefs/RB9195.html).” RAND. 2006. 
@@ -69,7 +69,8 @@ Group C: External defense. What sort of institutions are required and desirable 
 
 Group D: Justice and punishment. Begin from first principles: how should the state punish infractions? You should feel free to consider alternative approaches to deterrence and punishment in general that rely on community shaming, community service, etc. Note that you may wish to apply the notion of “restorative justice” to certain types of crimes and certain types of communities- for instance, involuntary homicide, fraud, or sexual misconduct between individuals who know each other. Whatever you decide, make sure you clearly articulate the fundamental options for the class.
 
-- Fukuyama, Francis.  “Tribal Societies: Property, Justice, War.” Chapter 4 in *The Origins of Political Order*. Profile Books, 2011. ISBN: 9781847652812. \[Preview with [Google Books](https://www.google.com/books/edition/The_Origins_of_Political_Order/CvN0ihQi--wC?hl=en&gbpv=1)\]*(Read the section “Law and Justice.”)*
+- Fukuyama, Francis. “Tribal Societies: Property, Justice, War.” Chapter 4 in *The Origins of Political Order*. Profile Books, 2011. ISBN: 9781847652812. \[Preview with [Google Books](https://www.google.com/books/edition/The_Origins_of_Political_Order/CvN0ihQi--wC?hl=en&gbpv=1)\]*(Read the section “Law and Justice.”)*
+- Zehr, Howard. [*The Little Book of Restorative Justice (PDF)*](https://neekaan.com/TheLittleBookofRestorativeJustice.pdf). Notes by Neekaan Oshidary. Neekaan. 
 - Oshidary, Neekaan. [Summary of Howard Zehr’s *The Little Book of Restorative Justice.* (PDF)](https://neekaan.com/TheLittleBookofRestorativeJustice.pdf) Neekaan.com.
 - Rosen, David. “[Crime & Public Shaming](https://www.counterpunch.org/2016/04/15/crime-public-shaming/).” *CounterPunch*, April 15, 2016. 
 - [Alternatives to imprisonment](https://en.wikipedia.org/wiki/Alternatives_to_imprisonment). Wikipedia.
