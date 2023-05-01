@@ -26,7 +26,7 @@ Discussion of Dahl: Is it desirable not to have a state? Workable? \[15 min\]
 Discussion of expectations for papers and breakout groups \[15 min\]
 
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 2: Making rules**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -71,7 +71,6 @@ Group D: Justice and punishment. Begin from first principles: how should the sta
 
 - Fukuyama, Francis. “Tribal Societies: Property, Justice, War.” Chapter 4 in *The Origins of Political Order*. Profile Books, 2011. ISBN: 9781847652812. \[Preview with [Google Books](https://www.google.com/books/edition/The_Origins_of_Political_Order/CvN0ihQi--wC?hl=en&gbpv=1)\]*(Read the section “Law and Justice.”)*
 - Zehr, Howard. [*The Little Book of Restorative Justice (PDF)*](https://neekaan.com/TheLittleBookofRestorativeJustice.pdf). Notes by Neekaan Oshidary. Neekaan. 
-- Oshidary, Neekaan. [Summary of Howard Zehr’s *The Little Book of Restorative Justice.* (PDF)](https://neekaan.com/TheLittleBookofRestorativeJustice.pdf) Neekaan.com.
 - Rosen, David. “[Crime & Public Shaming](https://www.counterpunch.org/2016/04/15/crime-public-shaming/).” *CounterPunch*, April 15, 2016. 
 - [Alternatives to imprisonment](https://en.wikipedia.org/wiki/Alternatives_to_imprisonment). Wikipedia.
 
@@ -103,7 +102,7 @@ Class discussion of six questions using buzz groups
 - *Can you design a system that would reliably produce leaders with these qualities? \[10 min\]*
 
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 4: Entering the real world: Improving governance through better selection of leaders**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -136,7 +135,7 @@ Discussion of readings
 The nature and extent of corruption in China
 
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 7: Who are the people?**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -148,7 +147,7 @@ Why is national identity valuable? Is it stronger when linked to race, ethnicity
 National identity and ethnic minorities in China
 
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
@@ -162,7 +161,7 @@ Prepare for class debate over immigration-related policies in Compostela: 
 Use an aging app to see what you and your group might look like at 60 years old
 
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 8: What can the government do to promote prosperity? What should it not do?**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -174,7 +173,7 @@ Discussion of readings
 Economic policy choices in China
 
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
@@ -187,15 +186,15 @@ Discussion of Rodrik, et al. and de Soto (what is “dead capital”)
 
 {{< tdclose >}}{{< tdopen >}}
 
-Rodrik, Dani, Arvind Subramanian, and Francesco Trebbi. “[Institutions Rule: The Primacy of Institutions over Geography and Integration in Economic Development](https://www.jstor.org/stable/40212696#metadata_info_tab_contents).” *Journal of Economic Growth* 9 (2004): 131–65.
+Rodrik, Dani, Arvind Subramanian, and Francesco Trebbi. “[Institutions Rule: The Primacy of Institutions over Geography and Integration in Economic Development](https://www.jstor.org/stable/40212696#metadata_info_tab_contents).” *Journal of Economic Growth* 9, no. 2 (2004): 131–65.
 
 de Soto, Hernando. “The Five Mysteries of Capital.” Chapter 1 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
 
 ———. “The Mystery of Missing Information.” Chapter 2 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
 
-———. “By Way of Conclusion.” Chapter 7 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003, pp. 208–18. ISBN: ‎9780465016150. 
+———. “By Way of Conclusion.” Chapter 7 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003, pp. 208–18. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
 
-Rodrik, Dani. [“Industrial Policy: Don’t Ask Why, Ask How.” (PDF)](https://drodrik.scholar.harvard.edu/files/dani-rodrik/files/industrial-policy-dont-ask-why-ask-how.pdf) *Middle East Development Journal* 1, no. 1 (2009): 1–29.
+Rodrik, Dani. [“Industrial Policy: Don’t Ask Why, Ask How.” (PDF)](https://drodrik.scholar.harvard.edu/files/dani-rodrik/files/industrial-policy-dont-ask-why-ask-how.pdf) *Middle East Development Journal* Demo Issue (2008): 1–29.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 9: Revolution, democratization, and regime change**
@@ -208,7 +207,7 @@ Political support, opposition, and control in China
 You are a member of the Civic Front of Kumar, a country ruled by an unpopular dictator whose secret police do atrocious things to his opponents. The Civic Front seeks to replace Kumar’s regime with a liberal democracy. Most of its leaders are in prison or in exile, though some (like you) are underground. What do you do?
 
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Topic 10: Do new technologies increase accountability or social control?**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
