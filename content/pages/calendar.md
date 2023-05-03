@@ -71,11 +71,25 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 
 **Session 5: Presentations by breakout groups**
 
+- Paper 1 due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section)
+
 ## Topic 3: Picking and constraining rulers
 
 **Session 6: Picking rulers**
 
+- Review Pop Quiz Question 4
+- Leadership selection (and training) mechanisms
+    - Popular election
+    - Lottery systems
+    - Expertise
+    - Non-democratic mechanisms (selection by outgoing leader, divination, revelation, contest, popular selection from pool of vetted candidates, oligarchic selection, etc.)
+    - Getting to the top of the Communist Party in China
+- Discussion of breakout groups
+
 **Session 7: Constraining rulers**
+
+- Discussion of conclusions from recitation
+- Quick discussion of paper topic
 
 ## Topic 4: Entering the real world: Improving governance through better selection of leaders
 
