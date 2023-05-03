@@ -6,11 +6,11 @@ draft: false
 title: Readings
 uid: 5766748f-26ce-4690-8413-aba30fb6b353
 ---
+## Topic 1:  State and government
+
 ***Session 1: Introduction***
 
 Course syllabus
-
-## Topic 1:  State and government
 
 ***Session 2: The state and its discontents (1)***
 
@@ -26,7 +26,7 @@ Dahl, Robert A. “Anarchism.” Chapter 3 in *Democracy and Its Critics.* Yale 
 
 Fukuyama, Francis. “Preface.” In *State-Building: Governance and World Order in the 21st Century*. Cornell University Press, 2004. ISBN: 9780801442923. \[Preview with [Google Books](https://www.google.com/books/edition/State_Building/Q_utDwAAQBAJ?hl=en&gbpv=1)\] (Read the first three pages only, and not the last paragraph.)
 
-**Session 3: The state and its discontents (2)**
+***Session 3: The state and its discontents (2)***
 
 No readings assigned.
 
@@ -42,17 +42,17 @@ No readings assigned.
 
 ## Topic 2: Making rules
 
-**Session 4: Making rules and the state in countries that are “born free”**
+***Session 4: Making rules and the state in countries that are “born free”***
 
 No readings assigned.
 
-**Session 5: Presentations by breakout groups**
+***Session 5: Presentations by breakout groups***
 
 No readings assigned.
 
 ## Topic 3: Picking and constraining rulers
 
-**Session 6: Picking rulers**
+***Session 6: Picking rulers***
 
 Allison, Graham. “[The Lee Kuan Yew Conundrum](https://www.theatlantic.com/international/archive/2015/03/lee-kuan-yew-conundrum-democracy-singapore/388955/).” *The Atlantic,* March 30, 2015. 
 
@@ -64,13 +64,13 @@ Sun Yat-sen. Selections from “The Principle of *Mínquán.*” In *The Three P
 
 Dahl, Robert A. “Guardianship.” Chapter 4 in *Democracy and Its Critics.* Yale University Press, 1991. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\]
 
-**Session 7: Constraining rulers**
+***Session 7: Constraining rulers***
 
 No readings assigned.
 
 ## Topic 4: Entering the real world: Improving governance through better selection of leaders
 
-**Session 8: Can we design better representative institutions?**
+***Session 8: Can we design better representative institutions?***
 
 Lijphart, Arend. “Introduction.” Chapter 1 in *Patterns of Democracy: Government Forms and Performance in Thirty-Six Countries*. Yale University Press, 1999. ISBN: 9780300078930. \[Preview with [Google Books](https://www.google.com/books/edition/Patterns_of_Democracy/GLtX2zJrflAC?hl=en&gbpv=1)\]
 
@@ -78,31 +78,31 @@ Lijphart, Arend. “Introduction.” Chapter 1 in *Patterns of Democracy: Govern
 
 ———. “Electoral Systems: Majority and Plurality Methods Versus Proportional Representation.” Chapter 8 in *Patterns of Democracy: Government Forms and Performance in Thirty-Six Countries*. Yale University Press, 1999. ISBN: 9780300078930. \[Preview with [Google Books](https://www.google.com/books/edition/Patterns_of_Democracy/GLtX2zJrflAC?hl=en&gbpv=1)\]
 
-**Session 9: Buzz groups**
+***Session 9: Buzz groups***
 
 No readings assigned.
 
 ## Topic 5: In the real world: Improving governance through federalism and devolution
 
-**Session 10: Does decentralization improve governance?**
+***Session 10: Does decentralization improve governance?***
 
 “Political Decentralization.” Decentralization & Subnational Regional Economics, The World Bank Group.
 
 Meenakshi, D. “[Essay on the Decentralisation of Power](https://www.politicalsciencenotes.com/essay/government/essay-on-the-decentralisation-of-power-government-political-science/1531).” Political Science.
 
-**Session 11: Can participatory mechanisms enhance the quality of governance?**
+***Session 11: Can participatory mechanisms enhance the quality of governance?***
 
 Baiocchi, Gianpaolo. “[The Citizens of Porto Alegre: In Which Marco Borrows Bus Fare and Enters Politics](https://www.bostonreview.net/articles/gianpaolo-baiocchi-the-citizens-of-porto-alegre/).” *Boston Review*, March 1, 2006.
 
 Rao, Vijayendra, Kripa Ananthpur, and Kabir Malik. “[The Anatomy of Failure: An Ethnography of a Randomized Trial to Deepen Democracy in Rural India](https://www.sciencedirect.com/science/article/pii/S0305750X17302115).” *World Development* 99 (2017): 481–97.
 
-**Session 12: Class discussion**
+***Session 12: Class discussion***
 
 No readings assigned.
 
 ## Topic 6: In the real world: Improving governance through monitoring and motivating officials
 
-**Session 13: Monitoring street-level bureaucrats**
+***Session 13: Monitoring street-level bureaucrats***
 
 Fordham, Alice. “[App Aims to Track Engrained Corruption in Lebanon](https://www.npr.org/2015/03/09/391795425/app-tries-to-track-engrained-corruption-in-lebanon).” NPR. March 9, 2015.  (*Make sure to listen to the interview rather than read the transcript.*)
 
@@ -116,7 +116,7 @@ Davis, Diane E. “[Law Enforcement in Mexico: Not Yet Under Control](https://na
 
 Mazzolla, Francisco. “[Community Policing in Lebanon](https://www.mei.edu/publications/community-policing-lebanon).” Middle East Institute. October 29, 2018.
 
-**Session 14: Buzz groups on corruption**
+***Session 14: Buzz groups on corruption***
 
 No readings assigned.
 
@@ -127,7 +127,7 @@ No readings assigned.
 
 ## Topic 7: Who are the people?
 
-**Session 15: Who are the people?**
+***Session 15: Who are the people?***
 
 Review Pop Quiz Question 10.
 
@@ -151,7 +151,7 @@ Burgess, Chris. “[A Japanese Multicultural Society Still Far Off](https://www.
 
 Stokes, Bruce. “[What It Takes to Truly Be ‘One of Us’](https://www.pewresearch.org/global/2017/02/01/what-it-takes-to-truly-be-one-of-us/).” Pew Research Center. February 1, 2017.
 
-**Session 16: Building national identity**
+***Session 16: Building national identity***
 
  [“The American Identity: Points of Pride, Conflicting Views, and a Distinct Culture.” (PDF - 2.2MB)](https://apnorc.org/wp-content/uploads/2020/02/APNORC_American_Identity_2017.pdf) Associated Press / NORC Center for Public Affairs Research at the University of Chicago. March 2017.
 
@@ -161,7 +161,7 @@ Huntington, Samuel P. “Foreword.” In *Who Are We? The Challenges to America�
 
 Lozada, Carlos. “[Samuel Huntington, a Prophet for the Trump Era](https://www.washingtonpost.com/news/book-party/wp/2017/07/18/samuel-huntington-a-prophet-for-the-trump-era/),” *Washington Post*, July 18, 2017.
 
-**Session 17: The debate over immigration**
+***Session 17: The debate over immigration***
 
 Papademetriou, Demetrios G. “[Policy Considerations for Immigrant Integration](https://www.migrationpolicy.org/article/policy-considerations-immigrant-integration).” Migration Policy Institute. October 1, 2003.
 
@@ -177,13 +177,13 @@ Goings, Rick. “[Stop Telling Immigrants to Assimilate and Start Helping Them P
 
 Bernstein, Hamutal, with Nicole DuBois. [“Bringing Evidence to the Refugee Integration Debate.” (PDF)](https://www.urban.org/sites/default/files/publication/97771/bringing_evidence_to_the_refugee_integration_debate_0.pdf) Urban Institute. April 2018. 
 
-**Session 18: Class discussion and debate**
+***Session 18: Class discussion and debate***
 
 No readings assigned.
 
 ## Topic 8: What can the government do to promote prosperity? What should it not do?
 
-**Session 19: Bloated states and their consequences**
+***Session 19: Bloated states and their consequences***
 
 Goodman, John B., and Gary W. Loveman. “[Does Privatization Serve the Public Interest?](https://hbr.org/1991/11/does-privatization-serve-the-public-interest)” *Harvard Business Review*, November–December 1991.
 
@@ -191,7 +191,7 @@ Ball, Molly. “[The Privatization Backlash](https://www.theatlantic.com/politic
 
 Fukuyama, Francis. “The Missing Dimensions of Stateness.” Chapter 1 in *State-Building: Governance and World Order in the 21st Century*. Cornell University Press, 2004, pp. 1–23. ISBN: 9780801442923. \[Preview with [Google Books](https://www.google.com/books/edition/State_Building/Q_utDwAAQBAJ?hl=en&gbpv=1)\]
 
-**Session 20: Broad explanations for economic development**
+***Session 20: Broad explanations for economic development***
 
 No readings assigned.
 
@@ -199,7 +199,7 @@ No readings assigned.
 
 [*Brazil*](https://www.imdb.com/title/tt0088846/?ref_=fn_al_tt_1). Directed by Terry Gilliam. Color, 132 min. 1985.
 
-**Session 21: Industrial policy and its discontents**
+***Session 21: Industrial policy and its discontents***
 
 “[Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats- BBC Four](https://www.youtube.com/watch?v=kTSxo3175ec).” YouTube. *(video)*
 
@@ -215,7 +215,7 @@ de Soto, Hernando. “The Five Mysteries of Capital.” Chapter 1 in *The Myster
 
 Rodrik, Dani. [“Industrial Policy: Don’t Ask Why, Ask How.” (PDF)](https://drodrik.scholar.harvard.edu/files/dani-rodrik/files/industrial-policy-dont-ask-why-ask-how.pdf) *Middle East Development Journal*  1, no. 1 (2009): 1–29.
 
-**Session 22: Further discussion of industrial policy**
+***Session 22: Further discussion of industrial policy***
 
 No readings assigned.
 
@@ -227,7 +227,7 @@ No readings assigned.
 
 ## Topic 9: Revolution, democratization, and regime change
 
-**Session 23: Regime change**
+***Session 23: Regime change***
 
 “[How did the Arab Spring start in Tunisia? - BBC What's New](https://www.youtube.com/watch?v=l_D7LLqufVE).” YouTube. *(video)*
 
@@ -241,7 +241,7 @@ Brownlee, Jason, Tarek Masoud, and Andrew Reynolds. “[Tracking the 'Arab Sprin
 
 Kendall-Taylor, Andrea, and Erica Frantz. “[How Autocracies Fall](https://www.tandfonline.com/doi/abs/10.1080/0163660X.2014.893172).” *Washington* *Quarterly* 37, no. 1 (2014): 35–47.
 
-**Session 24: Arab Spring**
+***Session 24: Arab Spring***
 
 No readings assigned.
 
@@ -253,7 +253,7 @@ No readings assigned.
 
 ## Topic 10: Do new technologies increase accountability or social control?
 
-**Session 25: Theories of technological impacts on politics**
+***Session 25: Theories of technological impacts on politics***
 
 Diamond, Larry. “[Liberation Technology](https://www.journalofdemocracy.org/articles/liberation-technology/).” *Journal of Democracy* 21, no. 3 (2010): 69–83.
 
@@ -275,7 +275,7 @@ Marr, Bernard. “[Chinese Social Credit Score: Utopian Big Data Bliss or Black 
 
 “[Keeping Score: China’s ‘Social Credit System’ | Radio Free Asia (RFA)](https://www.youtube.com/watch?v=M1sf72fqHTs).” YouTube. *(video)*
 
-**Session 26: Buzz groups**
+***Session 26: Buzz groups***
 
 No readings assigned.
 
@@ -293,12 +293,12 @@ Eggers, Dave. *The Circle*. Knopf Doubleday Publishing Group, 2013. ISBN: 978038
 
 ## Topic 11: The future of democracy and the state
 
-**Session 27: The fundamental challenge of governance**
+***Session 27: The fundamental challenge of governance***
 
 Mounk, Yascha. “[The Undemocratic Dilemma](https://www.journalofdemocracy.org/articles/the-undemocratic-dilemma/).” *Journal of Democracy* 29, no. 2 (2018): 98–112.
 
 Svolik, Milan W. “[Polarization versus Democracy](https://www.journalofdemocracy.org/articles/polarization-versus-democracy/).” *Journal of Democracy* 30, no. 3 (2019): 20–32.
 
-**Session 28: The future of democracy and the state**
+***Session 28: The future of democracy and the state***
 
 No readings assigned.
