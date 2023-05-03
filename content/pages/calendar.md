@@ -120,17 +120,35 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 
 **Session 11: Can participatory mechanisms enhance the quality of governance?**
 
+- The democratic chain and the inadequacy of the electoral mechanism
+- Direct democracy and related innovations
+
 **Session 12: Class discussion**
+
+- Follow-up on buzz groups
+- Discussion of paper
+- Rewrite of Paper 4 due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section)
 
 ## Topic 6: In the real world: Improving governance through monitoring and motivating officials
 
 **Session 13: Monitoring street-level bureaucrats**
 
+- Causes of corruption and shirking among street-level bureaucrats
+
 **Session 14: Buzz groups on corruption**
+
+- You are a police captain (heading a precinct) and would like to supplement your income by at least $50,000 per year through corrupt practices. But you also do not want to go to jail or lose your job, which might happen if your corruption is exposed. What scams can you invent that fall within acceptable risk parameters?
+- You are the Inspector General of the police department. Your police department is known to have some corruption and you are trying to get it under control. What policies will keep captains (who head a precinct) on their best behavior?
+- You are the Inspector General of the police department. You have a relatively clean police force but are trying to make sure that police captains do not become corrupt. What policies do you invent?
 
 ## Topic 7: Who are the people?
 
 **Session 15: Who are the people?**
+
+- Defining the boundaries of a political community
+- The political community in post-conquest and post-colonial states
+- National identity: instrument of state control or crucial social glue? Does having a strong national identity make governance better?
+- Class discussion of readings
 
 **Session 16: Building national identity**
 
