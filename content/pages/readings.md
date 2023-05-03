@@ -6,6 +6,101 @@ draft: false
 title: Readings
 uid: 5766748f-26ce-4690-8413-aba30fb6b353
 ---
+**Session 1: Introduction**
+
+- *Review of syllabus. Introductions (who you are and what you want to get out of the class)*
+- *Pop quiz*
+- *Overview of readings for next week*
+
+*No recitation this week*
+
+*By session 2:*
+
+- *Read this syllabus thoroughly.*
+- *Take the Pop Quiz. Read through the whole quiz before attempting any of the answers. Then spend 60 minutes to answer some of them, dividing your time however you please across questions. (You may wish to take a deep dive into one particular question or, alternatively, to answer several questions at a superficial level.) Please discuss the Pop Quiz with as many people as you want. You can also consult any sources you wish, but if you do, make sure to cite them properly in your posts. Post your replies on the class website. there is a separate thread for each question on the Pop Quiz.*
+- *Comment on Pop Quiz answers (~30 minutes). Pick one question, read through the answers already posted, and then post your own commentary.*
+
+## Topic 1:  State and government
+
+**Session 2: The state and its discontents (1)**
+
+- *Introductions of any newcomers*
+- *Pop Quiz Q1*
+- *Lecture: What is a state, and why have one? (Part 1)*
+- *Reminder on Map Test*
+
+**Session 3: The state and its discontents (2)**
+
+## Topic 2: Making rules
+
+**Session 4: Making rules and the state in countries that are “born free”**
+
+**Session 5: Presentations by breakout groups**
+
+## Topic 3: Picking and constraining rulers
+
+**Session 6: Picking rulers**
+
+**Session 7: Constraining rulers**
+
+## Topic 4: Entering the real world: Improving governance through better selection of leaders
+
+**Session 8: Can we design better representative institutions?**
+
+**Session 9: Buzz groups**
+
+## Topic 5: In the real world: Improving governance through federalism and devolution
+
+**Session 10: Does decentralization improve governance?**
+
+**Session 11: Can participatory mechanisms enhance the quality of governance?**
+
+**Session 12: Class discussion**
+
+## Topic 6: In the real world: Improving governance through monitoring and motivating officials
+
+**Session 13: Monitoring street-level bureaucrats**
+
+**Session 14: Buzz groups on corruption**
+
+## Topic 7: Who are the people?
+
+**Session 15: Who are the people?**
+
+**Session 16: Building national identity**
+
+**Session 17: The debate over immigration**
+
+**Session 18: Class discussion and debate**
+
+## Topic 8: What can the government do to promote prosperity? What should it not do?
+
+**Session 19: Bloated states and their consequences**
+
+**Session 20: Broad explanations for economic development**
+
+**Session 21: Industrial policy and its discontents**
+
+**Session 22: Further discussion of industrial policy**
+
+## Topic 9: Revolution, democratization, and regime change
+
+**Session 23: Regime change**
+
+**Session 24: Arab Spring**
+
+## Topic 10: Do new technologies increase accountability or social control?
+
+**Session 25: Theories of technological impacts on politics**
+
+**Session 26: Buzz groups**
+
+## Topic 11: The future of democracy and the state
+
+**Session 27: The fundamental challenge of governance**
+
+**Session 28: The future of democracy and the state**
+
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SESS #
 {{< thclose >}}{{< thopen >}}
