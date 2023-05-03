@@ -8,26 +8,23 @@ uid: 5766748f-26ce-4690-8413-aba30fb6b353
 ---
 **Session 1: Introduction**
 
-- *Review of syllabus. Introductions (who you are and what you want to get out of the class)*
-- *Pop quiz*
-- *Overview of readings for next week*
-
-*No recitation this week*
-
-*By session 2:*
-
-- *Read this syllabus thoroughly.*
-- *Take the Pop Quiz. Read through the whole quiz before attempting any of the answers. Then spend 60 minutes to answer some of them, dividing your time however you please across questions. (You may wish to take a deep dive into one particular question or, alternatively, to answer several questions at a superficial level.) Please discuss the Pop Quiz with as many people as you want. You can also consult any sources you wish, but if you do, make sure to cite them properly in your posts. Post your replies on the class website. there is a separate thread for each question on the Pop Quiz.*
-- *Comment on Pop Quiz answers (~30 minutes). Pick one question, read through the answers already posted, and then post your own commentary.*
+Course syllabus
 
 ## Topic 1:  State and government
 
 **Session 2: The state and its discontents (1)**
 
-- *Introductions of any newcomers*
-- *Pop Quiz Q1*
-- *Lecture: What is a state, and why have one? (Part 1)*
-- *Reminder on Map Test*
+Selection from Aristotle, *Politics*, Book 3, Part 6, c. 350 BCE.
+
+Selection from Ibn Khaldun, *Muqaddimah* (*Introduction to a Universal History*), c. 1377 CE.
+
+Selection from Thomas Hobbes, *Leviathan: Or, the Matter, Forme, and Power of a Commonwealth, Ecclesiasticall and Civil* \[1651\], Chapters 13 and 17.
+
+Hume, David. Selections from “[Of the Origin of Government](http://www.econlib.org/library/LFBooks/Hume/hmMPL5.html#Part%20I,%20Essay%20V,%20OF%20THE%20ORIGIN%20OF%20GOVERNMENT).” Part 1, Essay V in *Essays, Moral, Political and Literary*. econlib.org. 
+
+Dahl, Robert A. “Anarchism.” Chapter 3 in *Democracy and Its Critics.* Yale University Press, 1991. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\]
+
+Fukuyama, Francis. “Preface.” In *State-Building: Governance and World Order in the 21st Century*. Cornell University Press, 2004. ISBN: 9780801442923. \[Preview with [Google Books](https://www.google.com/books/edition/State_Building/Q_utDwAAQBAJ?hl=en&gbpv=1)\] (Read the first three pages only, and not the last paragraph.)
 
 **Session 3: The state and its discontents (2)**
 
