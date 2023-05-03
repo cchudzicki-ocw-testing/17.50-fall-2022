@@ -28,9 +28,46 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 
 **Session 3: The state and its discontents (2)**
 
+- Random anecdote<sup>TM</sup>: Montezuma’s instructions to his messenger, in delivery of a letter to Hernán Cortés at Veracruz.
+- Lecture: What is a state and why have one? (Part II) How were states originally created?
+- Nasty things states do. Better no state than a bad state?
+- Can we make the state “smaller”?
+- By next recitation:
+    - Prepare for Map Test
+- By session 4:
+    - Register to vote. Please confirm via the class website that you have registered. If you are a citizen of a country without absentee balloting, you should write a short email to an official from your country inquiring into the rationale for the lack of absentee balloting, or forwarding the message to the TA afterwards. If you are from a country where elections are meaningless or where writing a government official with such a query might get you into trouble, or if you have some other principled objection to registering to vote, talk with the TA or me about how to fulfill this assignment in a way that takes a similar amount of time.
+    - Schedule your (optional) one-on-one meeting with me, assuming you wish to schedule one.
+
 ## Topic 2: Making rules
 
 **Session 4: Making rules and the state in countries that are “born free”**
+
+- Random anecdote<sup>TM</sup>: Approved undergarments in a Japanese high school.
+- Born free versus something else
+- Introduction to the (fictitious) island nation of Compostela
+    - Backup rainwater catchment versus coastal defense?
+    - Who should pay for public services?
+- The problem of rights, numbers, and intensities (a.k.a., the James Madison problem):
+    - What to do when majorities trump minorities with intense preferences on “ordinary” issues? (e.g., trade policy)
+    - Possible solutions within democracy
+        - Encouraging deliberation
+        - Veto players
+        - Single-issue voters
+- The scope of the public sphere
+    - Indecency and offensiveness without harm (a.k.a., the Joel Feinberg problem)
+    - Sexuality and gender identity in a conventional society
+    - Reproductive rights
+    - How to decide the limits of the rights necessary for citizenship
+- The problem of cultural rights and prejudices (a.k.a, the Larry Diamond problem)
+    - Religious freedom in a largely but not completely homogenous society
+    - Language policy in a deeply divided society
+- The problem of popular ignorance (a.k.a., the H.L. Menken problem)
+    - “Democracy is a pathetic belief in the collective wisdom of individual ignorance. No one in this world, so far as I know—and I have researched the records for years, and employed agents to help me—has ever lost money by underestimating the intelligence of the great masses of the plain people.”
+    - Introduction to minimalism
+- Democracy versus liberalism (a.k.a, the Judith Shklar problem)
+    - “Liberalism is monogamously, faithfully, and permanently married to democracy -- but it is a marriage of convenience” rather than one of love.
+    - “Undemocratic liberalism” (per Yascha Mounk) as guardianship
+- Explanation of breakout groups
 
 **Session 5: Presentations by breakout groups**
 
