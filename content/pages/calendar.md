@@ -90,16 +90,33 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 
 - Discussion of conclusions from recitation
 - Quick discussion of paper topic
+- Paper 2 due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section)
 
 ## Topic 4: Entering the real world: Improving governance through better selection of leaders
 
 **Session 8: Can we design better representative institutions?**
 
+- Electoral rules for the legislature
+- Presidentialism versus parliamentarism
+- The problem of multidimensionality in representative systems
+- The problems of political parties (internal and external)
+
 **Session 9: Buzz groups**
+
+- Pros and cons of different electoral institutions in practice
+- Would institutional changes really matter?
+- Can we predict the effects?
+- Paper 3 due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section)
 
 ## Topic 5: In the real world: Improving governance through federalism and devolution
 
 **Session 10: Does decentralization improve governance?**
+
+- Political versus administrative federalism
+- Dealing with ethnic and regional divisions
+- Authoritarian enclaves, clientelism, and other challenges
+- Discussion of decentralizing reforms in problematic contexts
+- Paper 4 due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section)
 
 **Session 11: Can participatory mechanisms enhance the quality of governance?**
 
