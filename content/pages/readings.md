@@ -30,7 +30,7 @@ Fukuyama, Francis. “Preface.” In *State-Building: Governance and World Order
 
 No readings assigned.
 
-**Recommended films, TV, or novels for the week related to the state (or lack thereof):**
+***Recommended films, TV, or novels for the week related to the state (or lack thereof):***
 
 - [*Deadwood, Season 1, Episode 1*](https://www.imdb.com/title/tt0556296/?ref_=ttep_ep1)*.* Directed by Walter Hill. Color, 62 min. 2004.
 - Golding, William. *Lord of the Flies.* Penguin Books, 2003. ISBN: ‎9780399501487. \[Preview with [Google Books](https://www.google.com/books/edition/Lord_of_the_Flies/3C-4dsIGlEgC?hl=en&gbpv=1)\]
@@ -120,7 +120,7 @@ Mazzolla, Francisco. “[Community Policing in Lebanon](https://www.mei.edu/publ
 
 No readings assigned.
 
-**Recommended films for the week:**
+***Recommended films for the week:***
 
 - [*Brubaker*](https://www.imdb.com/title/tt0080474/?ref_=nv_sr_srsg_0)*.* Directed by Stuart Rosenberg. Color, 131 min. 1980.
 - [*Leviathan*](https://www.imdb.com/title/tt2802154/?ref_=nv_sr_srsg_1)*.* Directed by Andrey Zvyagintsev. Color, 140 min. 2014.
@@ -195,31 +195,113 @@ Fukuyama, Francis. “The Missing Dimensions of Stateness.” Chapter 1 in *Stat
 
 No readings assigned.
 
-**Recommended film for the week:**
+***Recommended film for the week:***
 
 [*Brazil*](https://www.imdb.com/title/tt0088846/?ref_=fn_al_tt_1). Directed by Terry Gilliam. Color, 132 min. 1985.
 
 **Session 21: Industrial policy and its discontents**
 
+“[Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats- BBC Four](https://www.youtube.com/watch?v=kTSxo3175ec).” YouTube. *(video)*
+
+DOUALA. “[The Road to Hell is Unpaved](https://www.economist.com/christmas-specials/2002/12/19/the-road-to-hell-is-unpaved).” *The Economist*, December 19, 2002.
+
+Rodrik, Dani, Arvind Subramanian, and Francesco Trebbi. “[Institutions Rule: The Primacy of Institutions over Geography and Integration in Economic Development](https://www.jstor.org/stable/40212696#metadata_info_tab_contents).” *Journal of Economic Growth* 9, no. 2 (2004): 131–65.
+
+de Soto, Hernando. “The Five Mysteries of Capital.” Chapter 1 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
+
+———. “The Mystery of Missing Information.” Chapter 2 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
+
+———. “By Way of Conclusion.” Chapter 7 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003, pp. 208–18. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
+
+Rodrik, Dani. [“Industrial Policy: Don’t Ask Why, Ask How.” (PDF)](https://drodrik.scholar.harvard.edu/files/dani-rodrik/files/industrial-policy-dont-ask-why-ask-how.pdf) *Middle East Development Journal*  1, no. 1 (2009): 1–29.
+
 **Session 22: Further discussion of industrial policy**
+
+No readings assigned.
+
+***Recommended films for the week:***
+
+- [*The Harder They Come*](https://www.imdb.com/title/tt0070155/?ref_=nv_sr_srsg_4). Directed by Perry Henzell. Color, 120 min. 1972.
+- [*Slumdog Millionaire*](https://www.imdb.com/title/tt1010048/?ref_=nv_sr_srsg_0). Directed by Danny Boyle and Loveleen Tandan. Color, 120 min. 2008.
+- [*Central Station*](https://www.imdb.com/title/tt0140888/?ref_=fn_al_tt_1). Directed by Walter Salles. Color, 110 min. 1998.
 
 ## Topic 9: Revolution, democratization, and regime change
 
 **Session 23: Regime change**
 
+“[How did the Arab Spring start in Tunisia? - BBC What's New](https://www.youtube.com/watch?v=l_D7LLqufVE).” YouTube. *(video)*
+
+“[Here's How the Arab Spring Started and How It Affected the World | History](https://www.youtube.com/watch?v=Fgcd5ZcxDys).” YouTube. *(video)*
+
+Anderson, Lisa. “[Demystifying the Arab Spring: Parsing the Differences between Tunisia, Egypt, and Libya](https://www.researchgate.net/publication/263535781_Demystifying_the_Arab_Spring_Parsing_the_Differences_Between_Tunisia_Egypt_and_Libya).” *Foreign Affairs* 90, no. 3 (2011): 2–7.
+
+Brownlee, Jason, Tarek Masoud, and Andrew Reynolds. “[Tracking the 'Arab Spring': Why the Modest Harvest?](https://muse.jhu.edu/article/523084)” *Journal of Democracy* 24, no. 4 (2013): 29–44.
+
+“[Episode 1.2: Forging Democracy Out of the Trauma of Repression, with Elizabeth Nugent](https://www.scopeconditionspodcast.com/episodes/episode-04-forging-democracy-out-of-the-trauma-of-repression-with-elizabeth-nugent).” Scope Conditions Podcast.
+
+Kendall-Taylor, Andrea, and Erica Frantz. “[How Autocracies Fall](https://www.tandfonline.com/doi/abs/10.1080/0163660X.2014.893172).” *Washington* *Quarterly* 37, no. 1 (2014): 35–47.
+
 **Session 24: Arab Spring**
+
+No readings assigned.
+
+***Recommended films for the week:***
+
+[*Bahrain: Shouting in the Dark*](https://www.imdb.com/title/tt2203745/?ref_=nv_sr_srsg_0). Directed by May Ying Welsh. Color,  51 min. 2011.
+
+[*Z*](https://www.imdb.com/title/tt0065234/?ref_=fn_al_tt_1). Directed by Costa-Gavras. Color, 127 min. 1969.
 
 ## Topic 10: Do new technologies increase accountability or social control?
 
 **Session 25: Theories of technological impacts on politics**
 
+Diamond, Larry. “[Liberation Technology](https://www.journalofdemocracy.org/articles/liberation-technology/).” *Journal of Democracy* 21, no. 3 (2010): 69–83.
+
+Morozov, Evgeny. “[Liberation Technology: Whither Internet Control?](https://www.journalofdemocracy.org/articles/liberation-technology-whither-internet-control/)” *Journal* *of Democracy* 22, no. 2 (2011): 62–74.
+
+Little, Andrew T. [“Communication Technology and Protest.” (PDF)](https://anthlittle.github.io/files/little_infoaction_web.pdf) *Journal of Politics* 78, no. 1 (2016): 152–66.
+
+Bahrani, Yasmine. “[What is it like to Live in a Modern Surveillance State? Look to Dubai](https://www.washingtonpost.com/opinions/2019/09/10/what-is-it-like-live-modern-surveillance-state-look-dubai/),” *Washington Post*, September 10, 2019.
+
+Farrow, Ronan. “[How Democracies Spy on Their Citizens](https://www.newyorker.com/magazine/2022/04/25/how-democracies-spy-on-their-citizens).” *The New Yorker*, April 18, 2022. 
+
+Satariano, Adam, and Paul Mozur. “[Russia Is Censoring the Internet, With Coercion and Black Boxes](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html),” *New York Times*, October 22, 2021.
+
+“[Why China’s Social Credit System is Worse Than You Think](https://www.youtube.com/watch?v=fM3KONWxgIo).” YouTube. *(video)*
+
+Marr, Bernard. “[Chinese Social Credit Score: Utopian Big Data Bliss or Black Mirror on Steroids?](https://www.forbes.com/sites/bernardmarr/2019/01/21/chinese-social-credit-score-utopian-big-data-bliss-or-black-mirror-on-steroids/?sh=630c38d48b83)” *Forbes*, January 21, 2019.
+
+“[China's Social Credit System Keeps a Critical Eye on Everyday Behavior](https://www.youtube.com/watch?v=Onm6Sb3Pb2Y).” YouTube. *(video)*
+
+“[Keeping Score: China’s ‘Social Credit System’ | Radio Free Asia (RFA)](https://www.youtube.com/watch?v=M1sf72fqHTs).” YouTube. *(video)*
+
 **Session 26: Buzz groups**
+
+No readings assigned.
+
+***Recommended novels (some of which have been made into films) and movie for the week:***
+
+Boye, Karin. *Kallocain*. Translated by Gustaf Lannestock. University of Wisconsin Press, 2002. ISBN: ‎9780299038946. \[Preview with [Google Books](https://www.google.com/books/edition/Kallocain/DyTTNWgQeTMC?hl=en&gbpv=1)\]
+
+Huxley, Aldous. *Brave New World*. Harper Perennial, 2006. ISBN: ‎9780060850524.
+
+Orwell, George. *Nineteen Eighty-Four*. Orion, 2022. ISBN: 9781473234819. \[Preview with [Google Books](https://www.google.com/books/edition/Nineteen_Eighty_Four/SN4wEAAAQBAJ?hl=en&gbpv=1)\]
+
+Eggers, Dave. *The Circle*. Knopf Doubleday Publishing Group, 2013. ISBN: 9780385351409.  \[Preview with [Google Books](https://www.google.com/books/edition/The_Circle/sbxWAAAAQBAJ?hl=en&gbpv=1)\]  
+
+[*Logan's Run*](https://www.imdb.com/title/tt0074812/?ref_=nv_sr_srsg_0). Directed by Michael Anderson. Color, 119 min. 1976.
 
 ## Topic 11: The future of democracy and the state
 
 **Session 27: The fundamental challenge of governance**
 
+Mounk, Yascha. “[The Undemocratic Dilemma](https://www.journalofdemocracy.org/articles/the-undemocratic-dilemma/).” *Journal of Democracy* 29, no. 2 (2018): 98–112.
+
+Svolik, Milan W. “[Polarization versus Democracy](https://www.journalofdemocracy.org/articles/polarization-versus-democracy/).” *Journal of Democracy* 30, no. 3 (2019): 20–32.
+
 **Session 28: The future of democracy and the state**
+
+No readings assigned.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SESS #
