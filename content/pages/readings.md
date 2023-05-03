@@ -28,31 +28,77 @@ Fukuyama, Francis. “Preface.” In *State-Building: Governance and World Order
 
 **Session 3: The state and its discontents (2)**
 
+No readings assigned.
+
+**Recommended films, TV, or novels for the week related to the state (or lack thereof):**
+
+- [*Deadwood, Season 1, Episode 1*](https://www.imdb.com/title/tt0556296/?ref_=ttep_ep1)*.* Directed by Walter Hill. Color, 62 min. 2004.
+- Golding, William. *Lord of the Flies.* Penguin Books, 2003. ISBN: ‎9780399501487. \[Preview with [Google Books](https://www.google.com/books/edition/Lord_of_the_Flies/3C-4dsIGlEgC?hl=en&gbpv=1)\]
+- [*Hotel Rwanda*](https://www.imdb.com/title/tt0395169/?ref_=fn_al_tt_1)*.* Directed by Terry George. Color, 121 min. 2004.
+- [*The Killing Fields*](https://www.imdb.com/title/tt0087553/?ref_=fn_al_tt_3). Directed by Roland Joffé. Color, 141 min. 1984.
+- Orwell, George. *1984.* epubli, 2021. ISBN: 9783753145136. \[Preview with [Google Books](https://www.google.com/books/edition/Nineteen_Eighty_Four/PEpoEAAAQBAJ?hl=en&gbpv=1)\]
+- Lowry, Lois. *The Giver.* Houghton Mifflin Harcourt, 2014. ISBN: 9780544340688. \[Preview with [Google Books](https://www.google.com/books/edition/The_Giver/Coi9AwAAQBAJ?hl=en&gbpv=1)\]
+- [*Burn!*](https://www.imdb.com/title/tt0064866/?ref_=fn_al_tt_6) Directed by Gillo Pontecorvo. Color, 112 min. 1969.
+
 ## Topic 2: Making rules
 
 **Session 4: Making rules and the state in countries that are “born free”**
 
+No readings assigned.
+
 **Session 5: Presentations by breakout groups**
+
+No readings assigned.
 
 ## Topic 3: Picking and constraining rulers
 
 **Session 6: Picking rulers**
 
+Allison, Graham. “[The Lee Kuan Yew Conundrum](https://www.theatlantic.com/international/archive/2015/03/lee-kuan-yew-conundrum-democracy-singapore/388955/).” *The Atlantic,* March 30, 2015. 
+
+“[Lee Kuan Yew: The Wise Man of the East](https://www.economist.com/asia/2015/03/22/the-wise-man-of-the-east).” *The Economist,* March 22, 2015. 
+
+Silverstein, Ken. “[Teodorin’s World](https://foreignpolicy.com/2011/02/21/teodorins-world/).” *Foreign Policy* 185 (2011): 54–62.
+
+Sun Yat-sen. Selections from “The Principle of *Mínquán.*” In *The Three Principles of the People: San Min Chu I*. Translated by Frank W. Price. Soul Care Publishing, 2011. ISBN: 9781927077030.
+
+Dahl, Robert A. “Guardianship.” Chapter 4 in *Democracy and Its Critics.* Yale University Press, 1991. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\]
+
 **Session 7: Constraining rulers**
+
+No readings assigned.
 
 ## Topic 4: Entering the real world: Improving governance through better selection of leaders
 
 **Session 8: Can we design better representative institutions?**
 
+Lijphart, Arend. “Introduction.” Chapter 1 in *Patterns of Democracy: Government Forms and Performance in Thirty-Six Countries*. Yale University Press, 1999. ISBN: 9780300078930. \[Preview with [Google Books](https://www.google.com/books/edition/Patterns_of_Democracy/GLtX2zJrflAC?hl=en&gbpv=1)\]
+
+———. “Executive-Legislative Relations: Patterns of Dominance and Balance of Power.” Chapter 7 in *Patterns of Democracy: Government Forms and Performance in Thirty-Six Countries*. Yale University Press, 1999, pp. 116–24. ISBN: 9780300078930. \[Preview with [Google Books](https://www.google.com/books/edition/Patterns_of_Democracy/GLtX2zJrflAC?hl=en&gbpv=1)\]
+
+———. “Electoral Systems: Majority and Plurality Methods Versus Proportional Representation.” Chapter 8 in *Patterns of Democracy: Government Forms and Performance in Thirty-Six Countries*. Yale University Press, 1999. ISBN: 9780300078930. \[Preview with [Google Books](https://www.google.com/books/edition/Patterns_of_Democracy/GLtX2zJrflAC?hl=en&gbpv=1)\]
+
 **Session 9: Buzz groups**
+
+No readings assigned.
 
 ## Topic 5: In the real world: Improving governance through federalism and devolution
 
 **Session 10: Does decentralization improve governance?**
 
+“Political Decentralization.” Decentralization & Subnational Regional Economics, The World Bank Group.
+
+Meenakshi, D. “[Essay on the Decentralisation of Power](https://www.politicalsciencenotes.com/essay/government/essay-on-the-decentralisation-of-power-government-political-science/1531).” Political Science.
+
 **Session 11: Can participatory mechanisms enhance the quality of governance?**
 
+Baiocchi, Gianpaolo. “[The Citizens of Porto Alegre: In Which Marco Borrows Bus Fare and Enters Politics](https://www.bostonreview.net/articles/gianpaolo-baiocchi-the-citizens-of-porto-alegre/).” *Boston Review*, March 1, 2006.
+
+Rao, Vijayendra, Kripa Ananthpur, and Kabir Malik. “[The Anatomy of Failure: An Ethnography of a Randomized Trial to Deepen Democracy in Rural India](https://www.sciencedirect.com/science/article/pii/S0305750X17302115).” *World Development* 99 (2017): 481–97.
+
 **Session 12: Class discussion**
+
+No readings assigned.
 
 ## Topic 6: In the real world: Improving governance through monitoring and motivating officials
 
