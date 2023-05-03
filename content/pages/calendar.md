@@ -7,26 +7,24 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 ---
 **Session 1: Introduction**
 
-- *Review of syllabus. Introductions (who you are and what you want to get out of the class)*
-- *Pop quiz*
-- *Overview of readings for next week*
-
-*No recitation this week*
-
-*By session 2:*
-
-- *Read this syllabus thoroughly.*
-- *Take the Pop Quiz. Read through the whole quiz before attempting any of the answers. Then spend 60 minutes to answer some of them, dividing your time however you please across questions. (You may wish to take a deep dive into one particular question or, alternatively, to answer several questions at a superficial level.) Please discuss the Pop Quiz with as many people as you want. You can also consult any sources you wish, but if you do, make sure to cite them properly in your posts. Post your replies on the class website. there is a separate thread for each question on the Pop Quiz.*
-- *Comment on Pop Quiz answers (~30 minutes). Pick one question, read through the answers already posted, and then post your own commentary.*
+- Review of syllabus 
+- Introductions (who you are and what you want to get out of the class)
+- Pop quiz
+- Overview of readings for next week
+- No recitation this week
+- By session 2:
+    - Read this syllabus thoroughly.
+    - Take the Pop Quiz. Read through the whole quiz before attempting any of the answers. Then spend 60 minutes to answer some of them, dividing your time however you please across questions. (You may wish to take a deep dive into one particular question or, alternatively, to answer several questions at a superficial level.) Please discuss the Pop Quiz with as many people as you want. You can also consult any sources you wish, but if you do, make sure to cite them properly in your posts. Post your replies on the class website. there is a separate thread for each question on the Pop Quiz.
+    - Comment on Pop Quiz answers (~30 minutes). Pick one question, read through the answers already posted, and then post your own commentary.
 
 ## Topic 1:  State and government
 
 **Session 2: The state and its discontents (1)**
 
-- *Introductions of any newcomers*
-- *Pop Quiz Q1*
-- *Lecture: What is a state, and why have one? (Part 1)*
-- *Reminder on Map Test*
+- Introductions of any newcomers
+- Pop Quiz Q1
+- Lecture: What is a state, and why have one? (Part 1)
+- Reminder on Map Test
 
 **Session 3: The state and its discontents (2)**
 
