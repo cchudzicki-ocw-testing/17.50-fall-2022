@@ -104,23 +104,100 @@ No readings assigned.
 
 **Session 13: Monitoring street-level bureaucrats**
 
+Fordham, Alice. “[App Aims to Track Engrained Corruption in Lebanon](https://www.npr.org/2015/03/09/391795425/app-tries-to-track-engrained-corruption-in-lebanon).” NPR. March 9, 2015.  (*Make sure to listen to the interview rather than read the transcript.*)
+
+ “[Corruption and Economic Development](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/799831538245192753/helping-countries-combat-corruption-the-role-of-the-world-bank).” Chapter 2 in *Helping Countries Combat Corruption: The Role of the World Bank.* The World Bank Group. 1997.
+
+Davis, Jennifer. “[Corruption in Public Service Delivery: Experience from South Asia’s Water and Sanitation Sector](https://www.sciencedirect.com/science/article/pii/S0305750X03001979).” *World Development* 32, no. 1 (2003): 53–71.  
+
+Rheault, Magali. “[Many World Citizens Trust Neighbors More Than Police](https://news.gallup.com/poll/102346/many-world-citizens-trust-neighbors-more-than-police.aspx).” Gallup. October 25, 2007.
+
+Davis, Diane E. “[Law Enforcement in Mexico: Not Yet Under Control](https://nacla.org/article/law-enforcement-mexico-not-yet-under-control).” NACLA. September 25, 2007.
+
+Mazzolla, Francisco. “[Community Policing in Lebanon](https://www.mei.edu/publications/community-policing-lebanon).” Middle East Institute. October 29, 2018.
+
 **Session 14: Buzz groups on corruption**
+
+No readings assigned.
+
+**Recommended films for the week:**
+
+- [*Brubaker*](https://www.imdb.com/title/tt0080474/?ref_=nv_sr_srsg_0)*.* Directed by Stuart Rosenberg. Color, 131 min. 1980.
+- [*Leviathan*](https://www.imdb.com/title/tt2802154/?ref_=nv_sr_srsg_1)*.* Directed by Andrey Zvyagintsev. Color, 140 min. 2014.
 
 ## Topic 7: Who are the people?
 
 **Session 15: Who are the people?**
 
+Review Pop Quiz Question 10.
+
+Fukuyama, Francis. “Tribal Societies: Property, Justice, War.” Chapter 4 in *The Origins of Political Order*. Profile Books, 2011. ISBN: 9781847652812. \[Preview with [Google Books](https://www.google.com/books/edition/The_Origins_of_Political_Order/CvN0ihQi--wC?hl=en&gbpv=1)\] *(Read the section “Law and Justice.”)*
+
+“[Episode 1.3: The Upside of Nationalism, with Aram Hur](https://www.scopeconditionspodcast.com/episodes/episode-3-the-upside-of-nationalism-with-aram-hur).” Scope Conditions Podcast.
+
+Blakemore, Erin. “[Who Are the Rohingya People?](https://www.nationalgeographic.com/culture/article/rohingya-people)” *National Geographic*, February 8, 2019.
+
+Estrin, James. “[Breaking Through Walls of Bias](https://archive.nytimes.com/lens.blogs.nytimes.com/2012/11/05/breaking-through-walls-of-bias/),” *New York Times*, November 5, 2012.
+
+Bilefsky, Dan. “[Walls, Real and Imagined, Surround the Roma](https://www.nytimes.com/2010/04/03/world/europe/03roma.html?_r=0),” *New York Times*, April 2, 2010.
+
+“[The Struggle for Survival of the Roma People: Europe's Most Hated](https://www.youtube.com/watch?v=ALdlphTYdi4).” YouTube. *(video)*
+
+“[CNN documentary on the Roma community in Romania](https://www.youtube.com/watch?v=kGThWKlPRMc).” YouTube. *(video)*
+
+Berger, Miriam. “[Israel’s Hugely Controversial ‘Nation-State’ Law, Explained](https://www.vox.com/world/2018/7/31/17623978/israel-jewish-nation-state-law-bill-explained-apartheid-netanyahu-democracy).” Vox. July 31, 2018. 
+
+Burgess, Chris. “[A Japanese Multicultural Society Still Far Off](https://www.eastasiaforum.org/2016/10/13/a-japanese-multicultural-society-still-far-off/).” East Asia Forum. October 13, 2016.
+
+Stokes, Bruce. “[What It Takes to Truly Be ‘One of Us’](https://www.pewresearch.org/global/2017/02/01/what-it-takes-to-truly-be-one-of-us/).” Pew Research Center. February 1, 2017.
+
 **Session 16: Building national identity**
+
+ [“The American Identity: Points of Pride, Conflicting Views, and a Distinct Culture.” (PDF - 2.2MB)](https://apnorc.org/wp-content/uploads/2020/02/APNORC_American_Identity_2017.pdf) Associated Press / NORC Center for Public Affairs Research at the University of Chicago. March 2017.
+
+Huntington, Samuel P. “Foreword.” In *Who Are We? The Challenges to America’s National Identity*. Simon & Schuster, 2004. ISBN: ‎9780684870533. \[Preview with [Google Books](https://www.google.com/books/edition/Who_are_We/6xiYiybkE8kC?hl=en&gbpv=1)\]  
+
+———. “The Crisis of National Identity.” Chapter 1 in *Who Are We? The Challenges to America’s National Identity*. Simon & Schuster, 2004. ISBN: ‎9780684870533. \[Preview with [Google Books](https://www.google.com/books/edition/Who_are_We/6xiYiybkE8kC?hl=en&gbpv=1)\]  
+
+Lozada, Carlos. “[Samuel Huntington, a Prophet for the Trump Era](https://www.washingtonpost.com/news/book-party/wp/2017/07/18/samuel-huntington-a-prophet-for-the-trump-era/),” *Washington Post*, July 18, 2017.
 
 **Session 17: The debate over immigration**
 
+Papademetriou, Demetrios G. “[Policy Considerations for Immigrant Integration](https://www.migrationpolicy.org/article/policy-considerations-immigrant-integration).” Migration Policy Institute. October 1, 2003.
+
+Hamilton, Tracy Brown. “[Losing Identity During the Refugee Crisis: The Difference between Assimilation and Integration in the Classroom](https://www.theatlantic.com/education/archive/2016/05/balancing-integration-and-assimilation-during-the-refugee-crisis/482757/).” *The Atlantic*, May 16, 2016.
+
+Creatura, Isabella. “[Rethinking ‘Integration’ and ‘Assimilation’ of Refugees](https://brownpoliticalreview.org/2017/03/rethinking-integration-assimilation-refugees/).” *Brown Political Review*, March 13, 2017.
+
+Zappi, Sylvia. “[French Government Revives Assimilation Policy](https://www.migrationpolicy.org/article/french-government-revives-assimilation-policy).” Migration Policy Institute. Migration Policy Institute. October 1, 2003.
+
+Griffith, Andrew. “[Building a Mosaic: The Evolution of Canada’s Approach to Immigrant Integration](https://www.migrationpolicy.org/article/building-mosaic-evolution-canadas-approach-immigrant-integration).” Migration Policy Institute. November 1, 2017.
+
+Goings, Rick. “[Stop Telling Immigrants to Assimilate and Start Helping Them Participate](https://www.weforum.org/agenda/2017/01/stop-telling-immigrants-to-assimilate-and-start-helping-them-participate/).” World Economic Forum. January 14, 2017.
+
+Bernstein, Hamutal, with Nicole DuBois. [“Bringing Evidence to the Refugee Integration Debate.” (PDF)](https://www.urban.org/sites/default/files/publication/97771/bringing_evidence_to_the_refugee_integration_debate_0.pdf) Urban Institute. April 2018. 
+
 **Session 18: Class discussion and debate**
+
+No readings assigned.
 
 ## Topic 8: What can the government do to promote prosperity? What should it not do?
 
 **Session 19: Bloated states and their consequences**
 
+Goodman, John B., and Gary W. Loveman. “[Does Privatization Serve the Public Interest?](https://hbr.org/1991/11/does-privatization-serve-the-public-interest)” *Harvard Business Review*, November–December 1991.
+
+Ball, Molly. “[The Privatization Backlash](https://www.theatlantic.com/politics/archive/2014/04/city-state-governments-privatization-contracting-backlash/361016/).” *The Atlantic*, April 23, 2014.
+
+Fukuyama, Francis. “The Missing Dimensions of Stateness.” Chapter 1 in *State-Building: Governance and World Order in the 21st Century*. Cornell University Press, 2004, pp. 1–23. ISBN: 9780801442923. \[Preview with [Google Books](https://www.google.com/books/edition/State_Building/Q_utDwAAQBAJ?hl=en&gbpv=1)\]
+
 **Session 20: Broad explanations for economic development**
+
+No readings assigned.
+
+**Recommended film for the week:**
+
+[*Brazil*](https://www.imdb.com/title/tt0088846/?ref_=fn_al_tt_1). Directed by Terry Gilliam. Color, 132 min. 1985.
 
 **Session 21: Industrial policy and its discontents**
 
