@@ -5,22 +5,18 @@ draft: false
 title: Recitations
 uid: f17b11bb-4820-4baa-a478-902e80f3a98f
 ---
-## Topic 1:  State and government
+## Week 2
 
-### Week 2
-
-*Activities*
+### *Activities*
 
 - Map Test \[8 min\]
 - Compare and contrast of Aristotle, Ibn Khaldun, Hobbes, and Hume \[12 min\]
 - Discussion of Dahl: Is it desirable not to have a state? Workable? \[15 min\]
 - Discussion of expectations for papers and breakout groups \[15 min\]
 
-## Topic 2: Making rules
+## Week 3
 
-### Week 3
-
-*Activities*
+### *Activities*
 
 - Breakout groups
     - You will be divided into groups and will do readings based on your group. Make sure to come to recitation have read and digested all the readings.
@@ -30,7 +26,7 @@ uid: f17b11bb-4820-4baa-a478-902e80f3a98f
     - In all cases, assume that your state will make and enforce binding decisions for a population of around six million people, about four and a half million of whom are adults.
     - The TA will overexplain the task, but ask plenty of questions before you begin your discussions and if you get stuck.
 
-*Readings*
+### *Readings*
 
 - Group A: Lessons from Athens. The institutions invented in the ancient Greek world approximately 2,500 years ago were distinctive in providing direct citizen control of government. You should focus here on the notion of authoritative bodies (essentially, state agencies) being staffed by randomly selected groups of citizens and the citizenry meeting regularly to vote on decisions. Are these feasible in modern societies, either at the national or local level, and for certain spheres of policy? What are the pros and cons of applying them?
     - Dahl, Robert A. “The First Transformation: To the Democratic City­-State.” Chapter 1 in *Democracy and Its Critics.* Yale University Press, 1991. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\]
