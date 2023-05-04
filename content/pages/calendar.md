@@ -5,7 +5,9 @@ draft: false
 title: Calendar
 uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 ---
-**Session 1: Introduction**
+## Topic 1:  State and government
+
+### Session 1: Introduction
 
 - Review of syllabus 
 - Introductions (who you are and what you want to get out of the class)
@@ -17,16 +19,14 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
     - Take the Pop Quiz. Read through the whole quiz before attempting any of the answers. Then spend 60 minutes to answer some of them, dividing your time however you please across questions. (You may wish to take a deep dive into one particular question or, alternatively, to answer several questions at a superficial level.) Please discuss the Pop Quiz with as many people as you want. You can also consult any sources you wish, but if you do, make sure to cite them properly in your posts. Post your replies on the class website. there is a separate thread for each question on the Pop Quiz.
     - Comment on Pop Quiz answers (~30 minutes). Pick one question, read through the answers already posted, and then post your own commentary.
 
-## Topic 1:  State and government
-
-**Session 2: The state and its discontents (1)**
+### Session 2: The state and its discontents (1)
 
 - Introductions of any newcomers
 - Pop Quiz Q1
 - Lecture: What is a state, and why have one? (Part 1)
 - Reminder on Map Test
 
-**Session 3: The state and its discontents (2)**
+### Session 3: The state and its discontents (2)
 
 - Random anecdote<sup>TM</sup>: Montezuma’s instructions to his messenger, in delivery of a letter to Hernán Cortés at Veracruz.
 - Lecture: What is a state and why have one? (Part II) How were states originally created?
@@ -40,7 +40,7 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 
 ## Topic 2: Making rules
 
-**Session 4: Making rules and the state in countries that are “born free”**
+### Session 4: Making rules and the state in countries that are “born free”
 
 - Random anecdote<sup>TM</sup>: Approved undergarments in a Japanese high school.
 - Born free versus something else
@@ -69,13 +69,13 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
     - “Undemocratic liberalism” (per Yascha Mounk) as guardianship
 - Explanation of breakout groups
 
-**Session 5: Presentations by breakout groups**
+### Session 5: Presentations by breakout groups
 
 - Paper 1 due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section)
 
 ## Topic 3: Picking and constraining rulers
 
-**Session 6: Picking rulers**
+### Session 6: Picking rulers
 
 - Review Pop Quiz Question 4
 - Leadership selection (and training) mechanisms
@@ -86,7 +86,7 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
     - Getting to the top of the Communist Party in China
 - Discussion of breakout groups
 
-**Session 7: Constraining rulers**
+### Session 7: Constraining rulers
 
 - Discussion of conclusions from recitation
 - Quick discussion of paper topic
@@ -94,14 +94,14 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 
 ## Topic 4: Entering the real world: Improving governance through better selection of leaders
 
-**Session 8: Can we design better representative institutions?**
+### Session 8: Can we design better representative institutions?
 
 - Electoral rules for the legislature
 - Presidentialism versus parliamentarism
 - The problem of multidimensionality in representative systems
 - The problems of political parties (internal and external)
 
-**Session 9: Buzz groups**
+### Session 9: Buzz groups
 
 - Pros and cons of different electoral institutions in practice
 - Would institutional changes really matter?
@@ -110,7 +110,7 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 
 ## Topic 5: In the real world: Improving governance through federalism and devolution
 
-**Session 10: Does decentralization improve governance?**
+### Session 10: Does decentralization improve governance?
 
 - Political versus administrative federalism
 - Dealing with ethnic and regional divisions
@@ -118,12 +118,12 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 - Discussion of decentralizing reforms in problematic contexts
 - Paper 4 due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section)
 
-**Session 11: Can participatory mechanisms enhance the quality of governance?**
+### Session 11: Can participatory mechanisms enhance the quality of governance?
 
 - The democratic chain and the inadequacy of the electoral mechanism
 - Direct democracy and related innovations
 
-**Session 12: Class discussion**
+### Session 12: Class discussion
 
 - Follow-up on buzz groups
 - Discussion of paper
@@ -131,11 +131,11 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 
 ## Topic 6: In the real world: Improving governance through monitoring and motivating officials
 
-**Session 13: Monitoring street-level bureaucrats**
+### Session 13: Monitoring street-level bureaucrats
 
 - Causes of corruption and shirking among street-level bureaucrats
 
-**Session 14: Buzz groups on corruption**
+### Session 14: Buzz groups on corruption
 
 - You are a police captain (heading a precinct) and would like to supplement your income by at least $50,000 per year through corrupt practices. But you also do not want to go to jail or lose your job, which might happen if your corruption is exposed. What scams can you invent that fall within acceptable risk parameters?
 - You are the Inspector General of the police department. Your police department is known to have some corruption and you are trying to get it under control. What policies will keep captains (who head a precinct) on their best behavior?
@@ -143,25 +143,25 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 
 ## Topic 7: Who are the people?
 
-**Session 15: Who are the people?**
+### Session 15: Who are the people?
 
 - Defining the boundaries of a political community
 - The political community in post-conquest and post-colonial states
 - National identity: instrument of state control or crucial social glue? Does having a strong national identity make governance better?
 - Class discussion of readings
 
-**Session 16: Building national identity**
+### Session 16: Building national identity
 
 - Options for promoting national identity in the now diverse nation of Compostela
 - Options for promoting national identity in a post-colonial society
 - Paper 5 due (See {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section)
 
-**Session 17: The debate over immigration**
+### Session 17: The debate over immigration
 
 - Random anecdote<sup>TM</sup>: “Beer hall putsch” coup attempt; November 8–9, 1923
 - Overview of immigration policies
 
-**Session 18: Class discussion and debate**
+### Session 18: Class discussion and debate
 
 - Forty years after the founding of your now large, flourishing, and well-ordered nation of Compostela, climate change has created a vast number of desperate refugees from all over planet Earth. You – now pillars of the community, with spouses, grown children, and grandchildren – have been asked to make policy recommendations about how many refugees should be admitted. How many refugees should be admitted **each year** as a percentage of the colony’s current population (from 0% to 100%)? What conditions, if any, do you wish to set regarding the types of refugees the colony should accept? Will you favor certain individuals more than others? What mechanisms of integration for refugees should be created? Finally, how should the colony decide on your recommendations – by ordinary legislation, by supermajority legislation, by a majority in a referendum, or by a supermajority in a referendum – and why?
 - We will vote on which teams made the best arguments
@@ -170,29 +170,29 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 
 ## Topic 8: What can the government do to promote prosperity? What should it not do?
 
-**Session 19: Bloated states and their consequences**
+### Session 19: Bloated states and their consequences
 
 - Random anecdote<sup>TM</sup>: Attempted assassination of Park Chun-Hee in 1974
 - Bloated states and their consequences
 
-**Session 20: Broad explanations for economic development**
+### Session 20: Broad explanations for economic development
 
-**Session 21: Industrial policy and its discontents**
+### Session 21: Industrial policy and its discontents
 
 - Review Pop Quiz questions 9 and 11
 
-**Session 22: Further discussion of industrial policy**
+### Session 22: Further discussion of industrial policy
 
 - Random anecdote<sup>TM</sup>: Anniversary of the Hat Law in Turkey (November 25, 1925)
 
 ## Topic 9: Revolution, democratization, and regime change
 
-**Session 23: Regime change**
+### Session 23: Regime change
 
 - Theories of democratization and democratic breakdown
 - Democratizing autocratic regimes
 
-**Session 24: Arab Spring**
+### Session 24: Arab Spring
 
 - What happened in the Arab Spring?
 - Why do people protest?
@@ -200,9 +200,9 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 
 ## Topic 10: Do new technologies increase accountability or social control?
 
-**Session 25: Theories of technological impacts on politics**
+### Session 25: Theories of technological impacts on politics
 
-**Session 26: Buzz groups**
+### Session 26: Buzz groups
 
 - Random anecdote<sup>TM</sup>: North Korea bans laughing, drinking, etc. on 10th anniversary of Kim Jong-Il’s death (December 17)
 - Buzz groups: You are the Advisory Council to the President-for-Life of Qumar. Pick two emerging technologies (e.g., AI, facial recognition, genetic databases, etc.) and make recommendations to him regarding what he should do about them
@@ -210,9 +210,9 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 
 ## Topic 11: The future of democracy and the state
 
-**Session 27: The fundamental challenge of governance**
+### Session 27: The fundamental challenge of governance
 
-**Session 28: The future of democracy and the state**
+### Session 28: The future of democracy and the state
 
 - Compostela has become divided into two factions of roughly equal size that disagree sharply on the direction the country should take. The colony recently had a very close election; one side claimed victory whereas the other side argued that the results of the election were well within the margin of fraud. Can you prevent civil war?
 - Discussion of final exam
