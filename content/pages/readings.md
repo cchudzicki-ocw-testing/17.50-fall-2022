@@ -8,11 +8,11 @@ uid: 5766748f-26ce-4690-8413-aba30fb6b353
 ---
 ## Topic 1:  State and government
 
-***Session 1: Introduction***
+### Session 1: Introduction
 
 Course syllabus
 
-***Session 2: The state and its discontents (1)***
+### Session 2: The state and its discontents (1)
 
 Selection from Aristotle, *Politics*, Book 3, Part 6, c. 350 BCE.
 
