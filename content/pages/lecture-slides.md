@@ -21,12 +21,12 @@ uid: c6704126-7f51-47fd-a4df-f8bbd014859a
 
 {{% resource_link "58595b51-a073-45af-ba15-25fade10c5a3" "Session 13: Corruption (PDF)" %}}
 
-Session 15: National identity (PDF)
+{{% resource_link "e6c80368-b804-4b15-ba52-287a4b62dccd" "Session 15: National identity (PDF)" %}}
 
-Session 17: Immigration (PDF)
+{{% resource_link "d82c4d51-1a7b-46ae-9529-d78430c59bde" "Session 17: Immigration (PDF)" %}}
 
-Session 24: Democratization (PDF)
+{{% resource_link "ebb0b41a-c876-4154-b76c-c7d85b88f991" "Session 24: Democratization (PDF)" %}}
 
-Session 26: Technology and Political Impact (PDF)
+{{% resource_link "a0201fcc-cf02-45e9-b9a3-917c695cdb39" "Session 26: Technology and Political Impact (PDF)" %}}
 
-Session 27: The fundamental problem of governance (PDF)
+{{% resource_link "0766885c-18e3-46f8-8da3-5b20c43ad0e1" "Session 27: The fundamental problem of governance (PDF)" %}}
