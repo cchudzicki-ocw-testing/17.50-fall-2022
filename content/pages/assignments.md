@@ -5,6 +5,17 @@ draft: false
 title: Assignments
 uid: 268c54ed-52cd-447f-af68-583785b4440f
 ---
+## Papers
+
+Papers focus on the topic of the week and are designed to ensure that you have grappled with that particular issue, including the material covered in lecture and associated readings. You will generally be using this material as a launching point, so I would assume that you will cite the readings and the lecture*.* It will be hard to do well on the papers without having done the readings, listened to lecture, and thought about how to synthesize the material. *Avoid drawing on any readings that were not assigned in class or bringing in material from other classes*; those things will almost always be a distraction. Focus on what you have read for this subject only, the material I have presented, and the conversations we have had in class.
+
+The biggest mistakes I commonly see on papers are (in descending order of frequency):
+
+1. Lack of engagement with the readings and lecture, as they apply to the paper topic.
+2. Drawing on random or tangential material and ideas from outside of the class.
+3. Lack of clarity in argumentation, typically manifested in the absence of a cogent argument at the beginning and disorganized presentation of supporting statements, rather than a clear logic flow.
+4. Not addressing potential counterarguments or tradeoffs.
+
 ### Paper 1
 
 *3 pages.*
