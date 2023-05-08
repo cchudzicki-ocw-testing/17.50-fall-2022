@@ -93,6 +93,54 @@ Lijphart, Arend. *Patterns of Democracy: Government Forms and Performance in Thi
 
 Rao, Vijayendra, Kripa Ananthpur, and Kabir Malik. “[The Anatomy of Failure: An Ethnography of a Randomized Trial to Deepen Democracy in Rural India](https://www.sciencedirect.com/science/article/pii/S0305750X17302115).” *World Development* 99 (2017): 481–97.
 
+## Week 8
+
+### *Activities*
+
+- Discussion of readings
+- The nature and extent of corruption in China
+
+## Week 9
+
+### *Activities*
+
+- Why is national identity valuable? Is it stronger when linked to race, ethnicity, language, religion, or shared cultural practices? If it is desirable, should the government promote it?
+- National identity and ethnic minorities in China
+
+## Week 10
+
+- Prepare for class debate over immigration-related policies in Compostela 
+    - Should “assimilation” or “integration” be the goal for immigrants and refugees?
+    - What government policies would best advance the goal you support?
+    - \[Note: In each case, you will be assigned to argue for one side or the other, whether or not you actually agree with it.\]
+- Use an aging app to see what you and your group might look like at 60 years old
+
+## Week 11
+
+- Discussion of readings
+- Economic policy choices in China
+
+## Week 12
+
+- Discussion of Rodrik, et al. and de Soto (what is “dead capital”)
+    - *What does de Soto presume about the state’s role? How realistic is this assumption?*
+    - *Discussion of Rodrik (2009)*
+    - *China as an exception to the question of property rights?*
+
+### *Readings*
+
+Rodrik, Dani, Arvind Subramanian, and Francesco Trebbi. “[Institutions Rule: The Primacy of Institutions over Geography and Integration in Economic Development](https://www.jstor.org/stable/40212696#metadata_info_tab_contents).” *Journal of Economic Growth* 9, no. 2 (2004): 131–65.
+
+de Soto, Hernando. “The Five Mysteries of Capital.” Chapter 1 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
+
+———. “The Mystery of Missing Information.” Chapter 2 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
+
+———. “By Way of Conclusion.” Chapter 7 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003, pp. 208–18. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
+
+Rodrik, Dani. [“Industrial Policy: Don’t Ask Why, Ask How.” (PDF)](https://drodrik.scholar.harvard.edu/files/dani-rodrik/files/industrial-policy-dont-ask-why-ask-how.pdf) *Middle East Development Journal,* *Demo Issue* (2008): 1–29.
+
+## Week 13
+
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 REC #
 {{< thclose >}}{{< thopen >}}
