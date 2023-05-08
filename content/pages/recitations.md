@@ -71,6 +71,18 @@ uid: f17b11bb-4820-4baa-a478-902e80f3a98f
     - Does popular election produce leaders with these qualities? \[10 min\]
     - Can you design a system that would reliably produce leaders with these qualities? \[10 min\]
 
+## Week 5
+
+## *Activity*
+
+Discussion of Lijphart
+
+### *Reading*
+
+Lijphart, Arend. *Patterns of Democracy: Government Forms and Performance in Thirty-Six Countries*. Yale University Press, 1999. ISBN: 9780300078930. \[Preview with [Google Books](https://www.google.com/books/edition/Patterns_of_Democracy/GLtX2zJrflAC?hl=en&gbpv=1)\]
+
+ 
+
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 REC #
 {{< thclose >}}{{< thopen >}}
