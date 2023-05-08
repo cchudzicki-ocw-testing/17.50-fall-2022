@@ -141,7 +141,7 @@ Diamond, Larry. “[Liberation Technology](https://www.journalofdemocracy.org/ar
 
 Morozov, Evgeny. “[Liberation Technology: Whither Internet Control?](https://www.journalofdemocracy.org/articles/liberation-technology-whither-internet-control/)” *Journal* *of Democracy* 22, no. 2 (2011): 62–74.
 
-Little, Andrew T. [“Communication Technology and Protest.” (PDF)](https://anthlittle.github.io/files/little_infoaction_web.pdf) *Journal of Politics* 78, no. 1 (2016): 152–66.
+Little, Andrew T. “[Communication Technology and Protest](https://www.journals.uchicago.edu/doi/full/10.1086/683187?platform=hootsuite&mobileUi=0).” *Journal of Politics* 78, no. 1 (2016): 152–66.
 
 Bahrani, Yasmine. “[What is it like to Live in a Modern Surveillance State? Look to Dubai](https://www.washingtonpost.com/opinions/2019/09/10/what-is-it-like-live-modern-surveillance-state-look-dubai/),” *Washington Post*, September 10, 2019.
 
