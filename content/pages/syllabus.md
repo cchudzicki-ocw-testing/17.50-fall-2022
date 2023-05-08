@@ -43,7 +43,7 @@ In formal presentations, there is a strict time limit, so be sure to practice an
 
 Several class sessions are devoted to breakout groups. We will check informally throughout the semester to make sure that everyone is pulling their weight in the breakout groups and adjust participation grades accordingly. If you are concerned that your group cannot reach consensus on any point, you should not try to force one. Rather, use the division in your group to sharpen your argumentation and to highlight the pros and cons of different options. Basically, imagine that you are teeing the issue up for a decision-maker.
 
-## Tests and Exams
+### Tests and Exams
 
 In the first week, we have a pop quiz (which will not be graded). There will also be an exam at the end of the semester that focuses on material *not* covered in other graded assignments (e.g., the readings and lectures from weeks in which no paper was due) and on synthesizing the material from the semester. The goal of this exam is to allow students who took the time to master this material to demonstrate that they have done so. Some questions may require you to extrapolate a bit, but if you have given some thought to the subjects covered in the class, done the reading over the course of the semester, and understood the lectures, you really should not need to study; briefly reviewing your notes ought to be sufficient. The format of the exam changes from one year to the next: it may be a single essay, several shorter essays, a multiple choice exam, or some combination. 
 
