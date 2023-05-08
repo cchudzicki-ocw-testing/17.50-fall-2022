@@ -184,7 +184,7 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 ### Session 22: Further discussion of industrial policy
 
 - Random anecdote<sup>TM</sup>: Anniversary of the Hat Law in Turkey (November 25, 1925)
-- Post at least 250 words of commentary in the Discussion thread for both Question 9 and Question 11 on the Pop Quiz.
+- Post at least 250 words of commentary for both Question 9 and Question 11 on the Pop Quiz.
 
 ## Topic 9: Revolution, democratization, and regime change
 
