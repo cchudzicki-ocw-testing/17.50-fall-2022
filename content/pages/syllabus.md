@@ -33,17 +33,13 @@ Readings are listed under the specific session for which they are required. Ther
 
 See the {{% resource_link "5766748f-26ce-4690-8413-aba30fb6b353" "Readings" %}} section for further detail.
 
-### Recommended Novels, Films, and TV
-
-There are a lot of terrific films and novels out there with a political theme.
-
 ### Class Participation
 
 This subject is designed so that there is extensive class participation. The first day of each week normally involves more in the way of lecture from me to frame the salient issues, provide the necessary background for those unfamiliar with the topic, and generally make sure everyone is on the same page. The second session of each week and the recitation typically involve much more student participation, in the form of breakout groups and presentations. Even the lectures, however, are usually interactive.
 
 I’d ask that you be prepared to participate actively and intelligently in class throughout the semester. For some people, that may mean pushing yourself to talk more than feels instinctively comfortable; for others it may mean holding yourself back. If participation becomes unbalanced, I may “cold call” people.
 
-In formal presentations, there is a strict time limit, so be sure to practice and to time yourself ahead of time; you should make sure to frame your question clearly in the beginning and then move on swiftly to your main points. ***A list of hints for making good presentations is posted on the website***; please go through it before our talk to make sure you have not missed anything. In general, everyone in a breakout group must present.
+In formal presentations, there is a strict time limit, so be sure to practice and to time yourself ahead of time; you should make sure to frame your question clearly in the beginning and then move on swiftly to your main points. 
 
 Several class sessions are devoted to breakout groups. We will check informally throughout the semester to make sure that everyone is pulling their weight in the breakout groups and adjust participation grades accordingly. If you are concerned that your group cannot reach consensus on any point, you should not try to force one. Rather, use the division in your group to sharpen your argumentation and to highlight the pros and cons of different options. Basically, imagine that you are teeing the issue up for a decision-maker.
 
@@ -93,7 +89,7 @@ In the classroom, I obviously keep my personal opinions to myself. If you just a
 
 I may occasionally invite some interesting friends to drop by. If any guests are present, the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) also applies: nothing people say may be attributed to them specifically, and you may not mention that they attended the session.
 
-My wife and I have active two sons (ages 12 and 14) and an even more active dog. Any or all of them may make an unscheduled appearance during the gab sessions, and be advised that you may hear the sound of boys hitting each other with wiffleball bats in the background.
+My wife and I have two active sons (ages 12 and 14) and an even more active dog. Any or all of them may make an unscheduled appearance during the gab sessions, and be advised that you may hear the sound of boys hitting each other with wiffleball bats in the background.
 
 *Curated Outside Reading*
 
@@ -129,4 +125,4 @@ These sorts of exchanges are, in my view, the heart of teaching social science. 
 
 ### Further Classes in Political Science
 
-If you like this class, you will probably like other Course 17 subjects. If you did not like this class, that is surely a result of my deficiencies, and you will like other classes in Course 17 much more.
+If you like this class, you will probably like other [political science](https://ocw.mit.edu/search/?d=Political%20Science&q=political%20science) subjects. If you did not like this class, that is surely a result of my deficiencies, and you will like other political science classes much more.
