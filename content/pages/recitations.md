@@ -109,9 +109,9 @@ Rao, Vijayendra, Kripa Ananthpur, and Kabir Malik. “[The Anatomy of Failure: A
 ## Week 12
 
 - Discussion of Rodrik, et al. and de Soto (what is “dead capital”)
-    - *What does de Soto presume about the state’s role? How realistic is this assumption?*
-    - *Discussion of Rodrik (2009)*
-    - *China as an exception to the question of property rights?*
+    - What does de Soto presume about the state’s role? How realistic is this assumption?
+    - Discussion of Rodrik (2009)
+    - China as an exception to the question of property rights?
 
 ### *Readings*
 
