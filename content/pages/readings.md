@@ -6,7 +6,7 @@ draft: false
 title: Readings
 uid: 5766748f-26ce-4690-8413-aba30fb6b353
 ---
-## Topic 1:  State and government
+## Topic 1: State and government
 
 ### Session 1: Introduction
 
