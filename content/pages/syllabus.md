@@ -6,17 +6,17 @@ draft: false
 title: Syllabus
 uid: b55da6e9-2637-4ecf-b526-5e543a9cda26
 ---
-### Course Meeting Times
+## Course Meeting Times
 
 Lectures: 2 sessions / week; 1 hour / session
 
 Recitations: 1 session / week; 1 hour / session
 
-### Prerequisites
+## Prerequisites
 
 There are no prerequisites for this course.
 
-### Class Objectives
+## Class Objectives
 
 This class addresses the fundamental problems of governance: the rationale for the state and ways to make sure that the state does what is in the best interests of people subject to its authority. The central purpose of the class is to help you think critically about these issues, which will include interrogating the assumptions that you – like everyone else – probably have about them.
 
@@ -27,13 +27,13 @@ The class also has a few corollary goals:
 - To give you practice in writing and presentation; and
 - To provide the foundation for more specialized polisci classes, if you wish to take them.
 
-### Readings
+## Readings
 
 Readings are listed under the specific session for which they are required. There is a logic to the choice of sessions and to the order in which readings are listed. Readings total 50–100 pages per week and should take you at most 4 hours to do. If you have trouble completing the readings in that time, please see me or the teaching assistant about strategies.
 
 See the {{% resource_link "5766748f-26ce-4690-8413-aba30fb6b353" "Readings" %}} section for further detail.
 
-### Class Participation
+## Class Participation
 
 This subject is designed so that there is extensive class participation. The first day of each week normally involves more in the way of lecture from me to frame the salient issues, provide the necessary background for those unfamiliar with the topic, and generally make sure everyone is on the same page. The second session of each week and the recitation typically involve much more student participation, in the form of breakout groups and presentations. Even the lectures, however, are usually interactive.
 
@@ -43,11 +43,11 @@ In formal presentations, there is a strict time limit, so be sure to practice an
 
 Several class sessions are devoted to breakout groups. We will check informally throughout the semester to make sure that everyone is pulling their weight in the breakout groups and adjust participation grades accordingly. If you are concerned that your group cannot reach consensus on any point, you should not try to force one. Rather, use the division in your group to sharpen your argumentation and to highlight the pros and cons of different options. Basically, imagine that you are teeing the issue up for a decision-maker.
 
-### Tests and Exams
+## Tests and Exams
 
 In the first week, we have a pop quiz (which will not be graded). There will also be an exam at the end of the semester that focuses on material *not* covered in other graded assignments (e.g., the readings and lectures from weeks in which no paper was due) and on synthesizing the material from the semester. The goal of this exam is to allow students who took the time to master this material to demonstrate that they have done so. Some questions may require you to extrapolate a bit, but if you have given some thought to the subjects covered in the class, done the reading over the course of the semester, and understood the lectures, you really should not need to study; briefly reviewing your notes ought to be sufficient. The format of the exam changes from one year to the next: it may be a single essay, several shorter essays, a multiple choice exam, or some combination. 
 
-### Grading Policy
+## Grading Policy
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ACTIVITIES
@@ -77,7 +77,7 @@ Final exam
 
 For more information on the activities in the table, see the {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section.
 
-### Other Engagements
+## Other Engagements
 
 *Informal One-On-Ones*
 
@@ -103,7 +103,7 @@ The TA or I will occasionally send you articles on current events. We will choos
 
 I will sometimes begin class with a very brief story or factoid about comparative politics (“Random Anecdote<sup>TM</sup>”), a comment on a recent event, a mention of historically significant event on its anniversary, or something similar. The purpose of these remarks, which are not necessarily relevant to the subject matter for that particular class session (hence the “random”), is to get you thinking about some apparently puzzling political issue.
 
-### Classroom Norms
+## Classroom Norms
 
 My classroom is meant to be a welcoming and comfortable environment. However, it is also a professional one. With this in mind, some rules of decorum:
 
@@ -113,7 +113,7 @@ My classroom is meant to be a welcoming and comfortable environment. However, it
 
 Historically, most students have called me “Professor Lawson”, but some have called me by my first name (“Chappell” -- pronounced like “chapel” -- or “Chap”), and the trend is in that direction. It’s up to you. Of course, you should also free to address me as “*Jefe*”, “Lawson-Zi”, or “*Dominus et Deus*” if you wish to more or less ensure getting extra credit.
 
-### Trigger Warnings
+## Trigger Warnings
 
 I am unconvinced that trigger warnings provide any real psychological benefit – the scientific literature provides grounds for skepticism – and I also find them vaguely infantilizing. Nevertheless, these days some people ask for them.
 
@@ -127,6 +127,6 @@ Comments in class should not be gratuitously insulting. But I am not a fan of pe
 
 These sorts of exchanges are, in my view, the heart of teaching social science. They are why I teach, and why I enjoy teaching – especially students like you.
 
-### Further Classes in Political Science
+## Further Classes in Political Science
 
 If you like this class, you will probably like other [political science](https://ocw.mit.edu/search/?d=Political%20Science&q=political%20science) subjects. If you did not like this class, that is surely a result of my deficiencies, and you will like other political science classes much more.
