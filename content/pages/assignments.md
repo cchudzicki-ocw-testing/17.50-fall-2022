@@ -64,6 +64,6 @@ This paper is due during Session 16.
 
 *2 pages.*
 
-How many refugees should be admitted each year as a percentage of the Compostela’s current population (from 0% to 100%)? What conditions, if any, do you wish to set regarding the types of refugees the colony should accept? What mechanisms of integration for refugees should be created?
+How many refugees should be admitted each year as a percentage of Compostela’s current population (from 0% to 100%)? What conditions, if any, do you wish to set regarding the types of refugees the colony should accept? What mechanisms of integration for refugees should be created?
 
 This paper is due during Session 18.
