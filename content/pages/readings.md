@@ -24,7 +24,7 @@ Hume, David. Selections from “[Of the Origin of Government](http://www.econlib
 
 Dahl, Robert A. “Anarchism.” Chapter 3 in *Democracy and Its Critics.* Yale University Press, 1991. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\]
 
-Fukuyama, Francis. “Preface.” In *State-Building: Governance and World Order in the 21st Century*. Cornell University Press, 2004. ISBN: 9780801442923. \[Preview with [Google Books](https://www.google.com/books/edition/State_Building/Q_utDwAAQBAJ?hl=en&gbpv=1)\] (Read the first three pages only, and not the last paragraph.)
+Fukuyama, Francis. “Preface.” In *State-Building: Governance and World Order in the 21<sup>st</sup> Century*. Cornell University Press, 2004. ISBN: 9780801442923. \[Preview with [Google Books](https://www.google.com/books/edition/State_Building/Q_utDwAAQBAJ?hl=en&gbpv=1)\] (Read the first three pages only, and not the last paragraph.)
 
 ### Session 3: The state and its discontents (2)
 
@@ -189,7 +189,7 @@ Goodman, John B., and Gary W. Loveman. “[Does Privatization Serve the Public I
 
 Ball, Molly. “[The Privatization Backlash](https://www.theatlantic.com/politics/archive/2014/04/city-state-governments-privatization-contracting-backlash/361016/).” *The Atlantic*, April 23, 2014.
 
-Fukuyama, Francis. “The Missing Dimensions of Stateness.” Chapter 1 in *State-Building: Governance and World Order in the 21st Century*. Cornell University Press, 2004, pp. 1–23. ISBN: 9780801442923. \[Preview with [Google Books](https://www.google.com/books/edition/State_Building/Q_utDwAAQBAJ?hl=en&gbpv=1)\]
+Fukuyama, Francis. “The Missing Dimensions of Stateness.” Chapter 1 in *State-Building: Governance and World Order in the 21<sup>st</sup> Century*. Cornell University Press, 2004, pp. 1–23. ISBN: 9780801442923. \[Preview with [Google Books](https://www.google.com/books/edition/State_Building/Q_utDwAAQBAJ?hl=en&gbpv=1)\]
 
 ### Session 20: Broad explanations for economic development
 
@@ -207,11 +207,7 @@ DOUALA. “[The Road to Hell is Unpaved](https://www.economist.com/christmas-spe
 
 Rodrik, Dani, Arvind Subramanian, and Francesco Trebbi. “[Institutions Rule: The Primacy of Institutions over Geography and Integration in Economic Development](https://www.jstor.org/stable/40212696#metadata_info_tab_contents).” *Journal of Economic Growth* 9, no. 2 (2004): 131–65.
 
-de Soto, Hernando. “The Five Mysteries of Capital.” Chapter 1 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
-
-———. “The Mystery of Missing Information.” Chapter 2 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
-
-———. “By Way of Conclusion.” Chapter 7 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003, pp. 208–18. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
+de Soto, Hernando. “The Five Mysteries of Capital,” “The Mystery of Missing Information,” and “By Way of Conclusion.” Chapters 1, 2, and 7 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
 
 Rodrik, Dani. [“Industrial Policy: Don’t Ask Why, Ask How.” (PDF)](https://drodrik.scholar.harvard.edu/files/dani-rodrik/files/industrial-policy-dont-ask-why-ask-how.pdf) *Middle East Development Journal*  1, no. 1 (2009): 1–29.
 
