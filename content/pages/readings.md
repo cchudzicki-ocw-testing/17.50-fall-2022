@@ -20,7 +20,7 @@ Selection from Ibn Khaldun, *Muqaddimah* (*Introduction to a Universal History*)
 
 Selection from Thomas Hobbes, *Leviathan: Or, the Matter, Forme, and Power of a Commonwealth, Ecclesiasticall and Civil* \[1651\], Chapters 13 and 17.
 
-Hume, David. Selections from “[Of the Origin of Government](http://www.econlib.org/library/LFBooks/Hume/hmMPL5.html#Part%20I,%20Essay%20V,%20OF%20THE%20ORIGIN%20OF%20GOVERNMENT).” Part 1, Essay V in *Essays, Moral, Political and Literary*. econlib.org. 
+Hume, David. Selections from “[Of the Origin of Government](http://www.econlib.org/library/LFBooks/Hume/hmMPL5.html#Part%20I,%20Essay%20V,%20OF%20THE%20ORIGIN%20OF%20GOVERNMENT).” Part 1, Essay V in *Essays, Moral, Political and Literary*. 1742. econlib.org. 
 
 Dahl, Robert A. “Anarchism.” Chapter 3 in *Democracy and Its Critics.* Yale University Press, 1991. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\]
 
@@ -129,7 +129,7 @@ No readings assigned.
 
 ### Session 15: Who are the people?
 
-Review Pop Quiz Question 10.
+Review pop quiz question 10.
 
 Fukuyama, Francis. “Tribal Societies: Property, Justice, War.” Chapter 4 in *The Origins of Political Order*. Profile Books, 2011. ISBN: 9781847652812. \[Preview with [Google Books](https://www.google.com/books/edition/The_Origins_of_Political_Order/CvN0ihQi--wC?hl=en&gbpv=1)\] *(Read the section “Law and Justice.”)*
 
@@ -165,11 +165,11 @@ Lozada, Carlos. “[Samuel Huntington, a Prophet for the Trump Era](https://www.
 
 Papademetriou, Demetrios G. “[Policy Considerations for Immigrant Integration](https://www.migrationpolicy.org/article/policy-considerations-immigrant-integration).” Migration Policy Institute. October 1, 2003.
 
-Hamilton, Tracy Brown. “[Losing Identity During the Refugee Crisis: The Difference between Assimilation and Integration in the Classroom](https://www.theatlantic.com/education/archive/2016/05/balancing-integration-and-assimilation-during-the-refugee-crisis/482757/).” *The Atlantic*, May 16, 2016.
+Hamilton, Tracy Brown. “[Losing Identity during the Refugee Crisis: The Difference between Assimilation and Integration in the Classroom](https://www.theatlantic.com/education/archive/2016/05/balancing-integration-and-assimilation-during-the-refugee-crisis/482757/).” *The Atlantic*, May 16, 2016.
 
 Creatura, Isabella. “[Rethinking ‘Integration’ and ‘Assimilation’ of Refugees](https://brownpoliticalreview.org/2017/03/rethinking-integration-assimilation-refugees/).” *Brown Political Review*, March 13, 2017.
 
-Zappi, Sylvia. “[French Government Revives Assimilation Policy](https://www.migrationpolicy.org/article/french-government-revives-assimilation-policy).” Migration Policy Institute. Migration Policy Institute. October 1, 2003.
+Zappi, Sylvia. “[French Government Revives Assimilation Policy](https://www.migrationpolicy.org/article/french-government-revives-assimilation-policy).” Migration Policy Institute. October 1, 2003.
 
 Griffith, Andrew. “[Building a Mosaic: The Evolution of Canada’s Approach to Immigrant Integration](https://www.migrationpolicy.org/article/building-mosaic-evolution-canadas-approach-immigrant-integration).” Migration Policy Institute. November 1, 2017.
 
@@ -201,7 +201,7 @@ No readings assigned.
 
 ### Session 21: Industrial policy and its discontents
 
-“[Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats- BBC Four](https://www.youtube.com/watch?v=kTSxo3175ec).” YouTube. *(video)*
+“[Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC Four](https://www.youtube.com/watch?v=kTSxo3175ec).” YouTube. *(video)*
 
 DOUALA. “[The Road to Hell is Unpaved](https://www.economist.com/christmas-specials/2002/12/19/the-road-to-hell-is-unpaved).” *The Economist*, December 19, 2002.
 
@@ -261,13 +261,13 @@ Morozov, Evgeny. “[Liberation Technology: Whither Internet Control?](https://w
 
 Little, Andrew T. [“Communication Technology and Protest.” (PDF)](https://anthlittle.github.io/files/little_infoaction_web.pdf) *Journal of Politics* 78, no. 1 (2016): 152–66.
 
-Bahrani, Yasmine. “[What is it like to Live in a Modern Surveillance State? Look to Dubai](https://www.washingtonpost.com/opinions/2019/09/10/what-is-it-like-live-modern-surveillance-state-look-dubai/),” *Washington Post*, September 10, 2019.
+Bahrani, Yasmine. “[What Is It like to Live in a Modern Surveillance State? Look to Dubai](https://www.washingtonpost.com/opinions/2019/09/10/what-is-it-like-live-modern-surveillance-state-look-dubai/),” *Washington Post*, September 10, 2019.
 
 Farrow, Ronan. “[How Democracies Spy on Their Citizens](https://www.newyorker.com/magazine/2022/04/25/how-democracies-spy-on-their-citizens).” *The New Yorker*, April 18, 2022. 
 
-Satariano, Adam, and Paul Mozur. “[Russia Is Censoring the Internet, With Coercion and Black Boxes](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html),” *New York Times*, October 22, 2021.
+Satariano, Adam, and Paul Mozur. “[Russia Is Censoring the Internet, with Coercion and Black Boxes](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html),” *New York Times*, October 22, 2021.
 
-“[Why China’s Social Credit System is Worse Than You Think](https://www.youtube.com/watch?v=fM3KONWxgIo).” YouTube. *(video)*
+“[Why China’s Social Credit System Is Worse Than You Think](https://www.youtube.com/watch?v=fM3KONWxgIo).” YouTube. *(video)*
 
 Marr, Bernard. “[Chinese Social Credit Score: Utopian Big Data Bliss or Black Mirror on Steroids?](https://www.forbes.com/sites/bernardmarr/2019/01/21/chinese-social-credit-score-utopian-big-data-bliss-or-black-mirror-on-steroids/?sh=630c38d48b83)” *Forbes*, January 21, 2019.
 
