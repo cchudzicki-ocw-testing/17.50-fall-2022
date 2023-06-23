@@ -76,12 +76,12 @@ Lijphart, Arend. *Patterns of Democracy: Government Forms and Performance in Thi
 ## Week 7
 
 - Breakout groups
-    - Detailed discussion of Rao et al. \[35 min\]
+    - Detailed discussion of Rao, et al. \[35 min\]
     - Buzz groups: You are the largest landowners in your county/village of 10,000 people, collectively owning about half of the arable land. The progressive national government has announced that in one week it will send an agricultural inspector who will (a) measure all landholdings in preparation for potential land reform legislation, (b) encourage smallholders in the community to form a cooperative, and (c) help landless villagers form a farmers’ union. What do you do? \[20 min\]
 
 ### *Reading*
 
-Rao, Vijayendra, Kripa Ananthpur, and Kabir Malik. “[The Anatomy of Failure: An Ethnography of a Randomized Trial to Deepen Democracy in Rural India](https://www.sciencedirect.com/science/article/pii/S0305750X17302115).” *World Development* 99 (2017): 481–97.
+Rao, Vijayendra, Kripa Ananthpur and Kabir Malik. “[The Anatomy of Failure: An Ethnography of a Randomized Trial to Deepen Democracy in Rural India](https://www.sciencedirect.com/science/article/pii/S0305750X17302115).” *World Development* 99 (2017): 481–97.
 
 ## Week 8
 
