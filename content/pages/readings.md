@@ -104,7 +104,7 @@ No readings assigned.
 
 ### Session 13: Monitoring street-level bureaucrats
 
-Fordham, Alice. “[App Aims to Track Engrained Corruption in Lebanon](https://www.npr.org/2015/03/09/391795425/app-tries-to-track-engrained-corruption-in-lebanon).” NPR. March 9, 2015.  (*Make sure to listen to the interview rather than read the transcript.*)
+Fordham, Alice. “[App Aims to Track Engrained Corruption in Lebanon](https://www.npr.org/2015/03/09/391795425/app-tries-to-track-engrained-corruption-in-lebanon).” NPR. March 9, 2015. (*Make sure to listen to the interview rather than read the transcript.*)
 
  “[Corruption and Economic Development](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/799831538245192753/helping-countries-combat-corruption-the-role-of-the-world-bank).” Chapter 2 in *Helping Countries Combat Corruption: The Role of the World Bank.* The World Bank Group. 1997.
 
@@ -205,7 +205,7 @@ No readings assigned.
 
 DOUALA. “[The Road to Hell is Unpaved](https://www.economist.com/christmas-specials/2002/12/19/the-road-to-hell-is-unpaved).” *The Economist*, December 19, 2002.
 
-Rodrik, Dani, Arvind Subramanian, and Francesco Trebbi. “[Institutions Rule: The Primacy of Institutions over Geography and Integration in Economic Development](https://www.jstor.org/stable/40212696#metadata_info_tab_contents).” *Journal of Economic Growth* 9, no. 2 (2004): 131–65.
+Rodrik, Dani, Arvind Subramanian, and Francesco Trebbi. “[Institutions Rule: The Primacy of Institutions over Geography and Integration in Economic Development](https://www.jstor.org/stable/40212696#metadata_info_tab_contents).”*Journal of Economic Growth* 9, no. 2 (2004): 131–65.
 
 de Soto, Hernando. “The Five Mysteries of Capital,” “The Mystery of Missing Information,” and “By Way of Conclusion.” Chapters 1, 2, and 7 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
 
@@ -243,7 +243,7 @@ No readings assigned.
 
 ### *Recommended films for the week:*
 
-[*Bahrain: Shouting in the Dark*](https://www.imdb.com/title/tt2203745/?ref_=nv_sr_srsg_0). Directed by May Ying Welsh. Color,  51 min. 2011.
+[*Bahrain: Shouting in the Dark*](https://www.imdb.com/title/tt2203745/?ref_=nv_sr_srsg_0). Directed by May Ying Welsh. Color, 51 min. 2011.
 
 [*Z*](https://www.imdb.com/title/tt0065234/?ref_=fn_al_tt_1). Directed by Costa-Gavras. Color, 127 min. 1969.
 
@@ -283,7 +283,7 @@ Huxley, Aldous. *Brave New World*. Harper Perennial, 2006. ISBN: ‎978006085052
 
 Orwell, George. *Nineteen Eighty-Four*. Orion, 2022. ISBN: 9781473234819. \[Preview with [Google Books](https://www.google.com/books/edition/Nineteen_Eighty_Four/SN4wEAAAQBAJ?hl=en&gbpv=1)\]
 
-Eggers, Dave. *The Circle*. Knopf Doubleday Publishing Group, 2013. ISBN: 9780385351409.  \[Preview with [Google Books](https://www.google.com/books/edition/The_Circle/sbxWAAAAQBAJ?hl=en&gbpv=1)\]  
+Eggers, Dave. *The Circle*. Knopf Doubleday Publishing Group, 2013. ISBN: 9780385351409. \[Preview with [Google Books](https://www.google.com/books/edition/The_Circle/sbxWAAAAQBAJ?hl=en&gbpv=1)\] 
 
 [*Logan's Run*](https://www.imdb.com/title/tt0074812/?ref_=nv_sr_srsg_0). Directed by Michael Anderson. Color, 119 min. 1976.
 
